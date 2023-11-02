@@ -1,0 +1,9 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Briggs. How's it going? It's Patrick from over at Nook.
+3. [Prospect]  Do I know you? I'm sorry.
+4. [Sales Rep]  Sorry. I I I said this is, this is Patrick calling from Nook's, and this is totally a cold call. But do you have 3 seconds? I can tell you why I'm calling you, and if you the reason you can feel free to hang up on me. Is it probably a good deal?
+5. [Prospect]  I'll give you 10 seconds.
+6. [Sales Rep]  Alright. 10 seconds. So, really, what we're helping teams do is increase call activity, increase conversations and ad pass per day, and increase meetings generated through the cold calling channel to help your team Have more conversation. You're cold calling reps. So I'm curious, you know, that's
+7. [Prospect]  I'm gonna stop you. Sorry. I'm gonna stop you now. So I work for MSCI. You probably saw that on LinkedIn. I am not a manager, and we don't really cold call. All of our clients are, like, already clients, and we don't call call. We're we're working, like, business to business, so I don't think I'm a prospect
+8. [Sales Rep]  Gotcha. I'll make sure not to call you back. I appreciate giving me that context.
+9. [Prospect]  What's

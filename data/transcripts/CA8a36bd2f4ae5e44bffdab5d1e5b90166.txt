@@ -1,0 +1,14 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Colin.
+3. [Prospect]  Yeah. Who's this?
+4. [Sales Rep]  Hi, Colin. It's, it's Cameron over at Nook's. Totally frank. This is a, a cold call. Do you have 30 seconds to hear me out? See if it makes sense to chat.
+5. [Prospect]  Could you actually give me a callback in, like, I don't know,
+6. [Sales Rep]  It's
+7. [Prospect]  3 hours?
+8. [Sales Rep]  I can call you back in 3 hours. Yeah. About 5 PM EST.
+9. [Prospect]  Yeah. I know that's right at the closing time for you, but I'll pick up. I just, right now, it's my my mother in law's coming into town, at midnight tonight, So it's cleaning central for me, so that's kind of where I'm at right now.
+10. [Sales Rep]  Oh, wow. Awesome. Yeah. Get ahold of that. I'll call you at 5. Just just to make sure it makes sense, is your team are they pretty heavy heavy on outbound cold calling?
+11. [Prospect]  Not really right now. I'll be honest with you. We're working a lot with what marketing generating scores of driving events.
+12. [Sales Rep]  Okay. Alright. I might I might save you some time, but, yeah, certainly Lee, have a have a good time with the mother-in-law and
+13. [Prospect]  Alright. Thanks, man. Have a good rest of your day.
+14. [Sales Rep]  get ready. Yeah. You too, Collin. Thanks.

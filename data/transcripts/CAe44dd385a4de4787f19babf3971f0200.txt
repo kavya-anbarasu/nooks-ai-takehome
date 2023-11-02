@@ -1,0 +1,50 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Nicky, this is Josh with Nook. How's your Wednesday treating you?
+3. [Prospect]  Who is this? I'm sorry.
+4. [Sales Rep]  No. No. No. You're good. I I it sounds like you're busy. I can hear a dog barking in the background. Mine was just barking.
+5. [Prospect]  My my dog my Target does not, for whatever reason, does not like, Me talking on the cell phone. It's like you feel left out or something.
+6. [Sales Rep]  Nah. I I feel that. Mine doesn't like squirrels when they run by, so if one runs by, you'll know it. But I
+7. [Prospect]  They all have this port still today.
+8. [Sales Rep]  right? Totally. I Becky, I'm I'm calling from Nook's. Do you have 30 seconds? If I missed the mark, I'll just I'll throw my phone at the wall.
+9. [Prospect]  Okay. Listen. I appreciate you calling. I appreciate a good cold call. You got the report going on. I'm just gonna tell you straight up. I'm laid off right now. I'm not a decision maker.
+10. [Sales Rep]  Yeah. Oh, no.
+11. [Prospect]  I know. So, hey, if your team is looking for a DDR manager, well,
+12. [Sales Rep]  I'm sorry to hear that.
+13. [Prospect]  you got referrals. You could call me back, my friend.
+14. [Sales Rep]  Hey. You know what? I, I don't know when we are, but we are. And I know, like, you Adobe, Snyk, Cyber GRX. We clearly know what you're doing.
+15. [Prospect]  Thank you. How you did your research? Great job. You know what? You know what? I'm gonna let you pitch just to hear, and I'll give you
+16. [Sales Rep]  Let me Alright. Yeah. No. I appreciate that. Our whole thing is, I mean, connect rates are down across the whole industry for every SDR manager, BDR manager I'm talking to, and so Your reps are having to spend way more time on the phone just to get the same amount of connects they used to get. And so, alright, Nook's is the AI parallel dialer. So I'm I'm calling you out of Nook's right now. I've made 30 calls in 5 minutes. Like, it just burns through it a lot faster. So I'm having more conversations,
+17. [Prospect]  I will Got it.
+18. [Sales Rep]  more at bats, Booking more meetings, all that. Like, that's I mean, I'm I'm
+19. [Prospect]  So let me ask you this Because the last time we had that, like, we used the parallel dialer, and,
+20. [Sales Rep]  yeah.
+21. [Prospect]  I had my, like, you know, Concerns about it. Like, is it necessary to find as many people at once when, like you know, the The prospect list isn't huge. And, also, I found that a lot of times, it didn't happen on this call, but with the one we were using, you know, it'd be like you know, because of, like, calling so many people at once, if somebody did pick up, there would always be a lag.
+22. [Sales Rep]  Yeah. Yeah. Were you guys using Orum over at at CyberGRX?
+23. [Prospect]  So, like no. I was looking into them. I was, like, late stage talks about,
+24. [Sales Rep]  I think
+25. [Prospect]  starting a demo there. We but not using the parallel calling function
+26. [Sales Rep]  Yeah.
+27. [Prospect]  just as an integration into Outreach.
+28. [Sales Rep]  You?
+29. [Prospect]  What were you using? Oh my goodness. It was such a small company. Like, I don't know how, like, the director before me, like, implemented it. I think it was, like, only 4 people. What was it called?
+30. [Sales Rep]  Like, I think I talked to one of your SDRs over there. I'm trying to remember. It wasn't con
+31. [Prospect]  I'm trying to remember. And these guys were awful, like, you know, like,
+32. [Sales Rep]  is it concert or connect and sell?
+33. [Prospect]  It was oh, gosh. I can't remember. I cannot remember. But, like, They like, when I first came on, I was like, okay. Like, you know, show me how to use this. I've never used a TruePalo dialer before. And it was like an upsell session and trying to take away, like, some of the things that were promised in our contract. And then I actually saw the contract itself, and there was What's your what's your you are a BDR. Correct?
+34. [Sales Rep]  I am. Yeah. I am. Yeah.
+35. [Prospect]  Okay. Once Cancel cycle. You understand more about the contracts and things like that. This contract was so bad that way.
+36. [Sales Rep]  Yeah. Yeah.
+37. [Prospect]  When we had our lawyers look at it, there was no, like, Cancellation fee. There was nothing. Like, it was pretty it was, like, it was pretty piss poor of a company, which put it back into my mouth about the parallel
+38. [Sales Rep]  Oh my goodness. You? Yeah. You know?
+39. [Prospect]  dialing aspect. So let me ask you, especially in these spaces like
+40. [Sales Rep]  Yeah.
+41. [Prospect]  cybersecurity, where you really are, like, You know, the personas, like, there's really only a few of them at each company. Is your company, does that does it allow it to turn the parallel aspect off And just be integrated into Outreach as a dialer without having to go into each different record to call, because
+42. [Sales Rep]  Yeah. Yeah. I I'm I was just actually browsing through my notes. I talked to Cassandra Mosier Mosier.
+43. [Prospect]  Oh, no. That's that's She's she's a good one. I'm a she was my she was my rep, and she is, that girl's gonna be a rock Sorry.
+44. [Sales Rep]  Yeah. She said she told me that you guys were using self finity. Amazing. I love that. I yeah. So, basically, like, if you're If you don't wanna be calling multiple people at a time, you can with Nook's, you can call from 1 to 5 people at a time. So even if you just wanna do one One person at a time. We integrate with Outreach, and so you would make your calls, pull up your sequence inside Nook's, and you could call 1 at a time. It's still way faster because you're not having to click all the
+45. [Prospect]  Okay. But but now it's still, like, 1 after the other. Correct? And then just, like, like, it would auto, like,
+46. [Sales Rep]  Yeah. Exactly. It if you don't you'd literally hit go and it just starts dialing until you get a connect. You don't have to hit anything. So Even just having to not like put the outcome of the call, hit next, wait for the page to load, like all, I mean it saves you 30, 40 seconds per call even if you're just doing 1 at a time, but I like doing I like doing 3 at a time because it doesn't get too crazy, but I can still go through my call list a little bit quicker. So even if nobody picks up, like It takes me a quarter of the time, so then I have that time back for emails or something else. You know?
+47. [Prospect]  Awesome. Beautiful. Mhmm. Of course. And I also like when I answered, like, and immediately connected, which this other company did not. Like, I went through 6 months of call recordings, so I was like, there is no way that we only have a 0.3% connection rate without there's something being wrong. My at my prior company, if someone had that low connection rate, I'd be looking into if they were making fake dials.
+48. [Sales Rep]  You? Yeah. Yeah. No. A 100%. Let's I mean, we
+49. [Prospect]  And it really, like, blurred out to the fact that, like, there was such a delay that there'd be a hang up. Like, I would hear in the outreach recordings my reps like, the other person being, like, hello. Hello. And then maybe 3 seconds later, like, one of my reps being, like, hello. And then already the conversation off to, like, a terrible start because it's, like,
+50. [Sales Rep]  Yeah. They're feeling annoyed. Yeah. That we I mean, we were having every every parallel dialer has gone through that. It's just a matter of if you have the engineers to fix it. Like, we actually I trialed Nook's when I was at my last company and there was a delay like that, and so I was not a big fan at first. And then we reached out to our CSM who was running our trial. They Took that feedback. They literally, like, had an engineer working on it and then

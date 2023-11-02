@@ -1,0 +1,12 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Reggie. This is Shar Debuti with Nooks. Can you hear me okay? Oh, with Nooks. It sounds like it sounds like I'm catching you at a busy time. I could give you a callback some other time.
+3. [Prospect]  Yeah. Tell me who you're with again.
+4. [Sales Rep]  Nooks, n o o k s.
+5. [Prospect]  What do you guys do? No.
+6. [Sales Rep]  Does that ring a bell? Oh, okay. Appreciate the shot. We're AI conversation platform. I was reaching out because I saw the business development director at, in Avalon. Sorry. I can't pronounce that. Was curious if your reps are hitting the phones like I am today trying to generate pipeline.
+7. [Prospect]  You know, they, we've we've we've got a whole business development team that does that. I don't have anything to do with any AI or anything like that. So I'm not even sure who I'd reach out to. I I'm not even sure who I'd reach out to to refer you to.
+8. [Sales Rep]  Oh, I got you. Alright. No worries. So your title, is that more of, like, individual contributor role? Is that what I'm understanding?
+9. [Prospect]  Alright. Yes. Yep.
+10. [Sales Rep]  Okay. Alright. Thanks for the thanks for the direction. Yeah.
+11. [Prospect]  Yep. No. I'm I'm in I'm in sales. I'm not in, business or
+12. [Sales Rep]  Yeah. Okay. Thanks, man. Appreciate you, Reggie. Alright.

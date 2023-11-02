@@ -1,0 +1,8 @@
+1. [Prospect]  Paul speaking.
+2. [Sales Rep]  Hey, Bart. Skyler with Nook. Actually, saw you were VP of sales. Shot in the dark here, but curious if you got reps making cold calls by any chance.
+3. [Prospect]  Actually, I don't. Yeah. I'm I'm actually Individual contributor. I'm in Fintech, so I I guess they just kept our titles as VP, so it's a little misleading.
+4. [Sales Rep]  Okay.
+5. [Prospect]  But, Yeah. Sorry.
+6. [Sales Rep]  No no worries. Do you know if anybody over there is making cold calls or is that not part of the the go to market strategy?
+7. [Prospect]  No. We we we still have some people making cold calls. You, do you have an email? I can forward your email along.
+8. [Sales Rep]  Yeah. I've got your email here, so I'll go ahead and shoot you. It'll just have, like, a quick overview of what we do with, like, a little video. And then if it's interesting, feel free to pass that on. Okay? Hey. Hope you have a good one.

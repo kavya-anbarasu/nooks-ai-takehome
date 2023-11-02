@@ -1,0 +1,30 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Matthew.
+3. [Prospect]  Yeah.
+4. [Sales Rep]  Hey, Matthew. It's, Cameron Baker over at Nook's. Totally frank, this is a, cold call. Do you have 30 seconds to hear me out? See if it makes sense to chat. Oh, cool. Okay. Well, you already know my pitch then is, I guess I'll ask Yeah. How important is, is cold calling to your own pipeline, Jen, over there?
+5. [Prospect]  It's definitely something we're putting a focus to now but I wouldn't say It's not ready. We're not doing enough to get us to buy any software and do it. Like, right now, we're going from What was a 0 cold call team, but now they're making, like, 15 calls a day.
+6. [Sales Rep]  Right.
+7. [Prospect]  So we are working our way up. We're not doing, like, the dramatic change of you're going from 0 to a 100 dials a day.
+8. [Sales Rep]  Right.
+9. [Prospect]  But, again, not enough that would that would let me get any kind of investments for a tool for for for Colin.
+10. [Sales Rep]  Right. Right. Absolutely. Yeah. So I'm I'm guessing your plan though is to ramp that up to quite a bit more than than 15 as well as long as you're seeing some early success.
+11. [Prospect]  Yeah. We're now hiring a few new people who have that background in them,
+12. [Sales Rep]  Yeah.
+13. [Prospect]  who like our natural call callers, and we're hoping that one day success, everyone will lean in. One other thing that maybe Nook has changed since The last time I saw it, we're not a remote office. So the digital dial floor Wouldn't really be something that we I mean, not that we wouldn't need. We we are hybrid, so there's, like, 2 days a week where we're not in. So the is there anything else outside the the DialStore that that Nuxt is doing with that?
+14. [Sales Rep]  Oh, well, I I'd say that our primary component is is the parallel dialer, right? So our, our parallel dialer and the sales floor are, are separate, in the same platform, but, you know, I'd say that that that parallel dialer comes first when it comes to ROI whether you're in an office or not. So We currently have a lot of in office teams that are using that for sure.
+15. [Prospect]  When you say parallel dialer, is this Like more than 1 dial at one time, or is it where it's just gonna call, like I put my list in, it's just gonna automatically work its way through
+16. [Sales Rep]  You can do either or. I mean, you can do 1 at a time. We'd call that power dialing or you can do parallel. So the way that I work is As I normally choose to call 3 people at a time, that's kind of my sweet spot. But, yeah, it sounds like we might not have actually we had that parallel dialer when you you last took a look at us.
+17. [Prospect]  No, it was just a digital office
+18. [Sales Rep]  Oh, I see.
+19. [Prospect]  Why don't I ask off on you guys?
+20. [Sales Rep]  Yeah. Yeah. We've changed quite a bit. So kind of our our primary focus right now is is the parallel dialer. So essentially just speeding up that That path to conversations for your rep, you know, allowing them to to especially when they're at a higher volume for outbound cold calling, able to able to tackle that in a manageable way and and spend their time talking to prospects.
+21. [Prospect]  Good. I was having a chat with someone, the name has escaped me now. I think it's Matthew, so it's Matthew Pruitt from Phoneburner, I think it was called. They fly a little bit about the paradox there on that, like they're seeing more now again, maybe it's just They're deployed. But it's showing that with those parallel dollars, it's being flagged a lot more as spam
+22. [Sales Rep]  Yeah. Phone phone burner.
+23. [Prospect]  Got it. The power dollar.
+24. [Sales Rep]  James over at Phoneburner has kind of declared us a competitor of his. So, yeah, I'd I'd I'd say that that's not the case. I mean, my average connect rate hovers between 12 15%. We are Twilio and our service provider let us know when any one of your, when when any one of your phone numbers is marked as spam, and you can cycle those out. And we give you full reporting on your connect rates at all times so that we can if you get that trigger that it's showing up as spam, you can Use the new phone number at any time. So might be a matter of in, but I I don't find that that's the case
+25. [Prospect]  Good. Like I said, it's probably a little bit early for us to look into something like this, but, I mean, no things have changed since I last spoke. If you're ending on the parallel power dialer. Sorry. My kids screaming in the background.
+26. [Sales Rep]  Quite a bit. Yeah, no worries.
+27. [Prospect]  If you have anything on the dialer side, can you send it over to me before I look We are ready. It'll have oh, my I have a folder for, or 2 that I wanna look at in the future.
+28. [Sales Rep]  Yeah. Yeah. Absolutely. I'll get that your way. I'll shoot you a a connect request on LinkedIn. I'll look forward to, touching base with you in the future when things grow up.
+29. [Prospect]  Cool.
+30. [Sales Rep]  Cool. Alright. Thanks for taking the call, Matthew. Yep. Take care. Bye bye.

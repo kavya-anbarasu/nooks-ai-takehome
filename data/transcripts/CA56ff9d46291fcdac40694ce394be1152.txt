@@ -1,0 +1,7 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Aidan. How's it going, man? It's it's Patrick calling from notes. Happy Halloween.
+3. [Prospect]  Hey. Have you already where'd you send your phone from?
+4. [Sales Rep]  I'm calling from Nook's. We actually spoke a couple of weeks ago, On a call, we ran through a quick demo, around how, like, Park Place can help increase basically the amount of conversations the team is having on a daily basis. Does that ring a bell at all? Or are you, you
+5. [Prospect]  It it no. It does, but I apologize. Could you give me a callback I'd like 3:15 or something, maybe tomorrow. I'm just actually right about to be in the middle of something.
+6. [Sales Rep]  Yeah. A 100%,
+7. [Prospect]  Okay.

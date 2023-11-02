@@ -1,0 +1,20 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi, OJ.
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hey, OJ. It's, Cameron over at Nooks. Totally frank. This is a a cold call. Do you have 30 seconds to hear me out and see if it makes sense to chat?
+5. [Prospect]  From, where? I'm sorry.
+6. [Sales Rep]  I'm I'm with Nook's, like books with an n. Have you heard of us?
+7. [Prospect]  No. Yeah. Yeah. Just real quick. What's going on?
+8. [Sales Rep]  Yeah. Appreciate that. I'd simply curious at first is, is cold calling? Is that also an important part of, of your pipeline gen efforts at Hotel Engine.
+9. [Prospect]  Yeah.
+10. [Sales Rep]  Awesome. How are how are your reps going about that in the moment? Do they use, say, like, their their CRM or, like, a SalesLoft Outreach to get that done.
+11. [Prospect]  Yeah. We use Outreach.
+12. [Sales Rep]  Heard. Gotcha. So I'll just share a few challenges we're hearing from from other teams like your that are cold calling o j. So, taking a lot more connects to actually or or connect rates are low, and it's taking a lot more dials to to drive meaningful pipeline than it was in the past. In response, we're seeing a ton of activity gaps between reps. So only some reps on the team are actually putting in, You know, enough dials every day to drive meaningful pipe. In addition to that, it can can be a little bit difficult with those disconnect rates and other issues to to pivot and enable on messaging for the team without listening to every call one after the other. Does any of that that sit with you or a challenge you're facing or am I totally off track with that?
+13. [Prospect]  I mean, it sounds about right. But, I'm kind of in between meetings. I have to catch up on a few things. If you could, I think maybe sending me an email outlining kind know what you guys offer. I can shoot up, you know, the chain and see if there's any traction.
+14. [Sales Rep]  Yeah. Yeah. I can absolutely do that. If you don't mind, like, is is, You know, KPI activities or KPIs and activity, connect rates or or enablement, or Is any one of those things I mentioned more of a focus than other for you at the moment?
+15. [Prospect]  Tell me that one more time, then probably after that, we've gotta go. What was it?
+16. [Sales Rep]  No worries. I'll I'll just shoot an email your way, o j. Is that oj.melina@hotelengine?
+17. [Prospect]  Yes.
+18. [Sales Rep]  Cool. I'll get that your way. I'll shoot you a connect on LinkedIn and, and we'll go from there.
+19. [Prospect]  Alright. Cool. Sounds good. Thank you.
+20. [Sales Rep]  Thanks, OJ. Yeah. Take care.

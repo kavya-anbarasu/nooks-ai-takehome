@@ -1,0 +1,36 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Logan, this is Josh from Nook's. I think I I got disconnected there. How's it going, man?
+3. [Prospect]  No. I hung up on you. I'm just I'm what is this about?
+4. [Sales Rep]  Man, it's a rough Friday. Yeah. I'm we're AI parallel
+5. [Prospect]  What now?
+6. [Sales Rep]  dialer. Do you have we're a AI generated parallel dialer. I don't you have 30 seconds, Logan? If I missed the mark, I'll just hang up on myself.
+7. [Prospect]  I'll give you 30 seconds.
+8. [Sales Rep]  I appreciate you, man. I I know, like, you being a SDR manager, I'm sure you got a bunch of those annoying SDRs like me making cold calls. Is that, am I on base there, or am I off?
+9. [Prospect]  Yeah. You're you're on base.
+10. [Sales Rep]  K. Sounds good. I so, Logan, like, you you tell me if I'm wrong here, but I'm talking to, SGR managers every day. And when it comes to making cold calls, Some challenges that they're all bumping into is connect rates are low, actually getting their reps to make more more dials, and then just getting people on the phone they can have these live conversations and actually book meetings. Is that something that your team is bumping into at all, or do you have something in place that just make sure that never happens?
+11. [Prospect]  Well, to be honest with you, I am not a BDR manager anymore. I'm actually an
+12. [Sales Rep]  Okay. Like, an account executive, or what do you mean?
+13. [Prospect]  executive. Yeah. An account executive.
+14. [Sales Rep]  Oh, let's go. Cool, man. How long ago did you make the switch from the manager to executive?
+15. [Prospect]  Well, I've I've transitioned to another company. So, Basically, just probably about a month a little bit over a month ago.
+16. [Sales Rep]  Oh, you know what? Dang it. Yeah. I see that here, man. I'm tripping. I did not update my CRM notes because I see you jumped over, yeah, started a new role in September. That's cool, man. Congrats.
+17. [Prospect]  Yeah. So I'm a little confused, and, again, I'm sorry I'm in the middle of my lunch. I'm, I'm just, so y'all are, what are you selling? What are y'all offering?
+18. [Sales Rep]  Yeah. So basically NUCs is a parallel dialer. So when SDRs, BDRs, even account executives, when you're going to make Cold calls. Doing it 1 at a time through Outreach or SalesLoft takes forever. Nothing worse than spending an hour to make $40 and have no one pick up. And so We integrate. We play nice with those tools so you can go through and you can call between 1 5 people at a time so that you're just getting way more connects, way more at bats, and just getting through it a lot quicker. So we're helping SDR teams just generate more pipe to feed you AEs a little bit better.
+19. [Prospect]  Gotcha. Well, I mean, it sounds cool and all, but, I mean, I think you're talking the wrong person. I mean, I would I don't have a team under being
+20. [Sales Rep]  Yeah. Yeah. No. Totally. Totally fair. Do you know, Logan? I'm I'm like, I know that this isn't your space anymore, but, selfishly, like, I got you on the phone if you're willing here. Do you know of With Motive, are they making a lot of cold calls over there? I'm guessing they are, but
+21. [Prospect]  They are. And, I mean, you know, that they are. Yeah. They they probably make close to 80 a day. So in the in the BDR role
+22. [Sales Rep]  Okay. Yeah. Are they is that, like, what what I described as far as, like, you're making calls, not a lot of people are are picking up, So you it's hard to book meetings off the phone when nobody's answering. Is that something the team over there when you were managing it, is that something they were bumping into?
+23. [Prospect]  I mean, yeah, I would say the normal amount Out of no pickups, I mean, there's other macroeconomic problems to to to that industry, though, and logistics. I mean, that's Probably obvious. I mean, people aren't people aren't necessary care caring to purchase hardware equipment right now. They're more so trying to hire. So, But, I mean, yeah, I mean, you're always gonna have the the no pickups.
+24. [Sales Rep]  Totally. Totally. Do you know, man, I appreciate you I appreciate you giving me help here. Do you Oh, with you gone, who would be the best person to reach out to over there? I'm just trying to see, like, who been running around chasing my own
+25. [Prospect]  I don't like giving out, I really don't like giving out anyone's personal information. No. I I get what you're trying to do, but at the same time, I just I can't do that. You know? I I was with that company for a while, and,
+26. [Sales Rep]  That's totally fair. Yeah. No.
+27. [Prospect]  No. I mean, I will say, like,
+28. [Sales Rep]  No. That's
+29. [Prospect]  I don't even know. I I I can't even give you I don't know what to give you. I can't give you someone's personal information or anything like that because I don't I don't work here anymore. You know, it'd be different if I was still associated with the business, but
+30. [Sales Rep]  Yeah. Yeah. No. I was just, like, I totally.
+31. [Prospect]  You know?
+32. [Sales Rep]  Yeah. I just I've been reaching out to the guys like Brian, Reading. I'll just I'll keep hitting them up till I get somebody on the phone and see if it's something that
+33. [Prospect]  Well, we'll say if you're calling reading, don't call them reading. The I would his name's Redding. So just if if he does, that's what the home ready. Yeah.
+34. [Sales Rep]  Okay. Reading. I'd I'd appreciate that. I will not pronounce it reading. K. Cool. Well, Logan, I appreciate your help, man, and, best of luck in the new role.
+35. [Prospect]  Yeah. I appreciate it, man. Have a good one.
+36. [Sales Rep]  Hey. You too. Talk to you there. Bye.

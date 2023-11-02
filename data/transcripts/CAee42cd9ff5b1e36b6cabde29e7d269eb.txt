@@ -1,0 +1,8 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey. How's it going, Kyle? It's Patrick from Nook's. How's your, how's your Friday going?
+3. [Prospect]  From where?
+4. [Sales Rep]  From, Nook. Any chance you've ever heard of us?
+5. [Prospect]  Yes. No. Yes. Yes. Yes. This is, like, the worst time I'm in. It's Friday, and I'm trying to push the team to call. I don't even have a second.
+6. [Sales Rep]  Oh my god. No worries, man.
+7. [Prospect]  So call me back next
+8. [Sales Rep]  Will do. Cheers, Kyle.

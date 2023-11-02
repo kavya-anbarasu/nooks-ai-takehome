@@ -1,0 +1,24 @@
+1. [Prospect]  Hello? Hello?
+2. [Sales Rep]  Yeah. Hey,
+3. [Prospect]  Sorry. What what company?
+4. [Sales Rep]  I'm with Nook. I had you as a director of biz dev over at. I I was just curious if your reps, are they are they making cold calls as well?
+5. [Prospect]  Are our reps making cold calls? Yes. They do.
+6. [Sales Rep]  Okay. How are they doing that today? Are they, like, doing that out of, like, SalesLoft or an outreach? Or
+7. [Prospect]  You got it.
+8. [Sales Rep]  Awesome. Hey, Ben. I don't know if, if this is relevant to you at all, but talking to biz dev leaders every day, I think, You know, something that I commonly hear is that that most of the time that a rep spends on a call block is is kinda wasted listening to the ringtone, logging no answer tasks, and that, you know, a lot of reps are making spending 2 to 3 hours calling every day only to have a a handful of conversations to show for it. Is that something you're seeing with the team as well, or am I I totally off track with that?
+9. [Prospect]  I mean, I think we expect around 50 calls a day, and that usually garners, like, 2 to 3 conversations, Typically speaking?
+10. [Sales Rep]  Okay. So that's, like, 2 to 3
+11. [Prospect]  So we don't actually look for a high volume of phone calls. I think Your product, if I'm reading between the lines, is a dialer system. Is that right?
+12. [Sales Rep]  Yeah. Yeah. We, part of it is the dialer for sure.
+13. [Prospect]  Yeah. I mean, I'll be honest, man. I've talked to so many dialers, dialer sellers, all that kind of stuff. I have no interest in something like that. It's Just not really solving any business problems for us.
+14. [Sales Rep]  Right. I hear you. So you you've you've already explored the likes of, You know, Orem and
+15. [Prospect]  Yeah. Or I'm good Lord. They won't leave me alone. Yeah. I talked to them like 2 years ago. They keep calling, but like I said, it's, I'm actually not a big believer in dialers to begin with. I can absolutely tell when someone uses a dialer. Did you use the dialer, by the way, when you called me?
+16. [Sales Rep]  others. Okay. I
+17. [Prospect]  Yeah. Because there was a delay before you answered. So I I'm just not a big believer in it, man.
+18. [Sales Rep]  did. Yes.
+19. [Prospect]  You're yeah. I'm not a good person to talk to for this.
+20. [Sales Rep]  I hear you. And I got I got a similar sentiment from a a BDR manager over there at Cariba, so I'll, I'll take that as fact, and,
+21. [Prospect]  Alright.
+22. [Sales Rep]  I appreciate you taking the call, Ben.
+23. [Prospect]  K.
+24. [Sales Rep]  Yeah.

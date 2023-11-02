@@ -1,0 +1,42 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Peter,
+3. [Prospect]  Hello?
+4. [Sales Rep]  Peter, it's Josh with with Nook. How's your Wednesday treating you?
+5. [Prospect]  Pretty good. I'm sorry. Who's calling?
+6. [Sales Rep]  Yeah. This is it's Josh with notes. Straight up, Peter. I know I'm I'm calling you out of the blue here. Do you have 30 seconds for me to why I'm calling. If I missed the mark, I'll just hang up by myself. Okay. I appreciate you. So, Peter, I, like I said, I'm calling from Nook. So I know you you probably have literally 300 things on your plate as the sales growth director. I'm just I'm curious if if part of your strategy, though, if you have reps that are making outbound cold calls like this one. Okay. K. Good deal. Good deal. I figured those pesky salespeople. So, Peter, when I'm talking to sales leaders like you, something that's, like, I'm having these conversations every day. And when it comes to increasing pipeline with the outbound cold calls, Some really common challenges that everyone's kind of bumping into is spending more time listening to a ringtone than actually having conversations. Right? So going into a Dialogloss, spending a lot of time, not getting a lot of connects. Is that something that your self seems bumping into at all over there?
+7. [Prospect]  Possibly. So are you guys at Nook. Io?
+8. [Sales Rep]  Yeah. Yes, sir. That's us. Are you googling us right now?
+9. [Prospect]  Okay. Yeah. Wait a minute. This doesn't look like the right okay. There's, Cus0.
+10. [Sales Rep]  Sorry. It's it's nook.ai there, Peter.
+11. [Prospect]  I'm sorry?
+12. [Sales Rep]  It's nook.ai. My apologies. It's not dot
+13. [Prospect]  Okay. Next. Yeah. Okay. Gotcha. I'm on your your site right here.
+14. [Sales Rep]  Yeah. Have you have you heard of it before or, like, parallel dialers? Have you ever heard of those?
+15. [Prospect]  Hello? No. I have not. Tell me about what's going on here.
+16. [Sales Rep]  Okay. Are your yeah. Are your sales reps, Peter, are they making, like, a lot of outbound calls? Is that, like, a part of your strategy for booking meetings.
+17. [Prospect]  Yeah. It is. I got I gotta tell you, though. I'm kinda surprised with, the number of questions, that you're asking asking me right now? Because and and and by by the way, I'm just I'm talking to you as a a peer professional. And this isn't this isn't
+18. [Sales Rep]  Yeah. No. I appreciate it.
+19. [Prospect]  this isn't intended to be a, you know, a negative statement or anything. But I feel I feel like you're,
+20. [Sales Rep]  Not late on me.
+21. [Prospect]  I feel like you're asking me, like, some discovery questions. And I don't think, we're at that point. Like, I I kinda think of discovery questions as something that you Sort of earn the right to to ask.
+22. [Sales Rep]  Yeah.
+23. [Prospect]  So I'm, But I'm wondering, what's the value proposition here of NUCs?
+24. [Sales Rep]  Yeah. Basically, first off, Peter, if I can say I appreciate the feedback. This is You're literally the very 1st person I'm talking to. This is my 2nd day on the job, and you're the 1st I've been making cold calls for 3 minutes. You're the 1st person to pick up. So this is actually I'll own it. This is a terrible cold call. So I I I appreciate the feedback. It's good feedback. Clearly, I have a lot to learn, right, in in, at Nuxt. But basically so the main the main
+25. [Prospect]  Oh, we all do. You know?
+26. [Sales Rep]  yeah. No. I I appreciate you being kind about it too and not just hanging up on me. But basically, the main value prop of of Nook there, Peter. So we're an AI generated parallel dialer, meaning that, at previous jobs, I've sat there and I've spent more time listening to the ringtone than actually having live conversations. And so with NUCs, you're able to call up to 5 prospects at a time. We're helping companies double their connect rate, double their pipeline with those connects and booking meetings, so that you can spend a lot more time actually having conversations as opposed to just sitting there for an hour calling 40 people. You could sit there for an hour and call a couple 100 people and just have a lot more conversations. That's high level. Does that does that sound even remotely interesting, Peter, or have I just totally missed the mark?
+27. [Prospect]  Okay. No. It does sound, it does sound remotely interesting, for sure. Well, I shouldn't say remotely. It sounds awesome. Actually, that's a great value. That's a great value proposition.
+28. [Sales Rep]  Yeah. No. I I appreciate that. I and the reason why I was asking you just some light discovery questions is because some people I I talk to, They're not even like, their teams aren't making any calls, and so this is just isn't relevant. So I just wanted to make sure that it was it was relevant for you, but it it sounds like it is. Peter, I so something that that we always recommend with people that we're doing is I know I probably caught you. Well, it's end of day. I don't know if you're drinking coffee, but a lot of people I'm catching mid coffee sips. So, would it be a horrible idea, Peter, if you and I were to chat for 20, 30 minutes when I'm not calling out of the blue and we could show you what this looks like? And then if you saw value, we could set your team up on a free trial. Does that sound like a bad idea?
+29. [Prospect]  No. That does that does not sound like a bad idea. Let's see. I'm taking a look at next week.
+30. [Sales Rep]  I am located myself. I'm up in Canada.
+31. [Prospect]  Oh, okay. What what time zone are you in?
+32. [Sales Rep]  Oh, sorry. Yeah. I'm in, I see you're in Utah. I'm in Mountain Standard Time, so same same, Actually, Minnesota, maybe. Sorry. I'm Mountain Standard Time. Are you eastern?
+33. [Prospect]  Nope. I'm central. So I think you're I think right now for you, it's 1:54 PM. Is that right?
+34. [Sales Rep]  Yeah. So you're an hour ahead of me. Correct?
+35. [Prospect]  Yeah. So I'm available.
+36. [Sales Rep]  And let me send you I'm gonna send you 8 AM my time. What I'm gonna do here, Peter, is I'm gonna send you a blank request because sometimes these things get lost in the abyss. And so I'm gonna go ahead and just send you a quick invite. That way I know you got it. What's the best and that that time does work for me, by the way. What's the best email to use for you, Peter?
+37. [Prospect]  It's peter dot Do you have the spelling of my last name?
+38. [Sales Rep]  Peter dot yeah. Sorry. I got you.
+39. [Prospect]  That's correct.
+40. [Sales Rep]  Quali.c0.k. So first name last name at quali.c0. K. I'm gonna send you this I'll add context to this, Peter, but I'm just going to send it to you right now so I know you've got it. If you don't mind accepting it once you got it so I know it kind of went through. You should have it by now.
+41. [Prospect]  Right on. Yep. I just accepted it. Alright. Thanks a lot, man. I appreciate it. I look forward
+42. [Sales Rep]  Amazing. One last question for you, Peter, just to make sure. Do you guys do you, When your reps are calling, are you calling out of Outreach, SalesLoft, HubSpot? What does that look like? Okay. Perfect. K. Peter, thank you so so much for your time. I will talk to you next Wednesday.

@@ -1,0 +1,4 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, David. Cameron Baker over at Nook's. I appreciate I'm catching you out of the blue here. Did did I catch you at a terrible time?
+3. [Prospect]  This isn't David.
+4. [Sales Rep]  Oh, sorry. I'll

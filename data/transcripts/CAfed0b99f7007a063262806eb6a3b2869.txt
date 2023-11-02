@@ -1,0 +1,5 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Victoria?
+3. [Prospect]  Yeah. Who's calling?
+4. [Sales Rep]  Victoria. Hey. This is Daniel. Actually realized that I cold called you the past and, I remember our conversation. So I won't waste your time for now.
+5. [Prospect]  Okay. Thanks. Bye.

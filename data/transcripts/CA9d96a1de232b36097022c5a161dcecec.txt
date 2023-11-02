@@ -1,0 +1,12 @@
+1. [Prospect]  Hello. This is Rick.
+2. [Sales Rep]  Hi. Is this Rick?
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hi, Rick. This is Rohan. I'm cofounder of a Stanford founded startup called Nook's. Just hoping you have a quick minute to hear out hear me out.
+5. [Prospect]  I'm sorry. Who are you with?
+6. [Sales Rep]  I'm founder of a, Stanford founded startup called Nook. Rick, do you lead, do you lead business development out of team of BDRs or CRs over at, array behavioral care.
+7. [Prospect]  No.
+8. [Sales Rep]  Oh, no? Okay. You know what? I think I probably have, the wrong, job title. Typically, people that lead business development, sometimes they lead BDRs, but it sounds like probably not in your wheelhouse.
+9. [Prospect]  Nope.
+10. [Sales Rep]  Yep. Hi, Rick. I appreciate you picking up the phone. I'll I'll remove you from my list and, make sure I don't call you again.
+11. [Prospect]  Perfect.
+12. [Sales Rep]  Yeah.

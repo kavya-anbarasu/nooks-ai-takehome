@@ -1,0 +1,11 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Molly?
+3. [Prospect]  Yes. Molly speaking.
+4. [Sales Rep]  Hi, Molly. This is Rohan. I'm cofounder of a Stanford founded startup called Nook's. Reason I'm reaching out is I'm I'm calling out to people that lead BDR and SDR teams in the San Francisco Bay Area. Are you, Molly, Do I have this down right? Are you leading business development over at EM Marketing?
+5. [Prospect]  You know, I, I am really actually just an account lead for a small marketing agency, I don't think I am who you are trying to reach. I am not
+6. [Sales Rep]  Oh, sorry. No. You must have gotten my list.
+7. [Prospect]  your target.
+8. [Sales Rep]  Yeah. We reached out to, like, you know,
+9. [Prospect]  But Good luck. Yeah.
+10. [Sales Rep]  Call me, but it is. I appreciate you picking up
+11. [Prospect]  Alright. No worries. Have a good day.

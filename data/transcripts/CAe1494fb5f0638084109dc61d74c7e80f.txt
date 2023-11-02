@@ -1,0 +1,11 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Chris. How's your,
+3. [Prospect]  Hello?
+4. [Sales Rep]  how's your how's your Thursday going?
+5. [Prospect]  Hey. What's up, man? How are you?
+6. [Sales Rep]  I'm not doing too badly. Is this Chris Olive over at Canto? Or do I have the the right number?
+7. [Prospect]  Accountant?
+8. [Sales Rep]  At Canto? The company?
+9. [Prospect]  No.
+10. [Sales Rep]  Oh, sorry, man. I think I have the wrong number here. Sorry about that. I'll make sure we don't call you back.
+11. [Prospect]  Thank you.

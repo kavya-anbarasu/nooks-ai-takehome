@@ -1,0 +1,4 @@
+1. [Prospect]  Thank you for calling Encore. This is Jeff.
+2. [Sales Rep]  Hey there. I was looking for Karen. I think I might have the wrong number.
+3. [Prospect]  Karen? No. I got the wrong number.
+4. [Sales Rep]  Yeah. Okay. Got it. Thanks,

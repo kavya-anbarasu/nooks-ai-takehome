@@ -1,0 +1,19 @@
+1. [Prospect]  Hello. This is Chris.
+2. [Sales Rep]  Hey, Chris. It's, Patrick calling from over at Nook. How are you doing today?
+3. [Prospect]  Hey. How's it going?
+4. [Sales Rep]  Hey. I I'm sure you picked up this this is a cold call by now, but, you mind if I tell you in 30 seconds why I'm calling you? And, you know, if you think it's totally irrelevant, you can feel free to hang up on me. Sound like a good deal?
+5. [Prospect]  Didn't we didn't we already speak in the past?
+6. [Sales Rep]  Recently? I I don't I don't think so. Did, maybe
+7. [Prospect]  I I think somebody called me with notes. What does your service do again real quick?
+8. [Sales Rep]  Yeah. So really quickly, like, basically, I'll I'll put it for you this way. I logged in to Nook in a platform, Was on a call with my team inside of Nook's. We're all sitting around having a conversation. And, basically, I I click a button, and 5 seconds later, I'm talking to a prospect, which just so happens to be you, Chris. And, really, the the end goal here is to increase the amount of conversations your team is having. I think we typically see, like, 3 to 5 minutes. But,
+9. [Prospect]  You like to dial
+10. [Sales Rep]  what's up?
+11. [Prospect]  color. Put the dial solution.
+12. [Sales Rep]  It's a dialer solution, but there's that other component which is getting the team in one place and injecting a lot of energy in the sales floor. Also, there's a there's an enablement component, which, obviously, don't wanna don't wanna bore you talking about features, but that's a really big part is helping turn those conversations actually into converted converted meetings, which we're helping a lot of our customers do as well.
+13. [Prospect]  Okay. Does it integrate with Salesforce?
+14. [Sales Rep]  It, so it doesn't right now, but we actually have that being built. Is are you guys not using Outreach or SalesLoft. Is is Salesforce and, like, high velocity sales the the way for you guys?
+15. [Prospect]  We're We're going away from Outreach to be in 1 place. So call me back when you that call me back when you get that done. I got so many people promise Been integrated with Salesforce and just at the end of the day, it's a waste of my time, to be honest, man. So once you have that done, put me in a callback for that. I'd be interested in talking what you have. I'll give you I don't know if it fits with your time line, but I will be looking at purchasing a dialing solution probably
+16. [Sales Rep]  Gotcha. Gotcha.
+17. [Prospect]  at the End of Q3, maybe Q4, or once we've finalized all budgets for next year. So, and we are looking at Kixie. Another one I'm more little more excited about is ORM. So, but ORM costs a little bit more. So if you would just you know, if you get that into shape, I mean, that would be Well, we need because we need everything integrated with Salesforce. Honestly, it's like a no go. My operations guy, internally, will just say no. So
+18. [Sales Rep]  No. I I've been in I've been in this room for a while. I would not want you to take this call until we have that set up. Yeah. We'll be we'll be toe to toe with Gorham, if not, you know, beating them out there. So Let's chat. I'll get that set up. Thanks for the schedule. And, you know, Chris, thanks for taking the time, man. I'll, I'll reach out when it's, when it's relevant.
+19. [Prospect]  Yeah. Yep. Sounds good, man. Have a good one.

@@ -1,0 +1,9 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this David?
+3. [Prospect]  Hi. Yes. Who's this?
+4. [Sales Rep]  Hi, David. This is Rohan from Nooks. Just, have have your has the word, Nooks does that ring a bell before?
+5. [Prospect]  Yeah. You guys have called me, like, 4 times in the last 2 months.
+6. [Sales Rep]  Oh, man. I'm sorry about that. I'll make sure I update our outreach. We've been reworking accounts and stuff, so it's been it's been a little bit of our average has gotten a little bit messy, I would say. So
+7. [Prospect]  Yeah. Yeah. It's all good. I'm I'm not currently at a particle right now. I'm looking for my next opportunity. But not sure a conversation makes sense right now.
+8. [Sales Rep]  Okay. Okay. Yeah. No worries, David. Again, sorry for sorry for, the the messy outreach. I'll I'll take a Looking to figure that out. But, let's definitely connect on LinkedIn. I know a couple of companies hiring, so I'll
+9. [Prospect]  Okay. Cool. I appreciate it. Thank you. Alright. Take care. Bye.

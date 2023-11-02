@@ -1,0 +1,6 @@
+1. [Prospect]  Hello? Hello?
+2. [Sales Rep]  Hey, Meg. Yeah. Skyler with Nook's. I I really doubt you remember me, but, I spoke with you, like, couple months ago, actually, and it was kind of bad timing. Did you have a couple minutes real quick?
+3. [Prospect]  I actually don't right now. I'm sorry.
+4. [Sales Rep]  Hey. No no worries.
+5. [Prospect]  Alright. Do you wanna give me a callback on Monday?
+6. [Sales Rep]  Yeah, that sounds good. I appreciate it. Have a good one.

@@ -1,0 +1,14 @@
+1. [Prospect]  Hello. This is Brett.
+2. [Sales Rep]  Hey, Brett. Skyler with Nook. Saw that you were a business development over at Informatica. Are you an IC or are you managing, like, a team of SDRs by any chance?
+3. [Prospect]  Oh, no. I'm, no longer with Informatica. I'm in a territory sales role for a, custom graphics company, but Had quite extensive,
+4. [Sales Rep]  Okay. Gotcha.
+5. [Prospect]  quite extensive BDR, BDM, all the BDs, that you could probably want. And, I feel like I could manage a team fairly well.
+6. [Sales Rep]  Yeah. I guess, I was so I I sell it's a tool called or it's a product called NUCs and essentially, instead of reps, like, making 1 dial at a time, you know, not being prepared for their phone calls, we can dial up to 5 lines at once, but we can pull in a lot of, like, strategic information, like what kind of data warehouse or what kind of business intelligence tool a prospect is using, so they can increase their outbound capacity and be more prepared for their phone calls.
+7. [Prospect]  Oh, I see.
+8. [Sales Rep]  Not sure if that'd be relevant with what you're currently doing, but do you know, like, who a good person to reach out to might be at Informatica?
+9. [Prospect]  I really doubt. That org has has changed quite quite a bit since I've been there. It's been a couple years, I guess.
+10. [Sales Rep]  Yeah.
+11. [Prospect]  Yeah. I wish I could drop you a name, but I think everybody's been shuffled or gone elsewhere.
+12. [Sales Rep]  Yeah. No. No worries. I appreciate you taking my call.
+13. [Prospect]  Yeah. You got it, man.
+14. [Sales Rep]  Hey, have a good one.

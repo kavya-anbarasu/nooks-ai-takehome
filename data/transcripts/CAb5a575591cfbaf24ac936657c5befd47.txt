@@ -1,0 +1,8 @@
+1. [Sales Rep]  Hey, Mark. Skyler with NUCs. I was just having for, like, 30 seconds real quick.
+2. [Prospect]  Who's who's this?
+3. [Sales Rep]  Yes. Skyler with Nook's. Saw you were head of sales. Shot in the dark here, but was just curious if you have reps who, like, make cold calls but just struggle to, like, Get enough connects and conversations in over the phone. Is that relevant, or am I, like, pretty off base there?
+4. [Prospect]  Wait. Wait. I don't understand. Who who are you?
+5. [Sales Rep]  Yeah. My name is Skyler with Nook's. Sounds like I might have the the wrong number. I was trying to reach Mark.
+6. [Prospect]  Wrong number. Wrong number.
+7. [Sales Rep]  Sorry about that. Hope you have a good one.
+8. [Prospect]  Okay.

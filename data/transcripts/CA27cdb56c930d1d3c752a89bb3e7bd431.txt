@@ -1,0 +1,25 @@
+1. [Prospect]  Hello? Hello?
+2. [Sales Rep]  Hey, Tyler.
+3. [Prospect]  Hey. How's it going?
+4. [Sales Rep]  Hi. It's going well. I I appreciate that. This is, Cameron over at Nook. It is a cold call. Do you have a brief, brief moment?
+5. [Prospect]  Yeah. I got a couple seconds. What's going on?
+6. [Sales Rep]  Are you still, are you still overseeing enterprise reps over at Medallia, or did that changed with the, the title change.
+7. [Prospect]  I I oversee SDRs Tabitha.
+8. [Sales Rep]  I see. Okay. Are they, are the ones you oversee, are they placing cold calls? Or
+9. [Prospect]  Yeah.
+10. [Sales Rep]  Awesome. Today, last question I'll ask you and then I'll I'll share where share share how I reached out to you. But, do they kind of have a system for that? Are they using, like, a sales loft or an outreach,
+11. [Prospect]  Outreach.
+12. [Sales Rep]  tomato? I see. Okay. Yeah. We're using Outreach too. I'll share with you how I reached you. I reached out using our platform. You can let me know if it seems relevant or not.
+13. [Prospect]  Mhmm.
+14. [Sales Rep]  So what NUCs does is it's an AI powered dialer at its core. Instead of me, you know, going into Outreach, with the connect rate of, say, 5 to 10% and spending quite a while to make a 100 dials, maybe getting 5 connects in that time, I pulled in all my call tasks from Outreach, dials 3 to 5 converse or 3 to 5 prospects at the same time and only connects me to folks like yourself who who pick up the phoned. Big quality of life change for teams that are dialing 1 by 1. And and, normally, you can have 3 to 3 to 5 x the conversation live combos do have you know, if you were single dialing out of Outreach. Have you all explored parallel dialers or similar tech in the past?
+15. [Prospect]  Yeah. We have. We've never really gotten any buy in on it, though, I would say.
+16. [Sales Rep]  Right.
+17. [Prospect]  It's it's an interesting concept. Just don't, don't really think that we are in the position to spend on something like that.
+18. [Sales Rep]  Right.
+19. [Prospect]  I would suggest trying to, go higher within our organization, and, maybe you can get by in there, but I I don't hold budget. I don't make those type of decisions. So
+20. [Sales Rep]  Yeah. I know I, I spoke to Malak about a week back. He he he said kind of the same thing. He was like, hey, I I was on team dialer, but it it didn't cross the line. So I've, I've certainly heard that.
+21. [Prospect]  Yeah.
+22. [Sales Rep]  Okay. Well, what I'll do, I'll definitely give that a whirl. If you don't mind, Tyler, I'll just shoot you a connect on LinkedIn, send some information your way, and and, and we'll go from there.
+23. [Prospect]  Sure. Sounds good.
+24. [Sales Rep]  Cool. Thanks, Tyler. Take care.
+25. [Prospect]  Alright.

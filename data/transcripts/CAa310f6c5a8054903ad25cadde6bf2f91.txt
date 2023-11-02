@@ -1,0 +1,5 @@
+1. [Prospect]  Hello. It's Bruce.
+2. [Sales Rep]  Hey. Is this Tim?
+3. [Prospect]  Calling Bruce.
+4. [Sales Rep]  I'm calling Bruce. I'm sorry, Bruce. I think I have the wrong number here.
+5. [Prospect]  Okay.

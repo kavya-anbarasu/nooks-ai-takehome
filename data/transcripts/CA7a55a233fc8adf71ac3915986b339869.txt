@@ -1,0 +1,13 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Dominic?
+3. [Prospect]  This is Dominic. Yes.
+4. [Sales Rep]  Hey, Dominique. This is Rohan. I'm cofounder of a Stanford founder startup called Nook's. The reason I'm reaching out is I'm reaching out to, like, directors of business developments at, BDRs and SDRs in the San Francisco Bay Area. Are are you, by chance, leading a BDR team over at, Shipt?
+5. [Prospect]  I am. Yes.
+6. [Sales Rep]  Oh, do you Okay. And do you have teams do you have, like, BDRs that do, like, kind of, like, outbound emails and calling?
+7. [Prospect]  A little bit. Yeah. We've got a few of those.
+8. [Sales Rep]  Okay. Okay. Cool, man. Well, look. What we're doing is next, we're hosting a networking dinner with other, like, leaders of BDRs and SDR leaders in the San Francisco Bay Area. It's kind of around Sasser, which is happening right now this week. We're hosting an event this, kinda, like, on Thursday. If you're at all interested, I mean, we would be more than happy to send some more information, if you wanna, like, meet other people. It's had a Brazilian steakhouse, kinda nice food.
+9. [Prospect]  Unfortunately, I'm gonna be traveling on Thursday, but I appreciate the call.
+10. [Sales Rep]  Bummer, man. Well, maybe next time when we host our next event, I'll, I'll connect you on LinkedIn, and I'll put a reminder next time I host an event in the in the Bay Area.
+11. [Prospect]  That sounds great. Good luck with
+12. [Sales Rep]  Yeah. Thanks,
+13. [Prospect]  it.

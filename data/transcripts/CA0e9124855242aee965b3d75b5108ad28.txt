@@ -1,0 +1,10 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey,
+3. [Prospect]  Yeah. Hello?
+4. [Sales Rep]  Aisha. Hi. Yeah. This is, Cameron Baker over at Nook's. Totally frank, it's a cold call. Do you have 30 seconds to hear me out, see if it makes sense to chat?
+5. [Prospect]  Sure. I'm driving though, so I might have to get off the phone.
+6. [Sales Rep]  Right. Okay. No worries. I I I appreciate that. I guess I was I was simply curious over at Handshake if, as cold calling, is that also important to your own kind of top of funnel pipeline gen there?
+7. [Prospect]  Yeah. But if I'm gonna be completely honest with you,
+8. [Sales Rep]  You you said you're okay. Yeah. I see. So it sounds sounds like you've been consolidating the tech stack more so than than building it.
+9. [Prospect]  Yeah, we're We have so many tools, so right now we are cutting back on the things that we have.
+10. [Sales Rep]  Okay. Well, I appreciate you taking my call. I'm on the line. Yep. Yep.

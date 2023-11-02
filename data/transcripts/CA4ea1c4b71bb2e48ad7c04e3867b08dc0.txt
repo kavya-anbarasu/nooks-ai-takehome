@@ -1,0 +1,6 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Olivia.
+3. [Prospect]  Yes. Speaking.
+4. [Sales Rep]  Hi, Olivia. It's, Cameron over at Nook's. Appreciate I'm catching you out of the blue. Do you do you have a moment?
+5. [Prospect]  Yes. What is this regarding?
+6. [Sales Rep]  I was reaching out about your sales dev team. I was curious if they're also making up on the cold calls.

@@ -1,0 +1,54 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Will. This is Dan from Nook's. Do you have a couple minutes to chat right now?
+3. [Prospect]  Yeah. What's up?
+4. [Sales Rep]  Yeah. So I'm CEO of Nook. So we're actually doing a cold calling competition right now, and my whole team is watching me. I was curious actually, do you lead a team of SDRs or BDRs that do outbound calling?
+5. [Prospect]  I do.
+6. [Sales Rep]  Yeah. Okay. Great. So have you heard of Nooks?
+7. [Prospect]  I do. I actually have a meeting with you guys, October 25th at 12:30 with someone named Skyler.
+8. [Sales Rep]  Oh, awesome. Awesome. Well, Skyler's right here.
+9. [Prospect]  Oh, what's up, Skyler?
+10. [Sales Rep]  We're looking forward to that. I guess any questions before the before that meeting?
+11. [Prospect]  Not really. No. It's a tower dialer, and you guys have a Salesforce aspect to it. Correct?
+12. [Sales Rep]  While you got me on the line? Yep. Yep.
+13. [Prospect]  Yeah.
+14. [Sales Rep]  So the dialer helps, automate a lot of the manual parts of the calling process so that you could, you know, make a lot more calls, have a lot more conversations, and it's more painless.
+15. [Prospect]  Yeah.
+16. [Sales Rep]  And then the sales floor is helpful for collaboration, so reps can, you know, listen to each other, give each other advice during calls and bring that, yeah, that office vibe.
+17. [Prospect]  Yeah. That's what I'm looking for. Yeah. Missed that. Okay. Well, no man. I don't have any questions. I hope it works. Just for your team over there at Nook,
+18. [Sales Rep]  Yeah.
+19. [Prospect]  Orem works most of the time but sometimes it does not. So use that to your advantage.
+20. [Sales Rep]  Yeah. Tell me tell me, I guess, what, what part of it doesn't work?
+21. [Prospect]  Yeah.
+22. [Sales Rep]  Just this is
+23. [Prospect]  It's slightly glitchy. It's just
+24. [Sales Rep]  yeah.
+25. [Prospect]  the Salesforce itself is slightly glitchy. Do you guys have a voice that talks to you like while you're power dialing and like tells you what's going on? Because they do and you can't turn it off And it's kind of distracting.
+26. [Sales Rep]  No. We we don't have any voices that talk to you, like like a Robot voice that talks to you? That sounds weird.
+27. [Prospect]  Okay. Yeah. It's like a yeah. It's like it just kind of like guides you through the steps or something like that. It says, like, you know, calling pause or calling start or whatever. Yeah. It's kind of annoying.
+28. [Sales Rep]  Got it.
+29. [Prospect]  And then like the sales floor aspect of it, it's just it's slightly
+30. [Sales Rep]  Okay.
+31. [Prospect]  slightly, glitchier than I would expect. Just like, you know, audio dropping out and stuff like that. So, I mean, yeah, that's what we're looking for. We need a Salesforce. We know that. The Power Dialer is fun.
+32. [Sales Rep]  How many reps are you guys?
+33. [Prospect]  My team. So my team is, we're actually hiring. So this will be 6 eventually. My team. But I do the inbound SCR's, right? My colleague Brian who's also on this call coming up on Wednesday does outbound. And, his team is the one who would be more utilizing, like, the
+34. [Sales Rep]  I see.
+35. [Prospect]  parallel dialer aspect of it probably. I mean, inbound guys do too. But really what I'm looking for is that Salesforce aspect though. It's, you know, give you a better training because our reps, it's like a progression from inbound to outbound.
+36. [Sales Rep]  Got it. You said you're safe inbound reps and how many outbound reps?
+37. [Prospect]  It's about 6 as well when it's fully set. We're down a couple of people right now. But yeah, I think it's about 6 and 6 is where things need to be.
+38. [Sales Rep]  Where are you looking to grow to?
+39. [Prospect]  I'm sorry, say that again.
+40. [Sales Rep]  You said you're growing the team. What are you looking to get to?
+41. [Prospect]  Yeah. Well, I mean, that's a that's a loaded question that's not, like, fully answered yet because Depends on sales rep hiring. So yeah. I mean but I think somewhere around, You know, between 6 and 10, on the outbound side and probably 6 on the inbound side, something like that. I'm not a 100% on that, though, to quote that.
+42. [Sales Rep]  Got it. Got it. And are you guys currently on an ORM contract? Is that why you're saying is it's glitchy or,
+43. [Prospect]  Alright. I'm just say that again. Are we currently on a what?
+44. [Sales Rep]  what's the deal Are you currently on an Orem contract?
+45. [Prospect]  No. We're not. We just tested it out. We've been looking for this. This whole thing actually started because I found a product called CallBlitz That is solely a, a Salesforce.
+46. [Sales Rep]  Yeah.
+47. [Prospect]  And we loved it, but it's a tiny company that wouldn't pass through our security team. So then we're like, okay. Well, let's look at some of our Salesforce offerings and then there's we found Orem. We like the power dialing aspect of Things and the one way call recording that they did. And, like that auto listen thing is pretty rad too where you can just pop into whenever anybody gets connected. So, yeah. But I mean, it started with, actually myself getting interested in Salesforce, bringing that to the rest of the team, and then, You know, the reps loved it. We loved it. And we're like, we need one of these things. I just need one of the things built by a company that is also enterprise security ready.
+48. [Sales Rep]  Yeah. Yep.
+49. [Prospect]  So yeah. That's, so that's where we're at. So we're in the search right now.
+50. [Sales Rep]  Cool. Well, I'll I just took a bunch of notes. I'll share these with Skyler, and he'll make sure to touch on those during the demo on 25th.
+51. [Prospect]  Cool. Alright. What was your name again?
+52. [Sales Rep]  Cool. I'm Dan.
+53. [Prospect]  Dan. Alright, Dan. Take care, man.
+54. [Sales Rep]  Yep. Thank you, Glenn. Yep. See you.

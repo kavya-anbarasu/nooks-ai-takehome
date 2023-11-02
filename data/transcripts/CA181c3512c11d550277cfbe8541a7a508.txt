@@ -1,0 +1,48 @@
+1. [Prospect]  Hello. This is Blade.
+2. [Sales Rep]  I can probably I'm just oh, Blade, this is Josh with Nook's. How's your money, Trunia?
+3. [Prospect]  It's good, man. How are you?
+4. [Sales Rep]  No. I'm good. I'm good. Thanks for asking. Hey, Blade. Straight up. I I'm calling you out of the blue here. Do you have 30 seconds for me to tell them I'm calling? If I missed the mark, I'll just hang up on myself.
+5. [Prospect]  Yep. Go.
+6. [Sales Rep]  Okay. I appreciate you. I Blade, just to see if this is even relevant, do you have outbound cold callers over there? I'm guessing you do at install? Okay. Those pesky buggers. I'm so, Blade, I'm, I'm I'm talking to
+7. [Prospect]  Yep.
+8. [Sales Rep]  Sales development leaders like you every day, when it comes to making cold calls, some challenges that everyone's bumping into is how manual it is, not having enough conversations, and then having a hard time getting Data to know where they can make improvements to book more meetings from those calls. Is that anything you guys are bumping into over there, or do you have something in place to make sure that just doesn't happen?
+9. [Prospect]  Always. If you don't, then, you're lying.
+10. [Sales Rep]  Yeah. I feel you on that one. I feel you on that one. When it when it comes to those things, like, Just how how manual it is. Like, what's what's the biggest challenge you guys are making or bumping into with those cold calls?
+11. [Prospect]  The fact that everything is not integrating correctly. Our different systems,
+12. [Sales Rep]  Okay.
+13. [Prospect]  BDRs have to do a lot of manual work with Excel sheets Did they get from their, their
+14. [Sales Rep]  Yeah. Yeah. That's totally fair. And then I actually yeah. That's the worst to deal with. And then when they're they're actually making those calls, Are you guys calling out of, like, a a tool like Outreach or SalesLoft or anything like that?
+15. [Prospect]  Yeah. We yeah. We call out outreach, and we have alarm.
+16. [Sales Rep]  Okay. Oh, you have Orem. Perfect. Let's go. Have you heard of Nook's then?
+17. [Prospect]  Let me look you guys up.
+18. [Sales Rep]  Are you when you say you have Orem, what do we what do we what do we mean by that blade? Is it, like, happily married time in all eternity, or are they just getting the job done right now?
+19. [Prospect]  I I love Nook or, Orem.
+20. [Sales Rep]  Oh, you you even said Nooks by accident, so maybe there's a chance there.
+21. [Prospect]  I know I did. Freudian slip. Right?
+22. [Sales Rep]  Let's go. That's too funny. What do you love about Orem? I have to ask.
+23. [Prospect]  So I've been using it for over 2 years. It's super simple on the, user interface is fantastic. Their customer support is amazing. They're always coming out with a new feature. Like, they're pretty great.
+24. [Sales Rep]  Yeah. No. I feel that. I feel that. Did you so you've been using them for a couple years, so I imagine when you brought them on, you didn't use NUCs Your trial Nook's because we've only been in the dollar with game for about a year now. So is that a fair that's a fair assumption?
+25. [Prospect]  Yeah. No. Not at all. Not at all. Here. I tell you what. I tell you what. Hold on. So I know where this is going.
+26. [Sales Rep]  Okay. Yeah. Amy.
+27. [Prospect]  You're you're hitting the nail on the head, and I'm in a I'm in, like, we're so I just got on the job. We're about to renew in, like, literally 15 days. I've got a 1,000,000 other things that I'm standing up on this team right now.
+28. [Sales Rep]  Mhmm.
+29. [Prospect]  And Orem is one of the things that I just I know it works, and I'm not gonna screw with it this year. So we're about to do a renewal. Put me on your list. Call me next year in August because we renew in September, And we can we can check you guys out and see how you compare. But I just it's one of the few things I know works on my current team, and I'm not gonna mess good right now. I need something that I know works because I'm changing everything else.
+30. [Sales Rep]  Yeah. No. I that's That's totally fair. That's totally fair. Selfishly I want to throw a wedge in there, but I get that man. Like, I actually so this is my my 2nd week this is my 2nd week at Nook
+31. [Prospect]  Oh, they already got you on the phones, man?
+32. [Sales Rep]  And I know right away. So if I'm being totally honest with you, they're both good tools. I actually at My last org at Clue, we we trialed Nook's and we trialed Orem. I our, our AE at Nook's was really good and he was a little Sneaky, and he extended our trial. And I honestly, man, like, when I my 1st day using Orum, I went back to the to the Nook's trial. It's just I liked the UI UX a lot better. It was faster. It was, and that was that was kind of the feedback from a lot of people, but I also understand if it's not broke, don't fix it. So if it's not like your reps are is there anyone though, Blade, like is there any senior people on your team, anybody like that, that I could be like, hey, try this Try a free trial for for 2 days. Is there anybody like that that would be worth my time reaching out to just so that you can have an idea?
+33. [Prospect]  It's it's yeah. It's it's me and no.
+34. [Sales Rep]  If you can't I Blade, you can't, I'm I'm in sales, so I hope you
+35. [Prospect]  I you're you're you're killing it, man. You're doing a good job.
+36. [Sales Rep]  you? Appreciate me shooting in my shot there. I appreciate that. I appreciate that. Any before I hang up on myself here, Any feedback of how I could have made the call better?
+37. [Prospect]  No. You're doing really good. Get to the value prop a little quicker.
+38. [Sales Rep]  K. When when you think of the value prop of Orem, because it's obviously very similar with Nook's, what's the what's the biggest thing for you? Like, if I were to call from your
+39. [Prospect]  It took me a it took me a long time to figure out. Took me a long time. It took me too long to figure out that you were talking about a dialer.
+40. [Sales Rep]  k. When you explain something like Orem to your self development Colleagues, if you were to if you had, like, 1 sentence and you wanted to get them hyped, what would you say?
+41. [Prospect]  So Yep. Yep. It's a tool that allows you to make more dials in the day. That's just you know? That way, I they at least know what you're talking about. Because anyone who's been in the game knows that it's a dialer. So
+42. [Sales Rep]  I love that.
+43. [Prospect]  just get get me to that point, and then we can then we can start comparing because I don't know what we were talking about for a little bit.
+44. [Sales Rep]  Yeah. Okay. K. No. That's totally fair. That's such such good feedback, so thank you so much. And, Blade, Onboarding is a lot, so I hope it goes well for you, man. I'm in the same boat right now, but, I'll I'll connect with you on on LinkedIn there. We can keep in touch.
+45. [Prospect]  Yeah, man. Absolutely. Please do.
+46. [Sales Rep]  K. Thank you so much. We'll talk
+47. [Prospect]  Alright. Thanks a lot.
+48. [Sales Rep]  soon.

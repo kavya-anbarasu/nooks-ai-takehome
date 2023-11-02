@@ -1,0 +1,12 @@
+1. [Prospect]  Hello. This is Sam.
+2. [Sales Rep]  Hey, Sam.
+3. [Prospect]  Hello?
+4. [Sales Rep]  Hi, Sam. It's, it's Cameron over at Nook. I appreciate I'm catching you out of the blue. Do you have a moment here?
+5. [Prospect]  Yes. Yes. I do.
+6. [Sales Rep]  Awesome. Awesome. I appreciate that. Sam, we had met way back when we're kind of a different Or just curious, are your, are the reps that you lead, are they cold calling as well?
+7. [Prospect]  They are, and you know, just in transparency to save you time, I think I've Gotten a call from a different member of your team, maybe 2 or 3 months ago. And I'm, I'm familiar with NUCs and everything. And I appreciate you calling, but, you know, I, I don't think right now would be a good time for, for Boomi.
+8. [Sales Rep]  Okay. Yeah. I heard loud and clear. Is that is that, like, we're not spending money on tech right now or just don't see the value in a parallel dialer.
+9. [Prospect]  There's just other, other initiatives going on right now, and I'll just, I'll just leave it at that. So, while I, I really do appreciate you calling and the Follow-up. That's just kinda where we're at right now.
+10. [Sales Rep]  Alright. Heard loud and clear. I, I appreciate you taking the call nonetheless, Sam.
+11. [Prospect]  Yep. Alright. Have a great day.
+12. [Sales Rep]  Alright. You too, man. Bye bye.

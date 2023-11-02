@@ -1,0 +1,20 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Matt.
+3. [Prospect]  Yep.
+4. [Sales Rep]  Hey, Matt. Cameron over at Nook. I appreciate I'm catching you out of the blue. Do you have a a brief moment?
+5. [Prospect]  Yeah. Go ahead.
+6. [Sales Rep]  Hey. Thank you. Are your, are your reps are they, are they making Cold calls too over at Contentstack.
+7. [Prospect]  Yes. They are.
+8. [Sales Rep]  Good deal. What's their, what's their system like for that matter? Are they calling out of their CRM or Say, like, a sales engagement platform.
+9. [Prospect]  We use Groove.
+10. [Sales Rep]  Nice. Okay. Gotcha. So I'm I'm hearing more of group lately. I I wasn't hearing it last year, but, nonetheless, few challenges we're hearing from other teams that that are, of course, like outbounding to build pipeline with the phone. Connect rates are getting lower. Phone works, but it's taken more activity to do so. Kind of funneling into this case because it's taken a lot of activity where only the best reps are hitting the phones enough. Other reps are just simply not putting in the at the activity that it takes. And lastly, it can be difficult to coach the team without listening to every call after it's said and done. Taking more time away from nonrevenue generating activities to enable. Do any of those hit home for the Contentstack team or not at all?
+11. [Prospect]  No. I mean, the connection rate, though, is an issue with cold calling. Right?
+12. [Sales Rep]  Yep.
+13. [Prospect]  So what what's going on at note?
+14. [Sales Rep]  So at our core, we're I'd call it the calling platform, but we've got a virtual sales floor, A parallel dialer and then, you know, reporting functionality for your team. The way I'm using Nook's right now is I'm pulling in my call pack from Outreach Instead of me, you know, waiting for that ringtone, logging a call path for every single dial when 9 out of 10 prospects don't answer, I'm only being connected to live conversations, but kind of all my manual work is being logged for me with our AI. So typically, big quality of life change for folks who are outbounding pretty heavily on the phone kind of 1 by 1.
+15. [Prospect]  Alright. Yeah. That makes
+16. [Sales Rep]  Is that I mean, is that something that it sounds like might elevate your team if they're placed in a lot of calls? You know, typically, what we can do is show you the platform in the platform, make some dial side by side with you, and show you the efficiency gain.
+17. [Prospect]  I'm always looking for ways to improve that. I'm not I just stepped out So go for a little walk, but, do you wanna test do you have my email? Yeah. If you wanna throw some on my calendar for next week, we can, I can move it around to the time that works?
+18. [Sales Rep]  Are you thinking, I'm pretty open early in the week? And you are central time. I'll shoot over an invite for let's see. When we're available. Daniel. Next, how about 2:30, 2:30 Tuesday afternoon? I'll get an invite your way. We can, yeah. We typically meet in the platform. It can it can be really quick. We'll pull up our dialer. I'll make some cold calls for you, and, you know, if it makes sense, we can dive a bit deeper.
+19. [Prospect]  Sounds good. I'll see you next Tuesday.
+20. [Sales Rep]  Cool. Alright. See you Tuesday,

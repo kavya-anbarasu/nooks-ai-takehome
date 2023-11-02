@@ -1,0 +1,13 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this caroline@meritif.com? Sorry. Caroline atmeritif.
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hi, Caroline. My name is Kevin. I'm a PM at Nook's. We're a Stanford founded startup that builds software for SDRs and SDR managers. Would you have a minute or two to
+5. [Prospect]  No. Actually, right now is not a good time.
+6. [Sales Rep]  chat.
+7. [Prospect]  I'm just curious. How did how did you get my info?
+8. [Sales Rep]  We were looking at VPs of sales on ZoomInfo.
+9. [Prospect]  Okay. So I actually do not manage our Sales development resources or business that's somebody else in the organization. So might be a waste of your time to talk to me.
+10. [Sales Rep]  Gotcha.
+11. [Prospect]  Alright?
+12. [Sales Rep]  No worries. Well, thank you so much for thank you so much for picking up the phone. I hope you have a wonderful day, Carol. Sorry for taking up your time.
+13. [Prospect]  Alright.

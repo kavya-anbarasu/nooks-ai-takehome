@@ -1,0 +1,13 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey there, Michael. This is Shar DeBudi with NOX. Good afternoon.
+3. [Prospect]  I'm good. How are you?
+4. [Sales Rep]  Hey. Doing great, man. Michael, this is a cold call. I wanna be straightforward here. I saw you're the sales development manager at Infusion. Do you have a quick second for me?
+5. [Prospect]  Yeah. Sure.
+6. [Sales Rep]  Awesome, man. So appreciate the shot. Really, what I'm trying to do here is intro NOX. We're AI conversation platform. I was just curious if you have reps that are making phone calls today.
+7. [Prospect]  I don't actually oversee any reps.
+8. [Sales Rep]  Oh, gotcha. Okay. So sales development manager, is that more of like a individual contributor role?
+9. [Prospect]  No. It's more for, like, SDRs, but, I'm actually not in the field anymore.
+10. [Sales Rep]  Oh, shit. Okay. Sorry to hear that, man. Alright. Well, is it alright if I connect with you and maybe I'm a I'm a resource on LinkedIn in case, you need me to intro you to another job or something?
+11. [Prospect]  I mean, sure. I mean, I'm I'm Kinda looking at different industries right now for something else, but, you know, it's never bad if I need you to help out possibly, I guess.
+12. [Sales Rep]  Alright. Cool. I'll shoot you the invite. Best of luck. Hope you land on your feet. Again, my name is Shara, and, yeah. We'll chat soon.
+13. [Prospect]  Alright. Sounds good. Thanks,

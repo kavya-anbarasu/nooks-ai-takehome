@@ -1,0 +1,24 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey there, Carlos. This is Shar de
+3. [Prospect]  Hello?
+4. [Sales Rep]  hello, Carlos?
+5. [Prospect]  Yes?
+6. [Sales Rep]  Hi. This is Shar Davoody with notes. Good afternoon.
+7. [Prospect]  Good afternoon.
+8. [Sales Rep]  Carlos, it sounds like you're you're in a busy place, but do you have 30 seconds for me to tell you why I called?
+9. [Prospect]  30 seconds. I do have.
+10. [Sales Rep]  Sorry?
+11. [Prospect]  I I do have 30 seconds.
+12. [Sales Rep]  Oh, I appreciate that. Yeah. Awesome. So, Carlos, I was reaching out to you because I noticed you're the global client director there at VMware. Was curious if you guys have reps that are utilizing the phones to generate some pipeline today.
+13. [Prospect]  Yes. Especially in in this particular, in this particular roles, We have a pretty set, or a pretty fine set of accounts that are, that are named accounts, so we have Very strong penetration. So, on those ones, we don't need, you know, lead generation.
+14. [Sales Rep]  Got it. So it sounds like you guys are more, like, trying to upsell or different products, or add more seats rather than hunt new leads. Right?
+15. [Prospect]  Correct.
+16. [Sales Rep]  Got it. Okay. Do you do you guys have a team that's that's primarily focused on On the dialing or new leads, or is it more everyone kinda has the same accounts as you?
+17. [Prospect]  Yes. Accounts are handled by the channel and so by by the organization.
+18. [Sales Rep]  Mhmm.
+19. [Prospect]  So pretty much everybody actually has a named account. It's because it's very well penetrated.
+20. [Sales Rep]  Yeah. Okay. Awesome. Yeah. It makes sense. You guys are a big company. Just before I let you go here, is there anyone you Potentially, you could recommend for me to try to reach out to about the the channel accounts.
+21. [Prospect]  No. Not really. Because those are handled by, again, by by the channel partners. So
+22. [Sales Rep]  Okay.
+23. [Prospect]  a vast ecosystem of partners. I mean, I think, VMware I don't know. 35,000 partners or something like that. I mean, it's very bad.
+24. [Sales Rep]  Jeez. Okay. Yeah. That's a lot. So a lot of people are doing the selling for you guys. I understand. Okay. Well, alright. I appreciate the time. Best of luck, and hopefully, we can help you, get some easier meetings booked. So talk soon. Thank you. Alright.

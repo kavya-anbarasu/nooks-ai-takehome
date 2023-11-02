@@ -1,0 +1,33 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Ali or Ali?
+3. [Prospect]  Yeah. Yep.
+4. [Sales Rep]  Ali, hey. This is Daniel with Nook's. I'll be totally honest. This is a cold call. Do you mind hearing me out for a few moments?
+5. [Prospect]  Yeah.
+6. [Sales Rep]  Yeah. I really appreciate that. Yeah. I'll be really brief. Thanks. So, I'm calling you, of course, because you lead the SDR team at Confluent. And I'm actually calling you with our technology right now. It's called Nook's. Have you heard of Nook's before?
+7. [Prospect]  I haven't.
+8. [Sales Rep]  Okay. So, it's so what's happening right now is it's an AI powered dialer. You are, like, at least my Twelfth connect of the past hour because it's an AI that dials multiple people for me. So given our roughly 9% connect rate, I can spend more time in conversation with people instead of all the manual tasks associated with making hundreds of dials a day. And if you if we were to set a meeting, you'd actually be my 4th meeting of the past hour. That's the efficiency that our Platform brings and for remote teams, which we are one as well. I'm actually in a virtual co working space inside of the Nooks Platform as well. And so my entire SDR team, we're onboarding a couple folks. They're actually listening to this call and they're in the virtual sales floor with me. So we're an AI powered dialer similar to Orem, but a bit higher performance, and we have this remote co working feature. And that's what I'm using to call you right now.
+9. [Prospect]  Got it. Cool. How do you compare to like a gong, Groove, Outreach, those types of tools.
+10. [Sales Rep]  Yeah. So so you need Outreach to use NUCs. Basically, it takes all the call tasks in Outreach And you just work them in NUCs with our dialer, and so you're able to call 5 people at once. And and the AI just can detect whether it's a voice mail Or a live pickup? And, in terms of how it works with Gong, we integrate with Gong so that people can listen to these same recordings out of Gong. But we also have an AI powered call library that most people replace Gong with, at least on the SDR front. We've got a a couple sales reps from Gong, and they'll be the 1st to tell you that Gong doesn't really have great conversational intelligence and insights for SDR stuff. So we actually do. That's another big part of what Nook's does actually.
+11. [Prospect]  Can you use, your tool with anything other than outreach?
+12. [Sales Rep]  Yeah. So you can do it you can use it with SalesLoft, HubSpot, or Apollo.
+13. [Prospect]  Okay. Cool. We're looking at that tool stack right now, so it I think until we have sorted out what our Sales engagement platform is
+14. [Sales Rep]  Mhmm.
+15. [Prospect]  it wouldn't make sense to invest too much unless, you know, we could use it, Like, it's too much in a conversation, I mean, at this point. But if you send over some info, I can include my coworker, Bryce, Who is on the tooling side of things. I don't actually run the SDR team. I'm A program manager, so I support the SDR org globally, but I I am fairly involved in this sort of stuff. So if you send over some info, I can look, But, I don't know, like, I don't know if it would make a ton of sense if you only integrate with those platforms from an, outreach and engagement side of things.
+16. [Sales Rep]  I hear you. I hear you. So which what's your, like, current tech stack?
+17. [Prospect]  Currently use Outreach.
+18. [Sales Rep]  Outreach. So I'm guessing you're looking to move off of it.
+19. [Prospect]  Potentially, it's not, you know, something I can really share or something that were work fully, decided on, but yeah.
+20. [Sales Rep]  Okay. Got it. Yeah. I mean, the outreach and sales lofts, I mean, those are the, like, the ideal integrations for to have the greatest impact. That's why, like, as a strategy, we focus on those. But we also integrate with HubSpot and Apollo. So what I guess approximately how many weeks from now do you think you'll have more clarity on what your SEP of choice would be?
+21. [Prospect]  It'll be in November.
+22. [Sales Rep]  Okay. November. Okay. Yeah. I'll send you something, just as follow-up so you so you know about us and what we do. And if yeah. I mean, if you end up going with SalesLoft or HubSpot or Apollo, then we can definitely integrate with that. Yeah. Okay. Cool. Would it make sense if I just go ahead and throw something out for for November at a certain time and and we loop right in that invite as well? If you guys like what you see in my 1 pager, then you can let me know if the meeting still makes sense.
+23. [Prospect]  Yeah. You can throw it on and I can let you know, once we get closer.
+24. [Sales Rep]  Okay. Perfect. I'll just do something like early November. And if it needs to move, just let me know. But really appreciate the time.
+25. [Prospect]  Sure.
+26. [Sales Rep]  And, oh, 1 last question for you. I'm not sure if maybe you know it or not. How many approximately how many dials a day does an average outbound rep make over there?
+27. [Prospect]  Around 20.
+28. [Sales Rep]  Okay. And I'm guessing then a lot of people that give us the 20 range, they're also saying that, like, their Most senior leaders are looking to start seeing more outbound output as the market starts returning to normal slowly. Would you say that's the case for you guys too?
+29. [Prospect]  Yeah. We focused, we made a call focusing, like Q4 of last year, so we've actually had a huge uptick In our calling, but yes. Always a focus area for sure.
+30. [Sales Rep]  Okay. Awesome. Yeah. Well, I appreciate all the info, Ali, I'll send this info your way.
+31. [Prospect]  Thanks.
+32. [Sales Rep]  And, Yeah. Thanks for the time. Have a good one.
+33. [Prospect]  Yeah. Of course. Yeah. Thank you.

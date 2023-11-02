@@ -1,0 +1,6 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Anand.
+3. [Prospect]  Yep. This is Anand.
+4. [Sales Rep]  Anand Anand, this is, Cameron Baker over at Nook. Totally frank. It's a a cold call. Do you have 30 seconds to hear me out. See if it makes sense to chat.
+5. [Prospect]  I am actually on the company all hands right now.
+6. [Sales Rep]  Okay. No worries. 1 might be a good time to catch you free. Okay. Sounds good. Thanks,

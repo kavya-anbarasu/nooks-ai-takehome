@@ -1,0 +1,36 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Jane.
+3. [Prospect]  Yep.
+4. [Sales Rep]  Hi, Jane. It's, it's Cameron over at Nook. Totally frank this is a cold call. We have 30 seconds to hear me out, see if it makes sense to chat. Appreciate that. Saw your leading sales dev at Prizia. How how important is cold calling to to your own pipeline gen efforts? No worries.
+5. [Prospect]  Sorry. I'm eating. I would say it's important. Yeah.
+6. [Sales Rep]  Okay. Are your reps like, when they go about that, are are they using, like, a sales loft or an outreach? Or or they call him right out of their CRM.
+7. [Prospect]  We're calling out of our CRM.
+8. [Sales Rep]  I see. Okay. Don't know how high volume you are or or what, but a few challenges that we're hearing from other teams, Jane, is number 1, connect rates are going down. It's taking more activity to kinda drive the same results that once were, in response to that. Sometimes only the best reps are actually making Enough dialed and enough calls to drive meaningful pipe. Lastly, it can be it can be difficult to enable and and pivot on messaging without sending the call after call, to improve the script. But does any of that resonate with you at the moment, or am I totally off track with that?
+9. [Prospect]  Well, we just actually started implementing cold calling about a month ago, so I'm still kind of Ramping the team up on that. But, yeah, I mean, that makes sense.
+10. [Sales Rep]  Okay. I'll share with you what we do. You can let me know if it makes sense or not to chat, but, I've reached you using our platform. So with today's connect rates, I mean, typically, a rep is gonna log on. They might have 50 calls to make in a day, a 100 calls. It's quite the manual workflow. They're gonna call 1 by 1, listen to those ringtones, and have to log a lot of tasks only to actually have a view conversations. As opposed to that, Art Software and AI is handling all of the manual work of cold calling, and it's only connecting me to folks who answer the phone live like yourself. In addition to that, we've got some really cool, like, a virtual sales floor, which, if your reps are remote, kind of solve the challenges of Zoom call blitzes, allows them to learn by attrition. Now I know you're kind of early in the cold calling journey, but does any of that sound like it would be worth taking a look at?
+11. [Prospect]  Yeah. I mean, I'm open to seeing it. I've had demos of, with similar software in the past, I think, the biggest challenge is just the cost of it.
+12. [Sales Rep]  Yeah.
+13. [Prospect]  Oh.
+14. [Sales Rep]  Yeah. Well, I hear that a lot. I know budget is a challenge right now, and, You know, what we like to do is, with most teams is, of course, show you the platform, but also, We allow your reps to actually call on the platform for 2 weeks for free. So,
+15. [Prospect]  Oh, okay.
+16. [Sales Rep]  yeah, typically, proof is in the pudding there, and you can see relatively quickly if if you're gonna, you know, generate the pipeline that that other companies do with us. But, yeah, you you said, Let's, let's take a look here. When do you have any availability, like, later this week or next?
+17. [Prospect]  I've got a lot of availability Friday the
+18. [Sales Rep]  Friday is at 8. Okay. We did too. That's, that's a little far out. We we definitely do too. Morning or afternoon work better for you?
+19. [Prospect]  I wouldn't say either. You're are you Pacific time?
+20. [Sales Rep]  I'm EST.
+21. [Prospect]  Oh, you are. Okay.
+22. [Sales Rep]  Yeah. So I I thought are you still in Philadelphia?
+23. [Prospect]  Yeah. I just saw, like, when you called, it said, like, a California.
+24. [Sales Rep]  Oh, yeah. We're headquartered in California, so I just called from that number.
+25. [Prospect]  Oh, okay. I could do 230 Or 3:30. That works.
+26. [Sales Rep]  Yeah. Let's, let's do Three thirty eastern is that, email I have for you is looks like jane.wachik@freezeo.com.
+27. [Prospect]  Yeah.
+28. [Sales Rep]  Okay. Let me get that set up with Marcus. It'll just be 1 extra step when we actually meet. Putting in your email. We'll show you the platform from within it. But I just, sent over that invite. Oh, You might not be in a front of a computer right now, but it it might go to spam since we haven't exchanged emails before.
+29. [Prospect]  Mm-mm.
+30. [Sales Rep]  Mind taking a look at? And let me you said you're calling out of the CRM. Could I ask what CRM you're using?
+31. [Prospect]  Okay. Salesforce.
+32. [Sales Rep]  Salesforce at the moment. Okay?
+33. [Prospect]  Mhmm. I actually do have a call at 2:15 that I have to run to, but, I haven't seen it come through yet, but I'll I'll keep an eye
+34. [Sales Rep]  Alright. Cool. Awesome. Well, I'll, yeah. Thanks for taking the call, and we'll, we'll catch you on on Friday, September 8.
+35. [Prospect]  out for it. Okay.
+36. [Sales Rep]  Awesome. Thanks, Shane. Bye bye.

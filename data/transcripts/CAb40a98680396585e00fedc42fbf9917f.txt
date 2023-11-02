@@ -1,0 +1,6 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Annalise. Cameron over at Nook. How's your Thursday going?
+3. [Prospect]  Oh, I'm so sorry. I'm actually in a meeting.
+4. [Sales Rep]  Hey. I'm I'm sorry. I'm sounds like I caught you at a bad time. Is there a is there a time I can catch you for you for 2 to 3 minutes that Might work for you today?
+5. [Prospect]  Yeah. Sometime, a little bit later. Maybe around, like, 3 ish.
+6. [Sales Rep]  3 o'clock. Alright. I'll shoot you a call around then. Thanks,

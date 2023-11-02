@@ -1,0 +1,10 @@
+1. [Prospect]  Hello. It's Paul.
+2. [Sales Rep]  Hi, Paul. This is, Daniel with Nook's. I'll be honest. This is a cold call. Wondering if you'll hear me out for a few moments.
+3. [Prospect]  Couple minutes. That's it. I'm about to Think that was I was supposed to go on the call. That's right. Go ahead. Hurry up.
+4. [Sales Rep]  Yeah. Yeah. Sure thing. So we actually met with, with with Nelly at a dinner in Seattle with Sam Nelson, and we talked about
+5. [Prospect]  I don't I don't I don't know who that is.
+6. [Sales Rep]  Oh, Nellie's, like, the head of SER at Everlaw.
+7. [Prospect]  Oh, you have the wrong person.
+8. [Sales Rep]  Oh, okay. I'll let you go. Take care.
+9. [Prospect]  You're you're trying to get my son.
+10. [Sales Rep]  Oh, I see. Okay. Well, we'll update this info.

@@ -1,0 +1,20 @@
+1. [Prospect]  It's Paul.
+2. [Sales Rep]  Hey. Is this Paul?
+3. [Prospect]  It is.
+4. [Sales Rep]  Paul, it's Patrick calling from Nook. How's your how's your Thursday going?
+5. [Prospect]  Where you calling from?
+6. [Sales Rep]  I'm calling from a company called Nook, and I'm sure you could tell that this is totally a cold call? Do you have 30 seconds to, like, hear my pitch and why I called you? And if you hate it, you can feel free to feel free to hang up with me. Does that sound like a good deal?
+7. [Prospect]  You have 30 seconds starting from right now.
+8. [Sales Rep]  Let's do it. So I'm reaching out because I saw that you own sales excellence over at ServiceNow. And basically what we're doing over at Nook's is helping teams that are focused on cold calling 3 to 5 x activity for their team, 3 to 5 x conversations, at bats, and ultimately meetings generated, as well as, like, collecting enablement stuff and and and helping, provide kind of, like, on on call enablement too, like, to help increase conversions as well. So getting that connect to meetings ratio up. So that's kind of the quick spiel. We help companies with, like, abnormal security, seismic. But I wanna take a step back and and say, hey, Paul. Is cold calling a big piece of ServiceNow's outbound strategy? Or help me understand your world a little bit better.
+9. [Prospect]  Well, the punchline is I'll be leaving service now in the next few weeks. 1. 2, that part of the business like cold calling and development is really more on the product side. We don't do a lot of it in the services space. Right? So
+10. [Sales Rep]  Oh, I got you. You're on the service
+11. [Prospect]  you're gonna wanna connect. Yeah. I'm on the services side. So, you're gonna wanna go navigate through the product sales organization and try your I also know I think they have a bunch of this capability already. I don't know what they've run. Maybe ZoomInfo or something. I don't know. I know they have Some tools that they're using on the product side. I just don't know what they are.
+12. [Sales Rep]  gotcha. Well, Paul,
+13. [Prospect]  But that's that's where I'm gonna point you. How's that?
+14. [Sales Rep]  I appreciate that. Yeah. So good luck in your next role. I am I am curious. Do you mind giving me, like, a name the name of someone? I think, I think I spoke with Larry over there before, Anderson. Like, is there anybody in particular who, like, owns this kind of conversation?
+15. [Prospect]  I think no. I I I don't know many of the folks over there, to be honest with you. We're fairly siloed here in the services business.
+16. [Sales Rep]  Okay.
+17. [Prospect]  Larry, I think rings a bell, but I honestly I just I I wouldn't be able to give you a good name. I apologize.
+18. [Sales Rep]  I got you. No worries. Are you excited about your next role, or are you, taking some time off?
+19. [Prospect]  Yeah. I am. Well, I'm gonna take a little bit of time off and then I'm gonna turn up somewhere in the ServiceNow ecosystem.
+20. [Sales Rep]  Cool. Well, I'll I'll connect you on this, and let me see where you end up. But, Paul, thanks for the time and the context. Have a great one.

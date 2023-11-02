@@ -1,0 +1,8 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Eric. It's Patrick calling from, from Nook's. How's your Friday going, man?
+3. [Prospect]  Hey, Patrick. I'm sorry. Where did you say you were calling from?
+4. [Sales Rep]  I'm calling from a company called Nook's. Any chance you ever heard of us? It's like books, but with, with an n on the front.
+5. [Prospect]  No. I'm sorry about that, Patrick. I haven't. I'm actually just about to run into a meeting, ma'am.
+6. [Sales Rep]  Oh, no. Terrible timing. Can I give you a callback later?
+7. [Prospect]  Yeah. Of course. If you don't mind, call me right around 5:30 because that's when I'm gonna be heading out.
+8. [Sales Rep]  Eastern Time, right? You're in Mass? Cool. Sounds good, man. Thanks so much. Cheers.

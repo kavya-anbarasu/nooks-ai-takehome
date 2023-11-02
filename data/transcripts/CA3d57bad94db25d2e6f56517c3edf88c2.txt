@@ -1,0 +1,6 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Etchants. How's it going? This is Patrick calling from Nook's. I gave you a shout a little while ago. And you said this might be interesting and asked for for me to set over some case studies, but basically what we talked about was, like, hey, you guys are doing cold calling over there. We help your team kind of increase The amount of, act the activity in the app that your team is getting every day, like increasing conversations and connects on a daily basis. So I wanted to, like, follow-up and see if you got a chance, check out the email. It's not totally fine, but wanted to see if that, like, moved anywhere on your radar.
+3. [Prospect]  Nope. There's not.
+4. [Sales Rep]  Not at all.
+5. [Prospect]  But you try Christie Sizer because she is the director of outreach. If you like it, she'll contact
+6. [Sales Rep]  Alright. Sounds good. I can do that. Thanks so much, Etchants. Have a great rest of your day.

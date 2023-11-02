@@ -1,0 +1,12 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Maria.
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hi. Yeah. Hi, Maria. It's Cameron over at Nook's. Totally frank, this is a a cold call. Do you have 30 seconds to hear me out and see if it makes sense to chat?
+5. [Prospect]  Yeah, you you can go ahead. I'll admit I don't really have a budget for anything, but you can go ahead and share with me what you what you're doing.
+6. [Sales Rep]  Heard I'm I I might be in the wrong place anyways. I was I was just curious seeing that you're a VP of sales if, if cold calling is also an important part of pipeline gen at Coupa.
+7. [Prospect]  Yeah, not from my group. We're more kind of, consultants in nature, so we join the sales cycle as deep experts on sharing value. So we don't do cold calling. It's more like we're parachuted in when we need to bring contacts to a sales cycle.
+8. [Sales Rep]  Right. Okay. Yeah, Maria. I think I I had my my data wrong here, So I'll save you some time.
+9. [Prospect]  Well, I think titles are silly, And so it probably is confusing, but I would say I don't do yeah, I don't do that,
+10. [Sales Rep]  Alright. Well, I appreciate you picking
+11. [Prospect]  and nor does the team.
+12. [Sales Rep]  up. Okay. Yeah. You too. Bye bye.

@@ -1,0 +1,6 @@
+1. [Prospect]  Hi. This is Lauren.
+2. [Sales Rep]  Hi. This is Lynn Pinchek at DirectTVX.
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hi, Lynn. My name is Kevin. I'm a Product Manager at Nook's. We're a Stanford founded startup that builds Am I catching you at a bad time? I would just love a minute to ask you about how you,
+5. [Prospect]  Yeah. I'm actually on a airplane, and I'm getting ready to take off. So it's a bad time.
+6. [Sales Rep]  Oh, I'm so sorry. Have a safe flight, Lynn.

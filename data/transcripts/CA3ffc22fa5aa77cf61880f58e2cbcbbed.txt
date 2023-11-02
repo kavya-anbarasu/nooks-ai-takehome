@@ -1,0 +1,5 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Ted? Ted, hi. This is Daniel with notes. I'll be totally honest. This is a cold call. Just wondering if it'll be a few seconds.
+3. [Prospect]  Well, let me let me first of all, I'm no longer with Exelon. It's every time.
+4. [Sales Rep]  Oh, got it. Take care.
+5. [Prospect]  Okay.

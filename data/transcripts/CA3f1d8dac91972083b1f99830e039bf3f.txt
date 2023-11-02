@@ -1,0 +1,13 @@
+1. [Prospect]  Hello. This is Maria.
+2. [Sales Rep]  Like, for example, in HubSpot Hey, Maria. You can
+3. [Prospect]  Hi.
+4. [Sales Rep]  Hey. It's Skyler with Nook's. I know it's kinda a shot in the dark here. Saw you're a director of biz dev at Signet Health. Do you have anything to do with, like, Outbound cold calling by any chance or
+5. [Prospect]  I do not. No. No. I'm I work with established accounts.
+6. [Sales Rep]  Gotcha. Hey. No no worries. Any idea, like, who might be a better person to reach out to, by any chance?
+7. [Prospect]  I'm I'm honestly not sure. I think we have, like, a separate that does a lot of that stuff.
+8. [Sales Rep]  Do you know what their tie like,
+9. [Prospect]  So it's not that the
+10. [Sales Rep]  do you know what their title is? Maybe like account development instead?
+11. [Prospect]  like, sales sales development maybe?
+12. [Sales Rep]  Okay. Perfect. No. Thank you so much.
+13. [Prospect]  Yeah. No problem.

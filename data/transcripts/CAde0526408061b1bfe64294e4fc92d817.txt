@@ -1,0 +1,20 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Praveen?
+3. [Prospect]  Who is this?
+4. [Sales Rep]  Praveen, hey. This is Daniel with Nook's. I'll be totally honest. This is a cold call. I'm just wondering if you'll give me a few moments.
+5. [Prospect]  I actually can't talk right now. I'm already running late for a meeting that's happening in about 10 minutes. If you wanna send me an email I think I know a little bit about Nook. I think my husband actually interviewed there for a CS job, but he took something else. But,
+6. [Sales Rep]  Oh, were you at the were you at the Sam were you at the Sam Nelson dinner in Seattle where we presented our road map.
+7. [Prospect]  if you wanna just No. I'm in Utah.
+8. [Sales Rep]  Oh, gotcha. We're actually doing an event in Utah. You want me to send you the details? I can text them to you.
+9. [Prospect]  Sure. That's fine.
+10. [Sales Rep]  Okay. Cool. It's, well, I guess I have the right number. Right?
+11. [Prospect]  Yeah. Yep.
+12. [Sales Rep]  Okay. It sounds like you heard about Nook's before. Have do do you guys use like, do you guys already cold call a lot on your team?
+13. [Prospect]  Yeah. We got actually out of Outreach, and we're doing all the calls in, HubSpot right now because they wanted to consolidate the tools, and they don't plan on leaving it any
+14. [Sales Rep]  Oh, perfect. We integrate with HubSpot. How many how many dials do they make per day in HubSpot?
+15. [Prospect]  I think right now about 50. If it's anything like Orem, by the way, I'm a be very candid with you. I'm not interested.
+16. [Sales Rep]  Oh, gotcha. Why is that?
+17. [Prospect]  I don't like that. Because normally, I mean, like, I don't know if it's a coincidence, but even when I talked to you right now, there was a huge pause before you said anything to me. I'm just not a fan, to be honest, because I don't wanna burn through hundreds of accounts and contacts because we only have a specific amount of TAM. And I already said no to Orem and so did my VP. So if it's anything like that, we're not gonna be interested right now.
+18. [Sales Rep]  I see. Okay. Do you have any idea when that might be, like, Something worth looking at again.
+19. [Prospect]  I don't know, honestly. My VP is also not super bought in on it. I think my CRO talked to actually someone at Orem, and he was he thought it was kind of interesting, thing, and then my VP shut it down pretty quickly. So I would say maybe by mid next year, because we're prioritizing a few other things right now.
+20. [Sales Rep]  Okay. Yeah. Makes perfect sense. I think it's just best if you if if we sync up at, in in Salt Lake, We're actually all going to be there, a lot of our team will be. So it'll be great to see like how we're addressing these types of challenges that all dialers have, but, yeah, I'll just send it to you via text, but Have a great meeting. Take care.

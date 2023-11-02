@@ -1,0 +1,4 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Philip. Skye with Nooks. Saw your manager at, Confluent over there. Was just Curious if you've got reps making, like, cold calls by any chance, or am I, like, totally in left field here?
+3. [Prospect]  Hi. We're we're not interested in
+4. [Sales Rep]  Hey. No no no worries. I mean, I I haven't really explained what we do, so I don't know how you'd be interested yet. You guys don't outbound at all, though?

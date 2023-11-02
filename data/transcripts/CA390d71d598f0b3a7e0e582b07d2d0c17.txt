@@ -1,0 +1,10 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Don.
+3. [Prospect]  Yes. May I ask who's speaking?
+4. [Sales Rep]  Yeah. Hi, Don. It's, it's Cameron Baker over at Nooks. Totally frank. This is a, cold call. Do you have 30 seconds to hear me out? See if it makes sense to chat?
+5. [Prospect]  Sure. I think you called me a couple times before already, though.
+6. [Sales Rep]  I I might've called you. I don't think I've spoken to you.
+7. [Prospect]  Is it regarding the dialer?
+8. [Sales Rep]  We do have a dialer. Maybe have you, have you maybe you've spoke to Skyler here.
+9. [Prospect]  Possibly. I referred him to my counterparts at at Gigamon. I'm no longer at Gigamon. I'm at a new company called Cyberbit, and we're too small to use Any dialers?
+10. [Sales Rep]  I see. Okay. Well, I apologize for the, the double call here. Alright.

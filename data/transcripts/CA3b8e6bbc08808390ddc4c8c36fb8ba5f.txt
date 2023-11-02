@@ -1,0 +1,46 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Eric. Yeah, Eric. It's, Cameron over at Nook's. I'd appreciate him catching you out of the blue. Do you have a moment?
+3. [Prospect]  Sure. What's up, Karen?
+4. [Sales Rep]  Hey. Not a lot. Just working through my Monday. Are your reps, Eric? Are you, are are they making cold calls too?
+5. [Prospect]  Yes.
+6. [Sales Rep]  Cold calls. How are they going about that at the moment? Is that like, like a sales loft or an outreach or what's their system like for that?
+7. [Prospect]  We don't have a dialing tour Yep. So the name and platform right now. So we're using Zoom dialer.
+8. [Sales Rep]  Oh, you're calling right out of Zoom. Okay. How how are you finding that? I mean, I'm I'm not a sales engagement platform or not representing 1, but, I mean, do you feel like you might move towards 1 soon? Or
+9. [Prospect]  No. Realistically, I mean, leveling with you would be next year. So I'm starting to look at stuff for now. But We're looking at budgets for next year. I mean, I'm pretty low in the total pulse. I can't just say, you know, I want this. We're signed up for it now. So That's reality situation for me.
+10. [Sales Rep]  I see. Yeah. Right. Okay. Yeah. I I well, I'm calling you from Nook's. We're a we're a parallel dialer at our core, virtual sales functionality
+11. [Prospect]  K.
+12. [Sales Rep]  too. But, you know, essentially, if your reps are dialing 1 by 1, we're enabling them to dial through 33 to 5 folks at same time, and we're only connecting them to those live conversations.
+13. [Prospect]  Do you guys have software or do you have physical dialers?
+14. [Sales Rep]  You know, we interact. What was that?
+15. [Prospect]  Are you guys a software, or do you have people who are physically dialing,
+16. [Sales Rep]  No. Yeah, we are we are a software, so it's actually our AI that's doing the dialing. Yeah. Not physical people.
+17. [Prospect]  So how do you handle, gatekeepers or wrong person with, AI.
+18. [Sales Rep]  In terms of gatekeepers, are you are you calling into a market where primarily you're getting connected to a gatekeeper?
+19. [Prospect]  Not primarily, but maybe, like, a third Is the time something like that to a half?
+20. [Sales Rep]  Right. So 2 different things. I mean, I guess if you have to use a dial tree to get to the gatekeeper, we're normal with our parallel dialing, we're gonna skip that dial tree and and turn it into a one off task. Know if the gatekeeper is answering the phone, if you're calling a business line, we'll we'll treat that just like any other connect. But, in our case, your rep would, you know, handle that gatekeeper. We don't have a live person who's who's doing that.
+21. [Prospect]  Okay. Okay. Understood.
+22. [Sales Rep]  Now, I mean, it sounds like you know, I know with with Zoom callers, we or or Zoom's dialing platform, you know, we interact with CSV in that case. I don't know how you're dialing now, but is, you know, connecting your reps or speeding up their path to having conversations is is that a focus right now or not?
+23. [Prospect]  Yeah. No. I mean, definitely something I'm looking into. What type, You know, sort of boost when you begin teams, I guess. Give me a sense of, like, how it works because I've I've never heard you guys. I've looked at tools like this, but never heard you guys Specifically. Sorry. That was a mouthful. So tell me, you know, what I do for my team, essentially?
+24. [Sales Rep]  Yeah. Absolutely. So, I mean, we find that right now, typically, you know, this might be a little bit off, but connect rates are anywhere from, what, 5 to 10%, maybe a little bit lower depending on what you're selling into. So assuming you're with the Zoom dialer, we are are simply gonna speed up those call paths, you know, instead of me let's put it this way. In the past, you know, it would take me 4 hours maybe to make a 100 dials, right, on a better day.
+25. [Prospect]  K.
+26. [Sales Rep]  So all that time I'm spending listening to ringtones, taking notes, logging call tasks for had 5 people to pick up. You can view the other 95 people who don't as kind of a waste of time using Nook's in just this last hour. Made about a 130 dials through my 6th or 7th conversation. So it's really just taking away the time of making those dials and and get in your reps more at bats and and therefore more meetings in pipeline.
+27. [Prospect]  So how you guys my first thought with any tool like this is, showing up as spam on, like, people's back ends, which obviously wouldn't help our connect rates. You know, we can have high volume, but, how do you guys sort of combat that, or what is that like from your perspective?
+28. [Sales Rep]  How do we I think I'm rip missed your first two words. How do we combat what?
+29. [Prospect]  Oh, showing up as, like, this call is spam or potentially spam, like, when you get dialed from a random number you don't know. That's my work taking, like, more dials that that could start to happen.
+30. [Sales Rep]  Oh, yeah. Yep.
+31. [Prospect]  So what is that like from your perspective? How do you sort of combat that?
+32. [Sales Rep]  We have 3 ways that we combat that. Up to 5 numbers at the same time, we're gonna provide you with your acturate data on each of those. If any of those numbers gets reported as spam, you're gonna see that, that spam risk alert tied to that number. You can go ahead and cycle it out right away. In addition to that, before you start any call block, you can make a test call to yourself. Before this call block, I realized with that test call that, one of my numbers was potentially spam, made a pivot there. And on top of that with all the call connect data, you'll pretty quickly see when you've exhausted one of your numbers as well. Would it would it make sense, Eric, to to maybe give you a deeper dive sometime next week?
+33. [Prospect]  Yeah. Sure. I am moving next week, so it might be tight. Might have to push him in the 1st week of September.
+34. [Sales Rep]  Okay, I've got my calendar up. Let's take a look here. You're thinking 1st week of September makes sense?
+35. [Prospect]  Actually, probably do next week. I have
+36. [Sales Rep]  Okay.
+37. [Prospect]  Monday 28th. Where are you located?
+38. [Sales Rep]  I'm located in Michigan. What about yourself?
+39. [Prospect]  Same time zone. I'm Boston. Okay. So I have, 2 to 3:30 on Monday, the 28th or
+40. [Sales Rep]  Already on
+41. [Prospect]  12:30 on Tuesday, 29th. And then I have 12 to 2 on Wednesday 30th. Those are really dealing blocks I have next week.
+42. [Sales Rep]  yeah. No worries. Let's do, let's go ahead and do 2 to 2:30 on Monday, 28th. And what was that? I think I do. The one I have on file here is see, eric.kushner@teamsnap.com. Alright. Alright. So I just sent that invite your way. I don't think, Eric, that I've sent you an an email in the past, so it might might pop up in your enter spam filter.
+43. [Prospect]  Okay.
+44. [Sales Rep]  Eric. Oh, I see the problem here.
+45. [Prospect]  Alright. I gotta run, but if you got any issues, call me back next week. I'll look I'll look up that calendar, man. Sound good?
+46. [Sales Rep]  You bet. I just shot it your way. Thanks, Eric. Yeah. Catch you next week.

@@ -1,0 +1,8 @@
+1. [Prospect]  Hello. This is Paul.
+2. [Sales Rep]  Hey, Paul.
+3. [Prospect]  Hello. This is Paul speaking.
+4. [Sales Rep]  Hi, Paul. Cameron over at Nook's. Totally frank. This is a Cold call. Do you have 30 seconds, Sid? Hear me out. See if it makes sense to chat.
+5. [Prospect]  Sure. But just 30 seconds, unfortunately. I'm just in the middle of something.
+6. [Sales Rep]  No no worries at all. How, I saw you're a VP of sales at Slack. How important from a top down perspective is cold calling to your to your pipeline gen efforts over there right now.
+7. [Prospect]  I'd say it's pretty important to the Slack, Pipegen efforts. Unfortunately, I've recently left the company, so I'm not the right contact for that anymore. I would suggest, Reaching out to, probably, like, Reggie Miller. He's an SVP, that is in the Slack org across the industry and, the r e g g I e. I wouldn't tell him that I sent you that I but he's the right he would be a good level to engage with.
+8. [Sales Rep]  Yeah. Super appreciate that, Paul, and best of luck on whatever you're doing next, man. You bet.

@@ -1,0 +1,25 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Melissa?
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hey. This is Daniel with Nooks. I'll be totally honest. This is a cold call. I'm just wondering if you have a few moments for me.
+5. [Prospect]  Sure.
+6. [Sales Rep]  Really appreciate that. I'll be super brief. So I know that you lead sales enablement at, at Logix Monitor, and I'm actually calling you with our own technology, Nook's. And what it does is, so the vast majority of cold calling activities when reps to do them is nonrevenue generating. You know, they're waiting for the phone to ring, they're dialing 1 by 1, they're logging no answer tasks most of the time and rarely are they In conversation like this, our AI actually automates all that manual work. And so, for example, how I've been using it is Over the past hour, you're like my 13th, 14th conversation. And so the impact that has on our ability to Efficiently generate pipeline with outbound technology
+7. [Prospect]  Mhmm.
+8. [Sales Rep]  is quite dramatic. And we work already with, you know, lots of companies, like Pretty large companies. Some small companies, but mainly like mid market enterprise companies for this sort of thing. I guess based on that, Is that at all relevant to any priorities ongoing at logic monitor? A lot of people are saying that they are looking to improve outbound output but make it more efficient. So we fit really nicely with that priority.
+9. [Prospect]  You know, I'm really not sure, you know, when it comes to sales enablement, really, our team manages The decisions and the tools and the strategies that our sales organization hands down to us, we Build out, you know, the learning experiences around that. I don't know if it's of interest or would be relevant to our sales teams. So I think you'd probably have to reach out to one of our sales leaders to to get really
+10. [Sales Rep]  I see. I see. Yeah. I actually used to sell LMSs in the past life,
+11. [Prospect]  does that make sense?
+12. [Sales Rep]  and I I I'm getting the sense then that because sometimes sales enablement people, they do oversee more of the tech that I'm talking about. But I guess in your case, it truly is, like, enablement like content and the the the, like, learning delivery It makes sense. Okay.
+13. [Prospect]  Yeah.
+14. [Sales Rep]  Yeah.
+15. [Prospect]  I mean, like, you know, like like, for instance, like my team, we manage Gong because Gong is a tool that Record conversations and that sellers use, right, as a tool, but ultimately manage that because we can take that and evaluate it and determine, you know, where there's gaps with our sellers. But, like, a tool like you like you're talking about is really something that would be looked at by the sales organization. So
+16. [Sales Rep]  I see. Got it. Okay. We do happen to have part of our platform is basically What Gong does, but for cold calling specific
+17. [Prospect]  Mhmm.
+18. [Sales Rep]  conversational intelligence, would that be worth sending you any info about?
+19. [Prospect]  Maybe, I would say so,
+20. [Sales Rep]  Like, we can basically tell you.
+21. [Prospect]  We divide our stuff in. I I I've a co manager on my team,
+22. [Sales Rep]  Mhmm.
+23. [Prospect]  so I manage content creation, she manages implementation Of of content and such, and she manages Gong for our company. Her name is Kate Donahue, so she'd probably be a better person to contact if
+24. [Sales Rep]  Okay. Got it. Well, I really appreciate that info then, Melissa. I'll let you go, but, have a great rest of your day.
+25. [Prospect]  that You as well. Thanks. Bye bye.

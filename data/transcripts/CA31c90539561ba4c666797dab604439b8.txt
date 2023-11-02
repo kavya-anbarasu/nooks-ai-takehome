@@ -1,0 +1,12 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Olivia?
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hey, Olivia. This is Daniel with Nook's. I'll just get right at the point out of respect for your time. I'm calling you with our AI. It made 300 dials for me Over the past 2 hours, I haven't made a single one. Near my 17th conversation, if we were to set a meeting, You'd be my 5th meeting over the past 2 hours. That's what we do for software sales teams. And I was wondering if this is something you'd like to take a closer look at.
+5. [Prospect]  I don't think so. We used to use Connect and Sell, which Just something similar. And we actually decided to get rid of it just given the nature of our business. You know, cybersecurity professionals, already don't want to disclose information and so it just was not a fit for for our business.
+6. [Sales Rep]  Okay. When we were first talking to Elastic, The large tech company out of New York that talks to a lot of cybersecurity professionals, they were feeling the same way. Then after, like, you know, the period of layoffs and restructuring, they started to gain an appetite for outbound prospecting. And they actually have transformed their pipeline using NUCs calling into cybersecurity professional.
+7. [Prospect]  Yeah, I just don't think we're in a place right now where we can even implement anything new. We just did a pretty significant round of layoffs. So we've had some Pretty major budget cuts. We're definitely not in a place to really do anything new right now.
+8. [Sales Rep]  I hear you. Okay. Fair enough. 1 question for you. Do you guys use Outreach or SalesLoft?
+9. [Prospect]  Read that, Rich.
+10. [Sales Rep]  Outreach. Okay. Approximately how many cold calls per day do reps do over there?
+11. [Prospect]  Oh gosh. I I couldn't even tell you at this point. Probably a little less than 100 a day.
+12. [Sales Rep]  Okay. Gotcha. That's helpful. Alright, Olivia. Well, thanks for your time. I'll let you go. And, yeah, best of luck.

@@ -1,0 +1,6 @@
+1. [Prospect]  Coast. Can I help you?
+2. [Sales Rep]  Hey, Casa?
+3. [Prospect]  Yeah.
+4. [Sales Rep]  Hey, Costa. It's, it's Cameron Baker over at Nook's. Totally frank with you. This is a cold call. Do you have 30 seconds to hear me out, see if it makes sense to chat.
+5. [Prospect]  I I I actually I appreciate it. I actually don't have time right now, but thank you for calling. I
+6. [Sales Rep]  You bet, Costa.

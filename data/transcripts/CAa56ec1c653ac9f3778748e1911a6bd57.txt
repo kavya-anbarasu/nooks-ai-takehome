@@ -1,0 +1,8 @@
+1. [Prospect]  Hello. This is Mary.
+2. [Sales Rep]  Hi. Is this Mark?
+3. [Prospect]  Yep.
+4. [Sales Rep]  Hey, man. This is, just, this is Rohan. I'll be honest. This is a cold call. Do you have a quick, 30 seconds to give me a chance and see why I'm giving you a call?
+5. [Prospect]  I have yeah. Just if you could keep it quick here, that'd be great.
+6. [Sales Rep]  I'll take it brief. I'll take it brief. Hey. Are you, do you lead, kind of like a team of outbound reps over at Homes, or is that, kind of Not here. We're live. Do you know if you guys do have anyone on your team at all doing that?
+7. [Prospect]  No. Nope. No. We don't do that at all. Nope.
+8. [Sales Rep]  Oh, okay. Okay. Sorry about that. I think, Must have done my research, Ryan. I think I had business development and, on your LinkedIn. That's probably why you got, got, on my on my list. Thanks.

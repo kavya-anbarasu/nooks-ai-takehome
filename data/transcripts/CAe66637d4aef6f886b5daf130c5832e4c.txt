@@ -1,0 +1,12 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Natalie.
+3. [Prospect]  Hello?
+4. [Sales Rep]  Hi, Natalie. It's, it's Cameron over at Nook's. Totally frank, this is a a cold call. Do you have 30 seconds to hear me out?
+5. [Prospect]  Yeah. I I know what Nook's We don't have any authority in the in the buying process, to be honest with you.
+6. [Sales Rep]  You've heard of us. I mean, does it is that kind of in the realm of of things that you would think would be helpful for the team at, I guess, at a base level?
+7. [Prospect]  You know, we're we're still fairly small. For our team right now. I mean, I just don't think it's something that we're, we're ready for.
+8. [Sales Rep]  Okay. Yeah. Yeah. That that certainly makes sense. But it it sounds like at least you're you're looking to grow through, through cold calling. Is that kind of a primary focus for Pipeline Gen?
+9. [Prospect]  Yeah. I mean, I know I know notes from my previous company. We haven't explored anything like it now. So,
+10. [Sales Rep]  No worries.
+11. [Prospect]  Yeah. It's just it's just a bit or a bit too small.
+12. [Sales Rep]  Okay. Alright. Well, I, yeah, I appreciate you taking the call, Natalie. Alright. Yeah. Take care.

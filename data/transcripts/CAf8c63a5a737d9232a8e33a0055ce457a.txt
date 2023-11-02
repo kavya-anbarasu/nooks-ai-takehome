@@ -1,0 +1,9 @@
+1. [Prospect]  Hello. This is Maureen.
+2. [Sales Rep]  Hey, Marine. Cameron over at Nook's. How's your Friday going?
+3. [Prospect]  Okay.
+4. [Sales Rep]  I'm good. I appreciate you asking. Maureen, this is a a totally a cold call. I I had you as a director of sales at Covio. Do you mind if I steal 45 seconds of your time?
+5. [Prospect]  Actually I am no longer at Coveo, so probably not worth it.
+6. [Sales Rep]  Okay. Okay. Are you kind of in limbo right now? Are you onto the onto the next thing already?
+7. [Prospect]  I'm still kind of in limbo. You know, Kind of in between jobs at the moment so I don't have anywhere at the moment.
+8. [Sales Rep]  Okay. Well, best of luck. I will, I'll shoot you a connect request here on LinkedIn. Best of luck. I'm finding the next thing. I, hope it goes well for you, and Have a great weekend. Alright? Yeah. Thanks.
+9. [Prospect]  Bye bye.

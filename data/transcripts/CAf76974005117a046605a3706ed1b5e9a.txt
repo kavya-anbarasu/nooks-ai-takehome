@@ -1,0 +1,6 @@
+1. [Prospect]  Hello? I went ahead and dropped it in the card, put a credit card number,
+2. [Sales Rep]  Hey. Is is this Evelyn?
+3. [Prospect]  and Yes. It is. It looks exactly like the site that I've used.
+4. [Sales Rep]  Hey, Evelyn. It's Patrick calling from. How is your how's your Friday going?
+5. [Prospect]  And, credit card. Alright, Patrick. I'm on a I'm in a meeting. So can you tell me why you're calling? And I apologize.
+6. [Sales Rep]  No. No. No. I apologize. This is totally a cold call. I can give you a callback later when you're not in the meeting. No worries at all.

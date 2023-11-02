@@ -1,0 +1,9 @@
+1. [Prospect]  Hi. This is Brennan.
+2. [Sales Rep]  Hi. This hey, Brennan. This is Daniel with Nook's. I'll be totally honest. This is a cold call. Just wondering if you have a couple of moments.
+3. [Prospect]  Sorry. Who's what's your name?
+4. [Sales Rep]  I'm Daniel with Nook's. Nook's is an AI that, I used to call
+5. [Prospect]  Hey, Daniel. I'm sorry sorry to interrupt you. You called me on my cell the other day. I, I've taken a demo with your CEO, actually. Not a great fit for us, but I do appreciate the
+6. [Sales Rep]  Okay. Cool. I'll let you go. When do you do you think there might might make sense, like, down the road? Or what was the reason?
+7. [Prospect]  I think a few things. I don't think that I'm the right person. I'm not in sales dev. I don't do too much cold calling where I think notes would be very beneficial. So To be honest with you, Daniel, I don't know when the right time would be, but I do know that I am not the right person. And so I've gotten a few cold calls from you guys. I respect the hustle. I do the same, but, again, I don't think I'm the right person. So maybe if you can update your CRM to the note, That that would
+8. [Sales Rep]  Yeah. For sure. I'll do that, Brandon. Thanks for that. Take care.
+9. [Prospect]  be great.

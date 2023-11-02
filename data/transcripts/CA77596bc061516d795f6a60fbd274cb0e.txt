@@ -1,0 +1,64 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, John. Hey, John. It's, it's Cameron over at Nook's. Totally frank, this is a a cold call. Do you have 30 seconds for me to share why I called? We can see if it makes sense to chat.
+3. [Prospect]  For sure.
+4. [Sales Rep]  Appreciate that. So you're leading biz dev over at customer. I was curious. Is cold calling, is that Also an important part of of your team's pipeline gen strategy? Or
+5. [Prospect]  Yeah. Yeah. Speak
+6. [Sales Rep]  Okay. So how is your, how's your team going about that at the moment? Do they do they dial out of, say, SalesLoft or Outreach or do they have a system in place for that?
+7. [Prospect]  Yeah. We we, have Outreach right now.
+8. [Sales Rep]  Outreach. Okay. Gotcha. I'll just share a few challenges that we're hearing with with other, know, outbound cold calling teams can let me know if they're relevant, but, of course, priority number 1 is that, connect rates are lower than ever. It's taken a lot more activity to get the job done and actually bring in pipe. In response to that, on a lot of teams, there's a big activity gap. Only the best reps on the team are actually putting in the dials to drive meaningful pipeline. Then as well, it can be hard to to make Changes pivots to your messaging unless you're listening to call after call. Does any of that hit home for you in the team right now or totally off track?
+9. [Prospect]  Those are very common challenges to any SDR organization.
+10. [Sales Rep]  What what might be the kind of like top of mind focus for you whether that be connects actual KPIs and activity of the team or enablement?
+11. [Prospect]  Yeah. Probably right in this exact moment. It's Yeah. Sure. So we're trying to figure it out. You know, I I've been I was a customer for a while. I left,
+12. [Sales Rep]  Okay.
+13. [Prospect]  and then we came I came back as a boomerang. And then the the 4 STRs are very tenured as well, and they, they were some of my top performing reps back in the day, so we brought them back. Traditionally, we've had most of our success through email in the customer experience space, calling into, like, retail, d to c companies. A little bit harder to, connect rates have been typically pretty low whether we pull from Zoom in So Apollo, LeadIQ,
+14. [Sales Rep]  Yeah.
+15. [Prospect]  you know, we've used multiple data sources. But Right now, we're right now, we have a big pool of old opportunities that we're going through. A pretty massive pool we've typically had success And it's been a while since they've been reached out to. So, you know, we're our response rate is pretty high. We're we're getting about 10% response rate, 11% response rate on on each email that we send out.
+16. [Sales Rep]  Yeah. That's good.
+17. [Prospect]  It's, it's more just you know, we're a rip and replace model, so everybody has a CRM. We're just and we have to See when their contract is with the timing game. So probably the biggest thing that I is on my mind is some sort of intent That's gonna tell me that somebody is looking to buy
+18. [Sales Rep]  Yep.
+19. [Prospect]  something right now. Let's
+20. [Sales Rep]  Right. Yeah. I,
+21. [Prospect]  see
+22. [Sales Rep]  I can certainly let you know what, what what I like to use for that. So but but I'm not calling you with an intent software. What we do is, you know, as opposed to the workflow where reps are Placing a dial 1 by 1, listening to that ringtone, logging call tasks for, in most cases, prospects aren't picking up. What we do is do all of that manual work for them. And as opposed to placing those dials, we only connect, connect your reps to folks pick up the phone live.
+23. [Prospect]  Hello?
+24. [Sales Rep]  So typically a big you have life change and
+25. [Prospect]  Can I cancel ORM type software then?
+26. [Sales Rep]  Yeah. Yeah. We're similar, in the same space. And I'd say when it comes to, like, live and post call enablement, that's where we've got quite an edge. And then I'd like to say that we've almost completely figured out the bridge time issue too. Is that have you looked into tools like that before? It sounds like.
+27. [Prospect]  Yeah. I've used both connected cylinder worms Invest.
+28. [Sales Rep]  I see. I guess, was there anything if you've used it in the past, was there anything holding you back from, say, when you moved Back to customer, from looking into tools like that.
+29. [Prospect]  You know, we thought about it. Actually, we thought about it.
+30. [Sales Rep]  Okay. John, would it make sense to maybe show you and maybe some of your team Tool sometime next week if it's if it's relevant.
+31. [Prospect]  Yeah. What's let me look at your company real quick. I'll make it. What what's the name of your company? How how, how long you guys been in business?
+32. [Sales Rep]  We have been in business for as far as I know since 20 Nineteen, but don't I might be shooting myself in the foot.
+33. [Prospect]  And you said it's, what are they called? Which company?
+34. [Sales Rep]  Nooks. It's like books with an n. Nooks. That's right.
+35. [Prospect]  San Fran.
+36. [Sales Rep]  It's out of San Francisco. That's right.
+37. [Prospect]  Smart virtual sales support and dialer powering and dialer powering the best SDR and BRT. K. So you just got your seed round.
+38. [Sales Rep]  I don't know if you were supposed to see that.
+39. [Prospect]  What?
+40. [Sales Rep]  We're not. We just, I don't think we've, we've announced that yet.
+41. [Prospect]  Oh, it's on LinkedIn. How many employees do you have?
+42. [Sales Rep]  We are just about to have 25 Full time employees starting the week after, after Labor Day. Pretty engineering heavy. I was the, 20th full time employee.
+43. [Prospect]  Did somebody come from Connected Cell OR Orem or
+44. [Sales Rep]  No. No. Not as far as I'm aware. No. Our team, Our team came out of Stanford. It was a group of engineers that were working on AI. Originally, they just were working on the virtual sales floor And, a few years back, kind of before ICP was defined, but then, you know, That transitioned into virtual Salesforce for remote teams into a full calling platform, with the dialer and kind of like a Gong like reporting, for for enablement for teams as well. So, no no one came over for more of them, but we're definitely in the race.
+45. [Prospect]  What what dialer did you use to call me?
+46. [Sales Rep]  I used our own. I've I've reached you through Nook's. I did reach you through Nook's. And, yeah, typically typically, when we square away some time, I mean, we'll we don't make it fit fit through, like, a 30 minute disco first. 1st call, we'll show you the platform. I'll make some cold calls with the platform with you and, show you how it works. So, Yeah. Let me know if that's something you're open to.
+47. [Prospect]  Yeah. Actually, I'll I'll be open to that.
+48. [Sales Rep]  Okay. That sounds good. And you said you're using outreach.
+49. [Prospect]  Yep.
+50. [Sales Rep]  Okay. I've got my calendar pulled up. John, if you don't mind pulling up yours and let me know It's something early next week works.
+51. [Prospect]  Let me see here. Yeah. What are you what are you thinking?
+52. [Sales Rep]  I am thinking I've got a slot 11 to 11:30 Eastern time on Tuesday. Could also run anytime between 12:30 and 2 on Wednesday, And then we're much more opened up on Thursday and Friday.
+53. [Prospect]  Sorry. Say that one more time. Do you have do you have anything on Monday?
+54. [Sales Rep]  On Monday.
+55. [Prospect]  We'll we'll do Tuesday. You said Tuesday? Tuesday is pretty open for me. What what time Tuesday?
+56. [Sales Rep]  Does, does Tuesday at 11 EST work for you?
+57. [Prospect]  Could you do 11:30?
+58. [Sales Rep]  I should I should be able to. Yeah. Yeah. And if, if, my Account executive isn't available the whole time. I'll just run the call. Yeah. Let's do 11:30, Tuesday. And best email for you is that john.dioracustomer?
+59. [Prospect]  Yep.
+60. [Sales Rep]  John, Dyer. I do not think I've sent you an email before, John. So, might end up in spam, but I did just Send me the invite if you don't mind taking a look for me.
+61. [Prospect]  Not seen it yet. I'm just refreshing on my phone. Yeah. Just came through.
+62. [Sales Rep]  Cool. Alright. Well, I will add a meeting link, to that in a moment here. We we'll do it in our platform. It'll just be 1 extra step step, enter your email, and, and I'll let you in come Tuesday. Yeah. I'll I'll be happy to to walk through the platform with you then and thanks for taking the call.
+63. [Prospect]  Yep. No problem. Sounds good. Thanks, Cameron.
+64. [Sales Rep]  Appreciate it. Yeah. Have a good

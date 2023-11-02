@@ -1,0 +1,5 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Grant?
+3. [Prospect]  Yes.
+4. [Sales Rep]  Grant, hi. This is Daniel with Nook's. Although I'm seeing the info we have on you and I think, This cold call would be a waste of your time, so we will not call you anymore.
+5. [Prospect]  No worries, man. I appreciate it.

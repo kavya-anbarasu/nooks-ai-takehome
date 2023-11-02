@@ -1,0 +1,13 @@
+1. [Sales Rep]  Hey,
+2. [Prospect]  Hello?
+3. [Sales Rep]  Craig.
+4. [Prospect]  Yeah. Hello?
+5. [Sales Rep]  Yeah. Hi, Craig. It's, it's Cameron Baker over at at Nook. I, appreciate I'm catching you out of the blue. Do you have a moment?
+6. [Prospect]  So I'm at the airport right now, and I can barely hear you. What was
+7. [Sales Rep]  I I was just letting you know it's a cold call. Might not be the right time. Do you have do you have 30 seconds?
+8. [Prospect]  I'll tell you what. I kind of heard what you said, but I can barely hear you. Is there any way you could text me?
+9. [Sales Rep]  Yeah. Yeah. I can text you, Craig. Absolutely.
+10. [Prospect]  Yeah.
+11. [Sales Rep]  Alright. Thank you, Craig. I'll text you in a moment.
+12. [Prospect]  Okay. Okay.
+13. [Sales Rep]  Yeah.

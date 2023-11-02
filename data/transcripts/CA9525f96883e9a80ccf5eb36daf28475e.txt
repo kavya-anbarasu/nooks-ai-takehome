@@ -1,0 +1,16 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi, Taylor.
+3. [Prospect]  Hello?
+4. [Sales Rep]  Hey, Taylor. It's, it's Cameron over at Nook. So I appreciate I'm catching you out of the blue. Do you have a a moment?
+5. [Prospect]  Hey, Cameron. Yeah. Yeah. I do. I I saw that you've been calling. How you've been doing?
+6. [Sales Rep]  I'm doing well. Yeah. I appreciate you've been or I appreciate you asking, man. How are you?
+7. [Prospect]  Good. Yeah. This is just, kind of a slow Friday, so just, just catching up on some things and working on some rules of engagement and all that fun document stuff.
+8. [Sales Rep]  Sure. Are your, are your 10 STRs, are they, are they making cold calls too?
+9. [Prospect]  So no. We're we're inside sales, all all inbound stuff. There is kind of a push, you know, to, use, or or to, you know, implement Some some outbound and stuff. But right now, our workflow is pretty steady on the inside, inbound leads that we get. So
+10. [Sales Rep]  It's not a bad not a bad problem to have. Yeah. I'm actually I'm I'm calling you with the platform. It's, it's like a parallel dialer and virtual sales for it. It's called it, or at its core. It kind of amplifies, amplifies outbound efforts and only, you know, connect reps to folks who pick up the phone. So it's mostly mostly relevant to teams that are pretty heavy outbound on cold calling. It sounds like probably not a fit for Altus right now.
+11. [Prospect]  Yeah. Not right now. But like I said, there is kind of a push to, you know, drive a little more revenue and, you know, incorporate some outbound stuff, You know, for the SDR team, it's just but it's all kind of a work in progress. You know? I I, you know, I've had some dialogue with with my with my VP Me and just my boss and and talking about stuff. So we we do a lot of, like, in house campaigns and stuff too. But, you know, we we just kinda use Outreach, platform for that that they are the company already has as a tech tool. But, you know, obviously, if if the if the outbounding and and cold calling, cold emailing, stuff like that does does, you know, come to fruition and they start splitting their time with that, you know, I I would definitely be, you know, Open to to meeting with you and kinda talking through how how that could benefit us. You know? But, yeah, I'm not I'm not real. Like I said, yeah, we're pretty we're pretty busy with, the inside stuff right now.
+12. [Sales Rep]  Yeah. Like I said, that's a good problem to have. I hope, I, of course, you know, hope inbound doesn't dry up, but, Yeah. I'll, I'll Taylor, I'll shoot you a I probably already did shoot you a connect request on LinkedIn, but, You know, I'll probably just circle back in in a few months few months, 9 to 6 months, see if y'all are are more heavy on the outbound or not and maybe, maybe it'll make sense to chat.
+13. [Prospect]  Yeah. Yeah. Thanks, Cameron. I appreciate that. Yeah.
+14. [Sales Rep]  Yeah. You bet. Thanks for taking the call. I appreciate it, and, you guys take
+15. [Prospect]  Yep. Alright. You too. Talk soon.
+16. [Sales Rep]  I

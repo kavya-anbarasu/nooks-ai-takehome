@@ -1,0 +1,20 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey. Is this is this, Ed Tunes?
+3. [Prospect]  Is this a sales call?
+4. [Sales Rep]  It's totally, it's totally a cold call. But if you have 30 seconds, I'll tell you exactly why I called you, and then you can hang up on me if you hate my pitch. Does that sound like a good plan?
+5. [Prospect]  30 seconds ago.
+6. [Sales Rep]  Alright. So I saw that you Own sales operations of our quorum. And, basically, what we're helping teams do is 3 to 5 x the call activity of the that your team is doing, 3 to 5 x meet conversations they're having, and ultimately increasing meetings booked through parallel dialing. But At the same time, we're actually helping your team with enablement so that you can also increase conversions and turn that increased net income we connect into into pipeline.
+7. [Prospect]  Alright. What Does your platform is it is this people platform? Like, what's the what's who's your largest competitor?
+8. [Sales Rep]  Oh, so our closest competitor is probably probably Orem is the one we hear about the most. We're not a people platform, though. We're totally run on AI From our virtual sales floor to our dialer chart reporting. And it's, the AI is pretty cool too from, like, how it helps you guys understand where you guys are Struggling on calls and where improvement is necessary. So it's pretty, it's a pretty interesting technology that that runs the platform.
+9. [Prospect]  Okay. And does it integrate what does it integrate with?
+10. [Sales Rep]  Are you guys leveraging, like, Outreach or SalesLoft or anything like that?
+11. [Prospect]  Yep.
+12. [Sales Rep]  What do you guys use over there? Just Salesforce? Salesloft? Okay. Yeah. So, basically, we would integrate with Salesloft, and we could help your team manage it based off their Cadences, we can actually pull in, like, some fields from SalesLoft, so they have the context they need to actually, like, be successful on this call. So we integrate directly with SalesLoft and it's a really easy integration to set up, but a pretty powerful one too.
+13. [Prospect]  More than 30 seconds. Cool. I am can you send me more information by email? It'd be great to have some hard numbers as to, like, How you can triple my output with the same amount of DERs that I have, and then I will, see when I can book a meeting maybe, but not right now.
+14. [Sales Rep]  Yeah. Absolutely, totally. I will is edtiance@quorum.us
+15. [Prospect]  Probably the next day. Yep.
+16. [Sales Rep]  the right email to send that at?
+17. [Prospect]  It's urgent.
+18. [Sales Rep]  Edtiance. Oh, so sorry. Thank you for correcting me. Really cool name, by the way. But, yeah, I'll, I'll get that over over email. I'll send a case study as well so you can kind of see how we he's helped impact customers, and then hopefully we can, chat in the near future.
+19. [Prospect]  Cool. Sounds good. Thank you.
+20. [Sales Rep]  Thanks, Ed Tienens. Cheers.

@@ -1,0 +1,28 @@
+1. [Prospect]  Hello. This is Macy.
+2. [Sales Rep]  Hey, Macy.
+3. [Prospect]  Hey.
+4. [Sales Rep]  Hey, Macy. We had, we had spoken 2 days ago. This is Cameron Baker over at Nook. You had asked me to call back. Is it a a better time?
+5. [Prospect]  Can Yeah. Sure. What's up, Cameron?
+6. [Sales Rep]  Cool. I appreciate that. Yeah. I was just reaching out. I know you mentioned, you mentioned the other day that that cold calling is, I guess, an important piece of your, of your pipeline, Jen. Are are all your reps cold calling to build pipe or a few? Okay. Cool. Yeah. I'll just share with you what we do. You can let me know if it seems relevant or not. Actually, I've I've reached you with our software now twice. So, what Nook's does is as opposed to reps kind of playing the ringtone waiting game, maybe making 50 to a 100 dial a day and and only having a few at bats or a few conversations. What what Nook helps with is just connecting reps 2 folks who answer answer the phone live like yourself. So while, you know, it's it's powering, you know, 3 to 5 x, the live conversation you could have with manual dialing. Also taking care of all those call tasks and and manual work and, say, SalesLoft or Outreach, whatever SCP the reps are using. Have you have you explored tools like that that kind of automate calling before?
+7. [Prospect]  Yeah. We have. We've looked into it a little bit, who we talked to. We've talked to Orem
+8. [Sales Rep]  Yep.
+9. [Prospect]  once and, Gong. We looked into Gong. So we actually are looking to build our tech stack a little bit,
+10. [Sales Rep]  Okay.
+11. [Prospect]  but not exactly at this moment. We're going through some Salesforce changes still, things like that, and then we're we're looking to build, you know, our tech stack a little more. So do you do you guys integrate with HVS, perhaps? Because I know Orem said they did not.
+12. [Sales Rep]  High Velocity Sales through Salesforce.
+13. [Prospect]  Yes.
+14. [Sales Rep]  We currently do not, so I don't one to overpromise. Our road map has our Salesforce integration. Our our engineering road map has that Salesforce integration releasing in about 2 weeks. So, admittedly, when we we normally trial teams for that same amount of time for 2 weeks. So, admittedly, like, if if you were to come and test this out, you you'd be one of those first that are working with that integration, I think. But, it it should be coming very soon. But then again, road maps can sometimes get delayed, so I don't want to tell you it'll be ready exactly October 1st.
+15. [Prospect]  Yeah. Yeah. That makes sense. And and I completely understand being in corporate, everything takes So, yeah, I think we would be interested in chatting with you guys, but when You know, that integration is in place.
+16. [Sales Rep]  Cool.
+17. [Prospect]  So would you want and I'll I'll bring this up to my manager that I've talked to. Your name is Cameron?
+18. [Sales Rep]  My name is Cameron. Yeah.
+19. [Prospect]  Cameron. Cameron at Nook's? Okay. Yeah. If you wanna just connect with me on LinkedIn and then let me know when
+20. [Sales Rep]  Cool. Alright. Sounds good. I just, just send you that that connect request. And and just curious, was when you explored Orem, was there, like, any major blocker for or or reasons that you didn't move forward with them, or was it just, just a timing game? Oh, it was that integration, wasn't it?
+21. [Prospect]  Yeah. It was it was the integration. Yeah. They can't they can't integrate with HBS, and so it would have
+22. [Sales Rep]  Oh, it's
+23. [Prospect]  we would have had to, like they basically just wouldn't work without
+24. [Sales Rep]  right. So your your team is calling right out of Salesforce. You don't have like a sales loft outreach or sales engagement platform at the moment.
+25. [Prospect]  Nope. Yeah. We don't have anything. We're just using HVES or sales engagement, through Salesforce. We used to have SalesLoft, but they switched us over to HVS.
+26. [Sales Rep]  I see.
+27. [Prospect]  And we're a little we were a little sad about it, but it it's okay. It's not bad.
+28. [Sales Rep]  Yeah. Yeah. Alright. Well, yeah, we've got a a long list of folks waiting for that integration. So, yeah, I just show you that connect. I'll, I'll I'll send something your way as soon as it's it's looking a little bit brighter on that side. Alright. Cool. Thanks, Macy. Take care.

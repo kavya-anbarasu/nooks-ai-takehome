@@ -1,0 +1,23 @@
+1. [Prospect]  This is
+2. [Sales Rep]  Hi. Is this Andrew Davis at PowerSchool?
+3. [Prospect]  Andrew. Yeah.
+4. [Sales Rep]  Hi. My name is Evan. I'm a PM at Nook's. We're a Stanford founded,
+5. [Prospect]  Yes. Hi.
+6. [Sales Rep]  startup building dialer software. Is now a bad time?
+7. [Prospect]  Yeah. I'm actually with my coworkers right now at a, like, a happy hour, actually.
+8. [Sales Rep]  Oh, well, I'm so sorry. I might have my time zones wrong then.
+9. [Prospect]  No, you're good. No, you're good. I mean, it's only 3:50, but we we started pretty early today.
+10. [Sales Rep]  Hey. If if you're doing cold dials, you know that, like and if you're doing cold calls, dialing is kind of a pain in the ass. I joined Nook's just because I use it I use dialing a lot. Would you like me to call you back at an at a later time? Would this be something that's interesting to you and your team?
+11. [Prospect]  Yeah. Yeah. Yeah. Yeah. Did you who are you calling from again? I'm sorry.
+12. [Sales Rep]  NOOKS, n o o k s. We we build parallel dialers.
+13. [Prospect]  Have you guys sent me an email?
+14. [Sales Rep]  Yes. I can absolutely send you an email. For andrew.digaspowerschool.com.
+15. [Prospect]  Yes. Yes. Send me an email and take a look. I have all day. The reason why it's so early is I am at all day QVR Today and well, from 6 AM to to 3 PM, 3 AM tomorrow, and then I'm actually out for 2 weddings.
+16. [Sales Rep]  Oh, that must be brutal.
+17. [Prospect]  So If you send me an email, it's probably gonna be the best. Otherwise, I'm gonna be out for about 2 weeks, and I'll be back the week of November 5th. I think the best bet would be either send me an email or follow-up with me, like, the week of November 5th.
+18. [Sales Rep]  Yeah. I mean, if you guys are doing cold calls, would love to just book something tentatively for that week or even the week after.
+19. [Prospect]  Yeah. Send me some info, and I can take a look. And I'm not familiar with it. And, like, right now in this context, I'm not gonna be able to
+20. [Sales Rep]  Oh, absolutely. And you've been in meetings all day. I I know what that's like.
+21. [Prospect]  To kinda give you my full attention. Yeah. Yeah. So just send it over to me, and then I'll I'll take a look.
+22. [Sales Rep]  Alright. Well, thank you, Andrew. And, Yeah. Enjoy your happy hour.
+23. [Prospect]  Alright. I appreciate it. Thanks. Bye bye.

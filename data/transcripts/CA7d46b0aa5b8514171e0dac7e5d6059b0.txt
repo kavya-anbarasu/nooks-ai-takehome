@@ -1,0 +1,34 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi, Adam.
+3. [Prospect]  Yes. This is
+4. [Sales Rep]  Yeah. Hey, Adam. It's, Cameron Baker over at Nook. So I appreciate I'm catching you out of the blue here. Do you have a a quick second to chat about your BDR
+5. [Prospect]  Adam. Yeah. A few minutes. What's up, Nook? Did we request something from you guys?
+6. [Sales Rep]  Yeah. No. No. No. I just had you had a as a BDR manager at Cariba. Totally frank. It's a cold call.
+7. [Prospect]  Mhmm.
+8. [Sales Rep]  I I I guess the only only real question I had for you with your team of outbound cold callers is how you're How you're managing, you know, in the face of low net rates getting harder to get finance leaders on the phone, how you're ensuring that your reps Are actually having enough conversations on the phone to hit target.
+9. [Prospect]  Like you mean technology wise, like what I mean how are we ensuring they're calling the right people?
+10. [Sales Rep]  Yeah. Yeah. Maybe,
+11. [Prospect]  Is that the question?
+12. [Sales Rep]  maybe I should have asked if that's even a problem for you. I mean, typically Typically, when we're chatting with FCR leaders, they're finding that, especially over the last year, it's been harder to get Prospects on the phone. Whether that's a data issue, whether, you know, it's in response to those connect rates that reps are Having some call reluctance and putting in less work, on the phones, is is that something you face or or your Your team your team kinda killing it right now.
+13. [Prospect]  I mean, we're hitting exceeding pipeline generation, all that kind of stuff. I mean, we're using ZoomInfo for people. So I mean, We don't have issues like buying direct dials, mobiles. I think it's seasonality to like time of the year we're trying to reach people, right, like July to September, you know, it's kind of a vacation time and people are minds are elsewhere, right, so people are taking the time off and enjoying outdoors, but I don't know. What do you guys do that you think you can help us with?
+14. [Sales Rep]  Yeah. Well, I'm not I'm not totally sure that, You know, there's there's a need here or not, or something that we can help you with. But, I guess a typical sales rep's experience, at least for my my own and and talking to others, is that when they sit down for their call block, you know, they might make spend 1 to 2 hours dialing, on the phones, but most That time is actually spent logging no answer call tasks, listening to ringtones, kind of waiting waiting for that handful of conversations with their prospects.
+15. [Prospect]  Right. Mhmm.
+16. [Sales Rep]  Reps place where quite a lot of wasted time. Reps might not be prepared because folks aren't answering the phone, and Frankly, can can be quite demotivating. So, in response to that, you know, we essentially Take your reps and and handle those calls with AI, and only connect them to to live conversations. So folks like yourself who pick
+17. [Prospect]  Mhmm.
+18. [Sales Rep]  and and handle all of the the kind of TaskRabbit stuff for them in the background.
+19. [Prospect]  Gotcha. Okay. Yeah. You know, we've multiple companies have It sounds like it's a dialer, right, that you're proposing or that you guys help with.
+20. [Sales Rep]  Yeah. Yeah. That's that's certainly 1 component. One component is the, the power and parallel
+21. [Prospect]  Is that what I'm hearing? Yeah. Yeah. I mean, we've looked at
+22. [Sales Rep]  Right.
+23. [Prospect]  Some other multiple other companies got it, but just I mean, even before COVID, it just it's not For our industry, for our setup, it's not on anybody's wish list. Some other minds not going to solve the problem. It's more of the BDR outbound calling What they're doing, it's not gonna get looked at as far as the dialer goes to help increase conversations and Output like that. Don't know what else to Say,
+24. [Sales Rep]  Yeah. No worries. I I understand. You you said that the The actual problem you're looking to to address is what?
+25. [Prospect]  for I don't know. What did I? I don't,
+26. [Sales Rep]  I I thought I heard
+27. [Prospect]  I'm not really sure I have a big problem or anything. I mean, we can always improve efficiency wise, but yeah, like Dialers not going to, be looked at for something like this. For our industry, For what we're doing.
+28. [Sales Rep]  Right. I'm I'm I'm guessing that might come from a place of, like, you know, your team is making strategic calls. There is potentially, you know, calling finance leaders, CFOs, there's potentially, You know, a lot more a lot more research that needs to be done before you have that conversation. Am I am I on the right track? Or Or should I should I hang up on myself?
+29. [Prospect]  I mean, yeah. It's both the volume and and quality approach. Right people, you've got to do more. But if you are efficient and you're spending the time to research the prospect, the account what happened previously use that to your advantage in email, on the phone, the LinkedIn, but I just I don't see us. I don't see any other technology. We have SalesLoft and ZoomInfo, Salesforce, Navigator. I don't it's not gonna conversation is not gonna go anywhere if it's, like, a Dialer efficiency.
+30. [Sales Rep]  Right. I hear you. And you you said you're hitting you know, already hitting pipeline gen targets and such. So, I mean, if what if what's working is is working, then, I hear you. It probably doesn't doesn't make sense to bring something into, you know, double that output, Or whatever the case may be. But, Yeah. Adam, I I appreciate you taking the call, man. It was, my 1st connect of the day, so Apologies if I was a bit rusty, but but I do appreciate the pickup.
+31. [Prospect]  No. Okay. I'm always interested in what's out there and technology wise, you know, Help out fellow development sales reps, but I just it's not something on anybody's mind, So it's not just a it's not a conversation to have, and you don't see don't even see a demo or anything like that.
+32. [Sales Rep]  Right. Right. Okay. Heard loud and clear, Adam. I, hope you have a good Weak man, and and appreciate it once again.
+33. [Prospect]  All good. Yeah. For sure.
+34. [Sales Rep]  Alright. Yeah. Take care. Yeah.

@@ -1,0 +1,19 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey. Is this Daniel?
+3. [Prospect]  Who is this?
+4. [Sales Rep]  This is, Patrick calling from Nook's giving you a a friendly little Halloween cold call. Do you have 30 seconds to hear why I kind of reached out to you? And if you hate it, you can feel free to hang up on me and go about your day.
+5. [Prospect]  Sure,
+6. [Sales Rep]  A alright. Sounds good, man. I appreciate it. So I was doing some research on touch Touch Bistro. Looks like you,
+7. [Prospect]  buddy.
+8. [Sales Rep]  you moved over to manage a team of sales development reps over there. And really, where we're helping teams
+9. [Prospect]  Mhmm.
+10. [Sales Rep]  is helping your team of SVRs increase the amount of conversations they're having through cold calling by, like, 3 x on a daily basis. And not just, like, increasing that stuff, but also doing it in a place where we're helping enable the team as well, so we can try and help increase those conversion rates as well. So the goal here is just to help your team have more conversations and book more opportunities, but me take a step back. Is cold calling a pretty big piece of your guys' outbound strategy, or what does your world look like at at Central
+11. [Prospect]  That was a fucking rat. He just put in line. I'm not even so no. It well, I deal exclusively with inbound leads, ma'am. So we don't do any
+12. [Sales Rep]  a gotcha. Gotcha. Is there a a better place inside the organization for me to reach out so I don't keep
+13. [Prospect]  I
+14. [Sales Rep]  wasting people's time?
+15. [Prospect]  don't wanna give away, you know, people's names without contacts or without contacts.
+16. [Sales Rep]  A
+17. [Prospect]  So if you wanna look out the outbound side of the business and try reaching out to that, that'd probably be a better strategy.
+18. [Sales Rep]  a
+19. [Prospect]  Thanks, buddy.

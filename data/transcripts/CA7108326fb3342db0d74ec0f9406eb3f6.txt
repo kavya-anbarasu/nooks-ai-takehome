@@ -1,0 +1,15 @@
+1. [Prospect]  Hi. Is Ryan?
+2. [Sales Rep]  Hi. Is this Ryan?
+3. [Prospect]  It is.
+4. [Sales Rep]  Hey, Ryan. This is Rohan. I'm cofounder of Stanford, founded a startup called Nook's. The reason I'm calling is because, I'm reaching out to people that lead SDR and BDR teams, in the SF Bay area. Do you, do you lead, like, a BDR team over at Automation Group?
+5. [Prospect]  I do.
+6. [Sales Rep]  Okay. Awesome. And your team, make cold calls?
+7. [Prospect]  A little bit, but it's not a big part of our role.
+8. [Sales Rep]  Okay. What kind of outbound, what what kind like, do you guys mostly do email, or what what what are you guys doing from an outbound perspective?
+9. [Prospect]  A lot of our stuff is warm. We have a big you know, we're we're in a niche market, so a lot of our stuff is Coming through on, either warm leads from customers leaving out or from partners in the industry.
+10. [Sales Rep]  Got it. Okay. Okay. Well, I you know, what we do at Knowlton's I'll tell you and it might not be relevant, but we help teams cold call more efficiently,
+11. [Prospect]  Yeah.
+12. [Sales Rep]  I'm kinda like what I'm doing right now. So might not be the best fit for you guys, but, may you know, maybe maybe download it if you guys ever decide to invest in, in cold calling. You know, we we can help with that. We typically help teams get 3 to 5 x more connects in a in a single
+13. [Prospect]  Gotcha. Yeah, yeah. Not something I think we'd be looking at investing in right now.
+14. [Sales Rep]  Cool. Okay. Yeah. No problem, man. Well, Ryan, I appreciate picking up the phone. Hope you have a good rest of your day.
+15. [Prospect]  Alright. Thanks. You too.

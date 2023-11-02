@@ -1,0 +1,9 @@
+1. [Prospect]  Hello? Hello?
+2. [Sales Rep]  Hey, Will. Cameron over at Nook's. I'd appreciate him catching out of the blue here today. Catch you at a terrible time.
+3. [Prospect]  Yeah. I mean, what do you guys do?
+4. [Sales Rep]  I I was simply curious to start. I know I have you as a VP of sales at Coupa. If if y'all have outbound cold callers as well that are important to your top of funnel, You're you're lead gen or if if that's not, you know, how you're going about go to market.
+5. [Prospect]  I I appreciate the call. I haven't been there, 3, 4, 5 years I left.
+6. [Sales Rep]  Oh, wow. My data is way off. I apologize.
+7. [Prospect]  So I really I really can't I really can't be of any help to you, but, good luck. Alright?
+8. [Sales Rep]  Yeah. Sorry. Will. Take care.
+9. [Prospect]  Okay. Bye. Yep.

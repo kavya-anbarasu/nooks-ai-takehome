@@ -1,0 +1,5 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Maddie, this is Josh with Nook's. How's your Thursday
+3. [Prospect]  Good. I am about to hop into a meeting, so I've got to go, unfortunately.
+4. [Sales Rep]  no worries. I will hey. You as well. I'll hit you up another time, Maddie.
+5. [Prospect]  Thanks.

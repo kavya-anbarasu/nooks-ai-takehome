@@ -1,0 +1,3 @@
+1. [Prospect]  Hello. Please state your name after the tone, and Google Voice will try to connect you.
+2. [Sales Rep]  Yep.
+3. [Prospect]  Google subscriber you have called is not available. Please leave a message after the tone.

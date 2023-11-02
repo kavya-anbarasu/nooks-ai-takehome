@@ -1,0 +1,45 @@
+1. [Sales Rep]  Hey, Benjamin. How's how's your Tuesday going there? Or month going? Jeez. It's Cameron at Nook.
+2. [Prospect]  It's going well.
+3. [Sales Rep]  It's it's, it's going well as well. Thank you for asking, man. I had you as a VP of biz dev at, Iron Scales. We're helping another major email security provider. I I guess I was just curious if your biz dev team is also making outbound cold cold calls to, to hit pipeline targets.
+4. [Prospect]  We do.
+5. [Sales Rep]  Okay. So talking to SCR leaders every day, I think one of the main challenges, especially calling into that security persona that we hear of. Connect rates are pretty low, especially compared to what they've been in the past. It can take a lot more effort, it's actually kind of driving the same pipeline results, and that reps are spending quite a bit of time in call blocks just listening to the ringtone logging no answered tasks. Is that something your team runs into, or am I totally off off track on that?
+6. [Prospect]  No.
+7. [Sales Rep]  Awesome. Are you, are you all using Outreach SalesLoft, to make those calls? Or
+8. [Prospect]  Yeah. We just we used failed Luft, And we just signed a contract on last Friday to switch
+9. [Sales Rep]  cool. Cool. Okay. We're on outreach as well. So, in that case, I'll kinda just share what we do. I'm using our software, to kinda, you know, beat that connect rate issue, spend more time in conversations than I would if I was manual dialing. So what we help with is just keeping your reps in conversations. We only them to live combos. Well, all that kind of task work on the back end with that ringtone waiting game, logging tasks is handled by our
+10. [Prospect]  Who are you with? Who who are you what company are you with?
+11. [Sales Rep]  I'm with Nooks.
+12. [Prospect]  How do you spell it? So how are you different than, like, a connect and sell or what's the other one?
+13. [Sales Rep]  Yeah. I mean, I think the biggest difference with Connect and Sell is that, you know, they're they're offshoring folks who are validating those phone numbers and and doing that handoff.
+14. [Prospect]  Yeah. Yeah. Sorry. That's not that's not the one I met. Who's your who's your other competitor?
+15. [Sales Rep]  I'd say our our main competitor right now is Aurum.
+16. [Prospect]  Yeah. Yeah. I've used
+17. [Sales Rep]  Let me let me take a step back, though. I had your team are are they all, you know, in office every day in in Charleston with you? Or
+18. [Prospect]  No. So I'm in Charleston. They're all in Atlanta.
+19. [Sales Rep]  Okay. Teams
+20. [Prospect]  Well, 2 of 2 of them are 2 of them are in Atlanta. 2 of them are in London.
+21. [Sales Rep]  2 of them are in London. Okay. Yeah. So I think I mean, I think the biggest difference between us and Aurum, you know, number 1 is just gonna be our our platform itself, our virtual sales force. So, you know, a space where reps can actually place those calls together, celebrate wins, do live listening, peer to peer and manager to peer coaching, you know, other other than that, well, let me ask you this. You you used Norm in the past, so I'm guessing that was in info sec or
+22. [Prospect]  Correct.
+23. [Sales Rep]  oh, okay. I see. Is there, you know, have you have you thought about doing a business case for something like this for iron scales, or has it just not seemed to make sense for you that it would work there?
+24. [Prospect]  Well, I have. I brought Orem up to my CRL About a month and a half ago and we're just holding off until January to add any new tools. We're trying to just finish out the year. We just signed with outreach and that was my one big thing that I was able to purchase this year.
+25. [Sales Rep]  Right.
+26. [Prospect]  Going into next year, it's absolutely something that we're gonna do, but it really doesn't solve the problem
+27. [Sales Rep]  Right.
+28. [Prospect]  That connect rates are so horrible. Right? Yes. You can make more dials in a day. I just need more people to answer the phone. We need better phone numbers. I've tried Cognizant.
+29. [Sales Rep]  Right.
+30. [Prospect]  Info. I've tried all of them. All of them suck, everybody's cell phones. And then when you do call their cell phones, they say, how'd you get my cell phone number? It's just a it's just a
+31. [Sales Rep]  Right.
+32. [Prospect]  So that and all these tools don't solve that problem. I can just call more people,
+33. [Sales Rep]  Yeah. Yeah. My
+34. [Prospect]  right, more bad numbers.
+35. [Sales Rep]  right. Right. So you yeah. I I guess I ran into that same issue. I was actually BDR ing into the security space myself at my pastoral, and that was certainly the most common objection. How the how the heck did he get my My information. I think where, you know, you will find a difference between us and Orum is the reporting side, though. I think, you know, you'll be able to see pretty quickly, you know, where where that data is actually falling short. We just had airbase, airbase actually take a switch from Orem after using them for 2 years over over to us. One of the big things that Carver, their BDR leader, said they were able to do. Was actually used our reporting within a week's time to see where things fell short and then make a business decision on moving toward the different data provider, because they were able to cleanly, you know, actually show that and create that business case from our data. But but we're certainly, yeah. We We aren't going to, be able to save your mobile numbers directly.
+36. [Prospect]  Yeah. We, I mean, we just can't get local numbers as is. So But I I know the importance of the tool. So I know I think the virtual sales floor, is that part of the different package? Because that's something we wouldn't need. That's I think I responded back to your email now saying, hey. We are we're all working together.
+37. [Sales Rep]  Yeah. That might have been someone a while back we emailed you. I haven't sent you an email yet. No. But I'll say this. I mean, if if Orum's already on your mind, no. Well, let me answer your question first. No. No different packages. I mean, it's all inclusive. Whether you end up using that Salesforce or not, just the dialer in the reporting, it's all kinda gonna be a baseline package at this point. We stopped, stopped doing, like, a la carte, so to speak. But, would love to be on your radar, like, come January,
+38. [Prospect]  Yeah.
+39. [Sales Rep]  as you're exploring
+40. [Prospect]  Send me over an email. I will evaluate both because I've used ORM in the past. I'm I know how to use it. So
+41. [Sales Rep]  right.
+42. [Prospect]  I'd rather see if there's anything better out there. I'm not just stuck on Orem. I would be happy to look come January. So Put a little ticker on your calendar. Reach out to me mid December so we can get something scheduled for January.
+43. [Sales Rep]  Cool. Awesome. Alright. I'll put that on the calendar for now. I'll shoot you a connect on LinkedIn, and I'll, I'll plan on touching base about a week week or two before Christmas.
+44. [Prospect]  Awesome. I really appreciate it. You have a good one.
+45. [Sales Rep]  Yeah. Thanks. You too, man. Take care.

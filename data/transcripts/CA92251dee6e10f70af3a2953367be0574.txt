@@ -1,0 +1,38 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Eloise.
+3. [Prospect]  Yep.
+4. [Sales Rep]  Hi, Eloise. It's Cameron over at Nook's. Appreciate I'm catching out of the blue here here. Do you have a moment?
+5. [Prospect]  I have, roughly 2 and a half minutes.
+6. [Sales Rep]  Alright. I'll do my best. I'm I'm guessing you're still leading, enterprise sales over at Artura. Is that, Like, the team of account executives, or do you have, do you have a team of outbound reps underneath you?
+7. [Prospect]  I've seen about 5 reps underneath me.
+8. [Sales Rep]  Okay. How important is cold calling to their pipeline gen strategy right now?
+9. [Prospect]  If I'm being honest, it's not that important because no one's answering the phone.
+10. [Sales Rep]  Okay. Okay. So we're dealing with low connect rates right now.
+11. [Prospect]  Yep.
+12. [Sales Rep]  What does, what does that look like for you? So are, like, the reps making a 100 calls, having 5 pickups, or even less than that?
+13. [Prospect]  Probably less than that.
+14. [Sales Rep]  Oh, wow. Okay. So we're we're potentially shifting away from cold calling? Or
+15. [Prospect]  I mean, at a certain point, I think that the the, you know, I don't wanna say that cold calling is dead because here you are, you know, catching me on a cold call, but, I feel like I answer more so than, than others just for some good juju for my teams. But,
+16. [Sales Rep]  Yeah.
+17. [Prospect]  Yeah. I think that, you know, we're we're lucky to get 1 person on the phone for every 500 calls right now,
+18. [Sales Rep]  Oh, wow.
+19. [Prospect]  And it's not for a lack of scrubbing or anything else. Right? Like and we have no we have hardly any inbound motion.
+20. [Sales Rep]  Yeah. That's Right. So is that I I mean, is is there something going on with potentially spam risk Phone numbers, do y'all cycle that out? Or
+21. [Prospect]  We cycle it out, so it shouldn't be,
+22. [Sales Rep]  okay. So we have a few ways that we solve for connect rates. Primarily, what we do, I mean, is is kind of amplify the rate at which reps are able to actually have live conversations. So, we're a calling platform that, as opposed to reps calling out of their CRM or SEP and waiting for dial tones all day, we handle those call tasks and that waiting game for for them and only connect them to live conversations.
+23. [Prospect]  Well, so listen. They're having live conversations, but it's with, you know, it's with the either the wrong folks or with the gatekeepers. Right? So so I'd be lying if I said the connection rate was, like, you know, 1 out of every 500. The reality is that the connection rate to the right person once it gets dialed in, even if they have the direct line, is low.
+24. [Sales Rep]  Right. So is that pretty often the case that a a rep is gonna talk to a gatekeeper first with your ICP.
+25. [Prospect]  100%, Almost every time.
+26. [Sales Rep]  100%. Almost every time. Okay. Yeah. I think
+27. [Prospect]  So 90 99%. There's gonna be a gatekeeper, and then they gotta work their magic to get past the gatekeeper. So I kind of I kind of understand what you guys do over at NUCs. The thing is, is I don't think that I don't think that that's going to do anything for us at the moment, and we also have, if I'm gonna be brutally honest, like, no budget, no spend.
+28. [Sales Rep]  Yep.
+29. [Prospect]  So even if you had something that was gonna, you know, quadruple our pipeline, We don't have any money.
+30. [Sales Rep]  Hey. Heard, heard loud and clear. And, yeah, I think, I mean, maybe a power dial dialer would be But we, we haven't, to be honest, cracked the code on
+31. [Prospect]  We work we work through a couple of companies with power dialers, and that didn't really the the improvement wasn't
+32. [Sales Rep]  Yeah.
+33. [Prospect]  there was no quantifiable improvement,
+34. [Sales Rep]  I I see. I see. Okay. Well,
+35. [Prospect]  which is, which is interesting, because I've, I've used them at other orgs where they've been, you know, super successful. I just think with our with our ITP and with people we're trying to connect with, it's, it's unlikely, so yeah. With that, I do have to go though. I have a meeting in a minute, But, I mean, you can try and hit me up again in a couple months.
+36. [Sales Rep]  Right. I appreciate you taking my call. Okay. Alright. That works for me, Eloise.
+37. [Prospect]  Alright. Alright.
+38. [Sales Rep]  Thanks for taking the call. Yeah. Take care. Bye

@@ -1,0 +1,79 @@
+1. [Sales Rep]  Hello?
+2. [Prospect]  Hello?
+3. [Sales Rep]  Hey. Is this Dana?
+4. [Prospect]  Yeah. What's up?
+5. [Sales Rep]  Hey. Sorry, Dana. I I just called you. I got disconnected. I it's Josh with Nook's. How's your Wednesday treating you?
+6. [Prospect]  Good. Nook?
+7. [Sales Rep]  Good. Nooks. Yeah. I, I'm probably catching you mid coffee sip If you drink coffee this late in your day, probably not. I don't know. Dana, I I
+8. [Prospect]  I see it's a gem.
+9. [Sales Rep]  Oh, nice. K. I'll be I'll be so quick because I respect the gym. Are we doing Are we doing back biceps? That's what my partner did this morning.
+10. [Prospect]  Oh, nice. Now I'm I'm doing some legs. I'm just on the thermostat warming up right now.
+11. [Sales Rep]  Okay. Bless you. Okay. Well, if you go quiet, it's because you passed out because the Stairmaster is a beast. So,
+12. [Prospect]  I guess.
+13. [Sales Rep]  Dana, I'll If I'm being totally upfront, I actually I have a buddy that works, at 1 local. I he was telling me that your SDR team I know you manage the SDR team there, and it sounds USDRs make a lot of cold calls and that they're they're good on the phone. They book a lot of their meetings through cold calling. Is that accurate or was he lying to me?
+14. [Prospect]  No. Yeah. That's true.
+15. [Sales Rep]  Okay. Good deal. I that's exactly why I was reaching out. So I don't know if you're bumping into this at all, Dana, but a lot of the folks, like, I'm talking to SDR managers every day, and when it comes to to making cold calls and booking meetings off the phone, it's a it's a great way for sure. My favorite way personally, but some challenges that they're all bumping into is, like, increasing volume. It takes forever. Getting connect rates can be low so that Sometimes your reps will spend a call block just listening to the ringtone. Is that something that your team's bumping into at all, or do you have something in place that kind of makes sure that doesn't happen?
+16. [Prospect]  So our my team is, like, very new. Like, we aren't fully ramped yet. So
+17. [Sales Rep]  Yeah.
+18. [Prospect]  They're still, like, going through the training period.
+19. [Sales Rep]  Awesome.
+20. [Prospect]  They have got to, like, a 100 calls a day, but it's not necessarily with, like, a target yet. So things like Connect Rate and stuff like that. It's more just, like, getting through the script. So I feel like then I guess it might be a little bit premature on my end because I I really, like, just bought them pretty recently.
+21. [Sales Rep]  Yeah.
+22. [Prospect]  So, yeah, I don't really know yet the answer
+23. [Sales Rep]  Yeah. No. That's that's totally fair. I'll tell you what. Like, one thing that you might be curious about just because they're all they're all, like, pretty new and they're ramping. I was the team lead over a bunch of SDRs in my last role, and something that was really cool with Nook's is we have a so it's a parallel dialer. You call a bunch of people at once. I've been calling for 20 minutes. I've gone through 60 dials. I've had 2 conversations, so it's saving a lot of time in that sense. But then also we have a virtual sales floor, so imagine your team being able to make calls together so it actually makes it kind of fun, and then it's pretty we're helping reps that companies like Seismic ramp faster because What happens, Dana, is let's say I'm on your team. I'm brand new. I get a pickup. You can actually listen into my call live really, really easily. Feedback chat kind of thing. And then as soon as the the call is done, now you can, like, jump in. You talk to that rep. You can give a lot of feedback. So it's just it's making coaching and ramping actually, like, really cool in that sense.
+24. [Prospect]  Okay. Cool. Well,
+25. [Sales Rep]  I am.
+26. [Prospect]  I actually do know that, hang on. I'm gonna ask you.
+27. [Sales Rep]  Uh-huh.
+28. [Prospect]  We're gonna be renegotiating or, like, looking into sales lost because that's what I use right now. Like, we have a live call studio. That's where I do my coaching. We've got, like, some of that stuff, Vocal dialer, things like that to increase the. But,
+29. [Sales Rep]  Yeah.
+30. [Prospect]  our CEO and then my other sales manager, We're discussing if you're, like, potentially looking at some other options. I don't know how far out of, like,
+31. [Sales Rep]  Mhmm.
+32. [Prospect]  Salesforce, but, like, I don't know, Josh. You might have, but I don't really have that much buying power to be perfectly honest. Like, my CEO is like, okay. You could
+33. [Sales Rep]  That's totally fair.
+34. [Prospect]  try the BDR team, but, like, it's not like they've got a huge budget for me to, like, be adding things on to be so upfront with you. Like, I don't even like the base of my BDR, and then they're being stingy about that. So and for me to also be like, hey. I also want a new software. They're gonna be like, Show us results first. Like,
+35. [Sales Rep]  Yeah. Mhmm. Yeah.
+36. [Prospect]  let's use, like, scale a team,
+37. [Sales Rep]  Yeah. Yeah.
+38. [Prospect]  which is tough for me because maybe I need tools like this to scale a team. But that's me being very honest with you.
+39. [Sales Rep]  Yeah. No. I I appreciate that. And, honestly, like, it's it's pretty common with what I'm hearing, like, comment in my last role too. I I'll tell you what though. Like, you tell me, Dana, if you think that this would be a terrible idea, but what I've done with other folks is We can show you a demo, like, show you what NUCs actually looks like, and then if you think if you're even, like, slightly interested after that and you don't think that it just looks like garbage, which, I mean, I'm biased. I don't think you'd think that, but we actually do 2 we offer a 2 week free trial. So what we've done with a lot of teams is get them on a trial, see if it actually is helping you ramp these reps a little bit quicker, especially, like, it can be hard to ramp new reps when they're just not getting a ton of at bats, so it's gonna help with that too. Worst case scenario, it helps you with some coaching and your reps Make some more dials and book some more beat meetings over 2 weeks.
+40. [Prospect]  Yeah.
+41. [Sales Rep]  And it also can help you develop, like, a kind of a proof of concept to take to your leadership. So down the road, if this comes more of a of a priority, like, you have something to show them concrete, does that does that sound like that would be helpful or is that gonna be a total waste of your
+42. [Prospect]  No. I mean, I'm I'm open to it. I just don't wanna waste your time if, you know, you spend time with me on a demo, and then I'm like, I have no buying power or budget.
+43. [Sales Rep]  Yeah. I mean
+44. [Prospect]  Sure.
+45. [Sales Rep]  yeah. I mean, it's it's totally fair. It wouldn't be a waste of my time. I think, like, Yeah. Even just kinda showing you what else out there. I know, like, sometimes q four can be a talk where some budget conversations come up, so it could be a seed that you could plant. And if not, like, it's all good. Like, that's we're obviously, you know, from your SDRs, like, not every demo leads to a closed one. It would be nice if it worked that way, but that's that's not the case. Do you k. I I know I need to let you go because you're ripping the gym, and I appreciate the hustle. Do you have, like obviously, you don't have your calendar open. If I were to throw, like, a 30 minute sync on your calendar for, like, next week, is that would that work for you?
+46. [Prospect]  Yeah. Let me look. I have my I have my calendar on me.
+47. [Sales Rep]  Okay.
+48. [Prospect]  Yeah. Next week would definitely be better than this week.
+49. [Sales Rep]  And I k. I don't know if you know any of your account managers over there, Dana, but my buddy's name is Kevin Kim, and
+50. [Prospect]  Oh, yeah.
+51. [Sales Rep]  he hasn't been there for too too long. I'm gonna literally message him on Slack after this and be like, yo. Dana's at home, and she's so nice.
+52. [Prospect]  That's the time. Yeah. I think I I've definitely seen his name in Salesforce, but I don't know if I've ever had him, face to face.
+53. [Sales Rep]  Yeah.
+54. [Prospect]  Yeah. So maybe, like, looking past, pretty much Tuesday or Wednesday would be better.
+55. [Sales Rep]  Okay. What about if we were to do like, So October 3rd, Tuesday there, if we were to do from, because you're Eastern, right?
+56. [Prospect]  Yeah. I mean,
+57. [Sales Rep]  If we were to do so I'm just because I'm in Calgary, I'm in Mountain Standard, so if we were to do 1 to 1:30 your time, does that work?
+58. [Prospect]  Yeah. That's perfect.
+59. [Sales Rep]  Amazing. I'm gonna throw this to you Right now, if you don't mind, I have an email I don't think you've emailed me back. No. I know you haven't. So I'm gonna shoot that to you right now. If you don't mind accepting it when it comes through, and then I know it didn't go to spam because sometimes Gmail likes doing that. But Yeah. Amazing. We'll show you kind of what it looks like, and then you can see from there, like, if it would be interesting to a trial or if it's just something to kind of keep in the back pocket for down the road. But
+60. [Prospect]  Okay.
+61. [Sales Rep]  And then are you you mentioned Outreach or SalesLoft. Sorry. Are you using any any platform like SalesLoft today or your reps? Like, how are they making their calls today?
+62. [Prospect]  Yeah. We do everything through SalesLoft. So,
+63. [Sales Rep]  Okay. Amazing.
+64. [Prospect]  It's, like, synced with our Salesforce, and then that's what we've been doing.
+65. [Sales Rep]  Cool. So we have a really clean integration with them so that, we play really nice with SalesLoft.
+66. [Prospect]  Okay. Cool. Yeah. I'm, like, a little bit unsure of whether or not I just know our contract ends in November, And there's gonna be a, a conversation about maybe changing something.
+67. [Sales Rep]  Yeah.
+68. [Prospect]  Do you want me to try to ping someone else that has a bit more, like like, I could ask our CEO or my Closers. Team manager 2 to join. What do you think, sir? Something like that.
+69. [Sales Rep]  Yeah. I mean, if you wanted if you had if you had somebody else that you wanted to join, like, by all means, yeah, that'd be really cool to kinda show them, like because the biggest thing is a lot of companies right now are struggling to get, like, the sales leads to to feed their AE teams, which obviously is leading to, like, missed revenue and stuff. Right? So
+70. [Prospect]  Mhmm.
+71. [Sales Rep]  With something like this, it's just helping increase that efficiency of your SDR team. They're gonna book more meetings. They're gonna like, we helped Seismic three x their pipe from from using notes, right? So a lot of companies are seeing a huge, huge, like, our customers are seeing a really big upside to this. So Yeah. I mean, you know best though, like, if you have a co manager or someone, like, you mentioned your CEO, if you think that they'd be interested, like, yeah, we'd love to to get them on the call. Whatever you think makes more most sense for that one.
+72. [Prospect]  Cool. Okay. Cool. Yeah. I'll, I'll ping them tomorrow, and then, if if they join, I'll I don't know if I could add them to the calendar invite or just
+73. [Sales Rep]  Yeah. You should you should be able to. And if it doesn't let you for some reason, let me know. I'll I'll let's connect on on LinkedIn, and then if you have any questions or whatever or you can email me before the demo.
+74. [Prospect]  Oh, okay. That works.
+75. [Sales Rep]  K. I always I have to say this, Dana. Your SDRs would be proud of how kind you are to a random interruption while you're working legs at the gym, so Thank you for that. So that's a real thing. I hope that you're I hope,
+76. [Prospect]  I'd be such a hypocrite.
+77. [Sales Rep]  yeah, I hope that your reps have a lot of success this week on the phone
+78. [Prospect]  Thank you. I appreciate it.
+79. [Sales Rep]  and can talk to nice people like you. Okay. Hey. Yeah. Enjoy the rest of your workout, and I will, I'll talk to you next week. Alright.

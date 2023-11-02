@@ -1,0 +1,8 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey. Is this Aiden?
+3. [Prospect]  Speaking.
+4. [Sales Rep]  Hey, Aiden. It's Patrick giving you a callback from notes. How's it going, man? How's your, how's your Wednesday treating you?
+5. [Prospect]  Super busy, unfortunately. I'm sorry, dude. Now is not a good time for a a call.
+6. [Sales Rep]  Oh, no worries at all, man. Is there a better time to give you a callback?
+7. [Prospect]  Yeah. Do you wanna put them on the calendar for a sync up? That way, I can I can let you know whether or not it's good or not? Even if just, like, 5, 10 minutes is is fine. I'm sorry to keep doing this to you.
+8. [Sales Rep]  Yeah. No. A 100%. No worries at all, man. I'll talk to him on the calendar, and then we can, we can chat there. And, you can let me know if we can push it or keep it there. Okay? Awesome.

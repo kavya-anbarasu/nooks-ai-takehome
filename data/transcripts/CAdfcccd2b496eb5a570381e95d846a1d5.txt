@@ -1,0 +1,9 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Brandon.
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hi, Brandon. It's, Cameron over at Nook's. I I was reaching out about your biz dev team. Are you, you're still leading the team over at WiseHive?
+5. [Prospect]  I am, but I'm busy right now. We'll we'll have to do this another time.
+6. [Sales Rep]  Is there a better time for me to reach you?
+7. [Prospect]  Well, I have a project happening in my backyard that's taken all of my spare time, so give it a week. Mid next week would probably be better for me because I have to go to the store and help them out with stuff, so it's just not not the right timing for me.
+8. [Sales Rep]  Hi, Brandon. I'll shoot you a connect request on LinkedIn. I'll try again next week.
+9. [Prospect]  Alright. That sounds good. Alright.

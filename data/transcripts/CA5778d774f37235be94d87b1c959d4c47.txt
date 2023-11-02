@@ -1,0 +1,7 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey there, Brigitte. This is Shar Dibouti with Nook's. Good afternoon.
+3. [Prospect]  How are you?
+4. [Sales Rep]  Hey, doing good. Happy Friday. Bridget, this is a cold call. I was curious if I could steal a quick 30 seconds from you.
+5. [Prospect]  Yeah. I actually don't work for Riverbed anymore, so You're not really calling at the best time. I'm starting a new role, but, not for a few weeks. So if you wanna try me back in the new year, I'll maybe have more insight about the
+6. [Sales Rep]  No worries. Congratulations. That's that's awesome. Sounds like you're on to bigger and better things. So it okay if I if I connect with you on LinkedIn to follow your journey? Okay.
+7. [Prospect]  Yes. I appreciate it. Yep. Please do. That that would be great. I

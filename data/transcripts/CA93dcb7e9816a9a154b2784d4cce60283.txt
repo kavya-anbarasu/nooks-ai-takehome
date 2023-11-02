@@ -1,0 +1,49 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Lance. How's your,
+3. [Prospect]  Yeah. This
+4. [Sales Rep]  your Wednesday going?
+5. [Prospect]  is him. Good. How are you?
+6. [Sales Rep]  I'm not too bad. Hey. This is This is obviously totally a cold call, but, I I I'd love to tell you exactly why I'm calling you if you have 30 seconds to hear my pitch. And if you've paid it, you can Totally feel free to hang up on me. This is, like, a a good deal.
+7. [Prospect]  That's fine.
+8. [Sales Rep]  Cool. So I I noticed that you Looks like you run sales development over there, with Mike over at at Payscale. And, really, the reason I'm reaching out is, I'm calling from a company called Nook's. And what we help teams do is basically 3 to 5 x their team's daily call activities, conversations, at bats, and Meetings and there's a whole another component too where we really help we really focus on increasing conversions of those connects to to actual meetings. But wanna take a step back to make sure I'm not being too overbearing. Is cold calling a big piece of Payscale's outbound strategy, or what's your world look like?
+9. [Prospect]  Yeah. It's a big part. I would say we're probably like 75% outbound
+10. [Sales Rep]  Okay. 75% outbound. And then, like, what portion of your meetings or pipeline is coming from cold calls versus the other channels? 5050. So, like, you know, if Gotcha. So, like, if, like, we if there was a way for your team to, like, basically, like, make calls more efficiently let me just ask. Do you guys are outreach or or SalesLoft shop? SalesLoft. So, like, if, like, we could basically say, like, hey. Your team is a 100 your. This rep has a 100 calls to make today in SalesLoft tasks. What they could basically do is pull up notes, jump in with their with their actual team if they wanted to, like, be in a virtual sales floor, And we would help work through that list calling, like, 3 to 5 numbers at a time, which is totally up to your rep at How many calls they actually wanna make so that, like, they're multiplying their chances of getting in touch with somebody and also getting all that information logged in SalesLoft. So, essentially, it's, like, Just really efficiently working through call tasks so your team can jump in. Instead of focus on calling in SalesLoft and logging the call, We automate all those tasks. They can really just focus on having conversations with prospects. And it goes a step deeper, but I'm curious if that's Enticing at all or interesting to you. I would love to get some some initial feedback.
+11. [Prospect]  So is it designed to take information from and put it into Salesforce, or is it more of like an auto dialer type thing?
+12. [Sales Rep]  Yes. It's basically It'd be so much are you familiar with, like, parallel dialers, auto dialers, power dialers?
+13. [Prospect]  Yeah.
+14. [Sales Rep]  Have you in have you evaluated any of those in the past? Any of, like, I think Orum's one. You know? It's basically notes and Orum, I think, are the the top 2 that come up in most conversations from my perspective.
+15. [Prospect]  I haven't. Not at they might have before I got here. I know my last job, we we didn't use an auto dialer or anything, so I'm familiar with it. Like, I know what it and all that, but I don't know if Payscale has evaluated in the past.
+16. [Sales Rep]  Is your team remote or are you guys all in office as well? Fully remote. So the other big component here, and and this is actually, like, every like, parallel dialers, a lot of teams are using this, but real reason that teams love notes is 1 or parallel dialer means it's really easy to work through all these call tasks, but the the other one is that we actually provide a virtual sales floor, which is a really fun place to make cold calls and, like, basically get the team all together. They can make calls. When they get an answer, they get put into their own virtual sales booth, but you as a manager can listen in. Other reps can listen in. There's, like, a direct feedback loop going on. It's It's pretty cool. Like, that's typically how it's described to me as, like, hey. This is making cold calling pretty fun, actually. So, I mean, I guess, Lance, like, what I'm kinda getting at is I'd love to kind of put this in front of you and just kinda get your feedback on a, like, 30 minute call if you'd if you'd be open to that, and then we can kinda decide whether or not we actually wanna move this forward into a real evaluation cycle. But would you be open to, like, a feedback on? I can put some new technology in front of you and Take your brain and see if it would be valuable.
+17. [Prospect]  Yeah. Yeah. Me me and Mike have talked a little bit here and there about kind of looking into that type of thing.
+18. [Sales Rep]  Mhmm.
+19. [Prospect]  Not any budget confirmed or anything like that at this point, but more of you know, we as you know, like, in the SDR world, you get pressured more and more and more for more meetings and More contacts and all that stuff. So it is something we talked about. So I'm happy to to sit through a demo. I would say invite Mike to that too if you have his,
+20. [Sales Rep]  Yep.
+21. [Prospect]  email address on file as well, and both of us can take a look.
+22. [Sales Rep]  Yeah. What, what looks available on your guys' calendar? Are you guys is the rest of the year we shot? Should we shoot for early next week?
+23. [Prospect]  Probably next week at this point. Yeah. There's We're we're in the we're in the midst of, like, a closing out last quarter and then looking at next year planning and all that, and this week's kind of Rough. Let me let me look real quick. Let me pull up my calendar so I can pull up Mike's.
+24. [Sales Rep]  My web is Yeah. Go for it, man. Take your time. I'm looking at Wednesday when you get a chance to to check that day out, the 18th.
+25. [Prospect]  Yeah. Let me take a look. Wednesdays are actually, for some reason, like, My lowest recurring meetings, so they're usually pretty good. Let me just pull up let me just pull up Mike real quick.
+26. [Sales Rep]  Nice. And then if if we have Mike in there, like, we can totally do 30 minutes. A lot of times, there's a lot of questions, and I like to be able to work through them. Are you guys available for 45? And if we don't need the whole 45
+27. [Prospect]  Yep.
+28. [Sales Rep]  Yep.
+29. [Prospect]  45 signs.
+30. [Sales Rep]  Cool.
+31. [Prospect]  Let's see.
+32. [Sales Rep]  Be based out of
+33. [Prospect]  What time?
+34. [Sales Rep]  Yeah. I'm in I'm in
+35. [Prospect]  I'm in okay. Mike's Mike's West Coast. I'm CST.
+36. [Sales Rep]  California.
+37. [Prospect]  So we could do
+38. [Sales Rep]  11. 11 would be 1 PM your time. 11 Pacific.
+39. [Prospect]  I got a meeting at that time. What about does he have anything You have anything 9 Pacific?
+40. [Sales Rep]  9 Pacific. Let's see. I sure do. Yeah. Let's, let me get that scheduled, and then really quickly, just because you know how data can be, is it lance official@payscale.com for you?
+41. [Prospect]  It's lance.fischel.
+42. [Sales Rep]  Okay. That's why I always ask. Cool. Yeah. Alright. I will get you on the calendar invite and then I'll add Mike as well. Is it mike.justmike.commer?
+43. [Prospect]  I think so. Let me pull it up. Yeah. Same thing.
+44. [Sales Rep]  Cool. Awesome. Yeah. I'll get that Added on to the calendar invite. But, Lance, great chatting with you. Thanks for giving me the, the opportunity. I know a lot of people like to hang up.
+45. [Prospect]  Yeah. No worries, man. I
+46. [Sales Rep]  Sounds relevant.
+47. [Prospect]  I get it. I've been in this I've been in this world for a while.
+48. [Sales Rep]  Cool, man. Well, I appreciate it. You have a great rest of your day, And, you're looking forward to chatting next week with you, Mike.
+49. [Prospect]  Sounds good. Thanks, man.

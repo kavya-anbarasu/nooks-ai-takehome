@@ -1,0 +1,10 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Evan.
+3. [Prospect]  Yeah. Who's this?
+4. [Sales Rep]  Hi, Evan. It's, it's Cameron over at Nook. I appreciate I'm catching you out of the blue here. Do you have a a brief moment?
+5. [Prospect]  I do not. Now is actually a really bad time. I'm sorry.
+6. [Sales Rep]  Sorry to hear that. Should I wait a week or or longer than that?
+7. [Prospect]  I just got laid off, so I don't think you're gonna be Talking to me at circle.
+8. [Sales Rep]  Sorry, Evan. Best of luck. I'll I'll connect with you on LinkedIn, and I I hope you find something quick.
+9. [Prospect]  So Thanks. Take care.
+10. [Sales Rep]  You bet.

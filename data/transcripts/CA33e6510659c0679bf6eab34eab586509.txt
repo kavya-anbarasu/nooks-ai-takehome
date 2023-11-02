@@ -1,0 +1,8 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey there, Marcos. This is Shar Davouti with Nook's. Good afternoon.
+3. [Prospect]  Hi.
+4. [Sales Rep]  Hey, Marcos. This is a cold call. I was just curious if you had a quick 30 seconds for me to tell you why I called.
+5. [Prospect]  You know, I'm actually, just recently got laid off. So whatever you have to offer, I'm probably not interested right now.
+6. [Sales Rep]  Oh my gosh, I'm so sorry to hear about that. If I could be a resource in any way, I'll connect with you on LinkedIn and share with my network if you want. So sorry to hear. Yeah.
+7. [Prospect]  Yeah. I appreciate that. Yep.
+8. [Sales Rep]  Alright. Have a good one.

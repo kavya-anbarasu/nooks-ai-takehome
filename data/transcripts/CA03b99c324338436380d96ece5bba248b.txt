@@ -1,0 +1,22 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Emily, this is Josh with Nook's. Happy almost Friday.
+3. [Prospect]  Sorry. Who did you say this was?
+4. [Sales Rep]  Sorry. I I said it's Josh with Nook's. I probably caught you mid coffee
+5. [Prospect]  No, no. I'm in my car and having some trouble with it connecting.
+6. [Sales Rep]  tip. Oh, no. Okay. Sorry to hear that. I, my battery died this morning, so hopefully that's not happening to you. But, Emily, I bad timing as always. That's what my mom always said, but do you have 30 seconds? If I miss the mark, I'll I'm just gonna throw my laptop at the wall.
+7. [Prospect]  What is this about?
+8. [Sales Rep]  Yeah. I'm just I'm, I'm calling from Nook's. Are you your SDR manager or BDR manager over at Benchling?
+9. [Prospect]  Oh, I am. But I am on maternity leave, so I am not in a position to talk about venturing right now.
+10. [Sales Rep]  Oh. Hey. I will let you go. I, I'm happy for you that you got Matt leave. I I got asked. So did you have a boy, little girl?
+11. [Prospect]  Boy. He's 4 months old now.
+12. [Sales Rep]  Amazing. That's awesome. Congratulations.
+13. [Prospect]  Yeah. If you want to reach back out at the middle of November, kind of before Thanksgiving, I should be back by then.
+14. [Sales Rep]  Okay. Awesome. I just to see if it's even relevant, Emily, and then I'll let you go. Are your reps like So Nook's, we're a parallel dialer. We help your reps have more conversations faster and book more meetings. Is that something that your, like, Team's bumping into you. Is that anything that you think you might be interested in learning a little bit more when the timing makes sense?
+15. [Prospect]  So, I'm not sure if I'm the right person to talk to. So, the business development arm is not necessarily direct sales. We're much more focused on, like, partnerships,
+16. [Sales Rep]  Oh, okay.
+17. [Prospect]  And a lot of those are inbound partnerships rather than outbound.
+18. [Sales Rep]  Okay.
+19. [Prospect]  You're going to wanna reach out to folks With, kind of account executive or, folks in the sales org.
+20. [Sales Rep]  Okay. Are they doing the account executives, are they the ones doing, like, more outbound cold calling kind of thing?
+21. [Prospect]  Yep. Yeah. And the sales development, and the SDR sales development representative
+22. [Sales Rep]  Okay. Good deal. K. Well, I will, I will reach out to them. So I Thank you so much for the point in the right direction. I hope the next month of not leave that you enjoy it with, with your baby boy. K. Thank you. You as well. Thank you so much. I'll talk to you later.

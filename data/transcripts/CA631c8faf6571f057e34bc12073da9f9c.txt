@@ -1,0 +1,10 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  File performance. Hey, Anthony. Is this Anthony?
+3. [Prospect]  Speaking.
+4. [Sales Rep]  Yeah. Anthony, it's it's Cameron Baker over at Nook's. We had, we had connected last week and you asked for me to call you back this week. Is it a better time?
+5. [Prospect]  I got 3 minutes till I get into a meeting. Can you email me the stuff? You said nubs, right?
+6. [Sales Rep]  Nook. It's like books with an n.
+7. [Prospect]  Book Nook. Okay. So just to give you a heads up, we're pretty much changing completely our entire platform. We're getting rid of all of our tech stacks. We're not gonna keep going. We're gonna do everything in Salesforce, so that's gonna be able to cover, like, our emails, our calls, our recordings. So, like, everything's gonna be pushed into there. We're not looking to purchase any kind of, like, new software on the side. It's just caused, like, complete chaos.
+8. [Sales Rep]  Okay. Right.
+9. [Prospect]  Not chaos, but just disorganization throughout the company. So we need to centralize everything. So we're gonna put everything into Salesforce. If you can integrate into there somehow, great. If you wanna send me an email on that, fine. But we're not looking to add on any kind of, like, new platforms or anything right now just because we need to lower our bill instead of increase.
+10. [Sales Rep]  Absolutely. Okay. Heard loud and clear. I will, I'll shoot you a high level overview if, if you want to take a look and we can go from there. Cool. Yeah. Thanks, Anthony. Take care.

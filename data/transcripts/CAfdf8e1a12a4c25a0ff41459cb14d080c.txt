@@ -1,0 +1,4 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. This is Steve.
+3. [Prospect]  No. I think the wrong number.
+4. [Sales Rep]  Okay.

@@ -1,0 +1,68 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Paul, this is Josh with Snooks. How's your Wednesday treating you?
+3. [Prospect]  Doing good. 1st day back to work in in about 2 months. So a little hectic.
+4. [Sales Rep]  Oh, no way. You just you just came back from pat leave. Right?
+5. [Prospect]  I did. Yeah.
+6. [Sales Rep]  Oh, man. Probably, maybe a sad day to be away from the little baby, 1st day away.
+7. [Prospect]  Well, he he got to come visit us for a little while, so won't too bad.
+8. [Sales Rep]  Oh, nice. That's awesome. I bet that was a hit at the office.
+9. [Prospect]  It was. He was. Big hit.
+10. [Sales Rep]  That's awesome. That's awesome. I awesome. Paul, I'll I'll be really really quick because I know you probably have a 1,000 things
+11. [Prospect]  Yep.
+12. [Sales Rep]  On your plate just coming back, after 2 months, but I know you spoke to Patrick. He's one of our AEs here at NUCs. I don't know if that rings a bell about, Next is a AI parallel dialer. You were saying that cold calling is, like, 90% of where you're booking your meetings from, on the SDR team. Is that is that ringing a bell?
+13. [Prospect]  Yeah. Yes. Yeah.
+14. [Sales Rep]  Okay. Good deal. I So, yeah, I was reaching out to you specifically because I know, yeah, just with, like, that volume of cold calls, I know, like, I'm talking to folks every day, Paul, about this where it's like Connect rates are down across all the different industries, and so reps end up spending extra time listening to the ringtone instead of having live conversations, which is, You know, obviously, harder to book meetings, to ramp, all of that good stuff.
+15. [Prospect]  Yeah.
+16. [Sales Rep]  And so is that, like, I mean, jeez, 1st day back. Is this is this a terrible time for us to be talking? Like, I know you You were gonna see a demo just to get your eyes on it to know if it was even worth, like, starting any kind of dialogue internally around it.
+17. [Prospect]  Yeah.
+18. [Sales Rep]  But I know it it looks like you never saw the demo because your wife literally went into labor. So you had to it looked like you had to cancel cancel the meeting because you had to go to the hospital.
+19. [Prospect]  Yeah. Yeah. Yeah. I
+20. [Sales Rep]  But am I am I totally lost here? I'll I'll pause and let you go.
+21. [Prospect]  No. You're, I I I think it's worthwhile to take a look at. It's funny. Your name came up, about an hour before I left work, about an hour ago,
+22. [Sales Rep]  Oh, no way.
+23. [Prospect]  because you sent a you sent a message to to Evan Porter,
+24. [Sales Rep]  I did.
+25. [Prospect]  and and he he really liked the personalization of it. He showed it to me because you you mentioned you mentioned my name in the in the message.
+26. [Sales Rep]  Oh, nice.
+27. [Prospect]  And,
+28. [Sales Rep]  Yeah. Yeah. Yeah.
+29. [Prospect]  I know he thought it sounded interesting and wanted to take a look too.
+30. [Sales Rep]  Okay.
+31. [Prospect]  So I would like to consolidate our efforts there.
+32. [Sales Rep]  Okay.
+33. [Prospect]  I don't have my calendar in front of me.
+34. [Sales Rep]  Sure. Yeah. I'm and I know you said you're out of the office. Do you if I were to shoot you an invite for, like do you have a day that's usually a little bit calmer and if you get into your office tomorrow and you realize, hey. I'm booked. We can wiggle it around, like, just so that We don't fall through the cracks here because I'm busy. You're busy. It's easy to forget.
+35. [Prospect]  Yeah. Yeah. Monday Mondays Fridays are typically the most calm for me.
+36. [Sales Rep]  Okay.
+37. [Prospect]  And I say I say Mondays. Monday in the afternoon and then Friday really anytime.
+38. [Sales Rep]  Okay.
+39. [Prospect]  Yeah. Those those are probably the most calm.
+40. [Sales Rep]  If we were to if we were to do and I'm just looking your eastern time if we were do you have a preference between this Monday afternoon or next Friday sometime?
+41. [Prospect]  Let's let's tentatively shoot for Monday Afternoon.
+42. [Sales Rep]  K.
+43. [Prospect]  I wanna I wanna pull Evan into this. And if that doesn't work, then we can adjust to the Friday.
+44. [Sales Rep]  Sure. Okay. Let me do this. I'm gonna send you an invite and it's paul.widdington@brightlysoftware.com.
+45. [Prospect]  I'm a give you a new email.
+46. [Sales Rep]  Okay. Perfect.
+47. [Prospect]  It's,
+48. [Sales Rep]  Go ahead.
+49. [Prospect]  it's mike michael.wittington@siemens.com.
+50. [Sales Rep]  S I e m pns. Is that right?
+51. [Prospect]  Yes. Yep. That's it.
+52. [Sales Rep]  Michael.wittington@seamans.com. So do you go by Michael or Paul?
+53. [Prospect]  I go by Paul. My whole family goes by their middle names,
+54. [Sales Rep]  Okay.
+55. [Prospect]  and People are gonna be very confused when they have to start looking for Michael Whittington in our directory because everybody knows me as Paul. But fortunately, in January, I'll be I'll be able to change it back to Paul,
+56. [Sales Rep]  Yeah.
+57. [Prospect]  but
+58. [Sales Rep]  Okay.
+59. [Prospect]  it's just it's something they're making to do right now.
+60. [Sales Rep]  Okay. That's totally fair. I, Paul, I'll shoot you over an email right now. I have I have Evan's address, or email address rather. Sorry.
+61. [Prospect]  Yeah.
+62. [Sales Rep]  Obviously, it's the right one if you got the email. So I'll add him to it too, and you guys can just touch base. And, like, if it if the time doesn't work, We can be super flexible and and work, and move it around.
+63. [Prospect]  Yeah. That
+64. [Sales Rep]  Just for yeah. Awesome. K. Paul, random timing that I got you your 1st day back, but thank you so so much for the time, and,
+65. [Prospect]  works.
+66. [Sales Rep]  yeah, congrats again about the little boy. Is that your first?
+67. [Prospect]  It's our fergie. Yeah. Thank you.
+68. [Sales Rep]  Even more exciting. That's awesome. K. Cool. Well, I will, I'll talk to you next Monday. K. Thanks, Paul. Talk to you then. Bye.

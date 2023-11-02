@@ -1,0 +1,6 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Sylvie?
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hi, Sylvie. It's, it's Cameron over at. Nook's. I think I might be in the wrong place here, but do you have a quick 30 seconds?
+5. [Prospect]  No. I'm sorry. I don't.
+6. [Sales Rep]  No

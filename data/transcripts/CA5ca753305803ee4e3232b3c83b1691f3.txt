@@ -1,0 +1,20 @@
+1. [Sales Rep]  Hi,
+2. [Prospect]  This is Tricia.
+3. [Sales Rep]  Tricia. Hey. It's Cameron over at Nook's. I think I connected with you last week, just before you were taking the team to go boating, and And you told me to call you back.
+4. [Prospect]  Sorry. You're breaking up there. Where are you calling from?
+5. [Sales Rep]  I'm calling from Nook's. Don't know if you've heard of us, but I can share with you. You know, I reached you using our platform. I'd love to share how and see if it's relevant.
+6. [Prospect]  Sure. Go ahead. I do have a meeting on at 11.
+7. [Sales Rep]  Awesome. I'll be, I'll I'll be quick and keep that in mind. I figured your team over at center is placing cold calls As part of their outbound strategy, so I actually reached you with our platform Nook's at its core. It's an AI powered dialer. So what it does is Pulls in my call tasks from my CRM or my SAP Outreach, and only connects me to folks who answer the phone live like yourself. Typically at 3 to 5 x is the number of conversations that a rep can have, if they were manual dialing versus using a parallel dialer. At the same time, our AI is gonna do all the call tasks, all the logging, kind of that 90% of manual called cold calling that Can keep reps either slow on the phones or or keep them off the phones. Have you have you explored any tools like that to kinda elevate the team's calling?
+8. [Prospect]  We actually use Orum right now.
+9. [Sales Rep]  Oh, wow. Okay. I must have been late to the party.
+10. [Prospect]  I'm still new here, so I don't When we signed our contract, but I believe it's still relatively new. So I know it's I mean, you want to reach back probably in like a year.
+11. [Sales Rep]  Uh-huh. Okay. Yeah.
+12. [Prospect]  Maybe like 8 months in a year. I mean, maybe looking to, like, reach out. I don't know what kind of, like, how long our contract is, what we signed. So far, it seems like it's working pretty well.
+13. [Sales Rep]  Yeah. Yeah.
+14. [Prospect]  But like I said, I'm still new to, center and kind of figuring and drink From the fire hose and figuring out what systems we have, what's going on. But I know we just signed our contract, so we wouldn't be able to move or do anything for several months.
+15. [Sales Rep]  Yeah. Yeah. Heard. That sounds good. I'll keep that in mind. I'll I'll reach back out when it's, when it makes sense to, with the I I guess You're the you're the senior business development manager. Who who is it that that probably made that decision?
+16. [Prospect]  I mean, it was a team collaborative, like, decision.
+17. [Sales Rep]  Yeah. It's a large team.
+18. [Prospect]  So it I mean, there's 4 or 5 of us. Like, I would have been part of that buying process if I was here. So, I mean, you're talking to the right person. It's Just I know we just signed that contract. So whether we like it or not, there's nothing we can do for the next several months.
+19. [Sales Rep]  Heard. Alright. Yeah. That makes sense. I'll, I'll shoot some comparisons over to you via email. I actually think we're Already connected on LinkedIn. And I'll, I'll write that down. I'll make sure that I try to catch you at the right time when that renewal is coming up. Thanks, Trisha. Take care.
+20. [Prospect]  Have a good one.

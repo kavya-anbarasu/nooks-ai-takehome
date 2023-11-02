@@ -1,0 +1,40 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Cole.
+3. [Prospect]  Yes.
+4. [Sales Rep]  Hi, Cole. It's, Cameron Baker over at Nook's. Totally frank, this is a, a cold call. Do you have 30 seconds to hear me out, see if it makes sense to chat?
+5. [Prospect]  Sure.
+6. [Sales Rep]  Appreciate that. So you're leading, BDRs at Torque. Just curious how important cold calling, if at all, is to your own outbound pipeline gen efforts.
+7. [Prospect]  We, we do a fair amount of outbound cold calling as you should.
+8. [Sales Rep]  Yeah, definitely. How, How do y'all go about that at the moment? Is that like a sales loft and outreach or or how's the team dialing? Gotcha. Yeah. So a few things we're hearing from teams that are, I guess, heavy on outbound cold calling is is number 1, Connect rates are dropping. It's a little bit harder to come by conversations, than it was in the past. In response, kind of there's, In some cases, only the best reps are are actually putting in enough work to drive meaningful pipe. And lastly, it can be difficult to to adjust messaging and and pivot on that without listening to call after call from each of your reps. Does that any of that land with you, or is that that totally off track for the team?
+9. [Prospect]  In general, yeah, those are I feel like Those are not off base. From sorry. I totally missed the name of the company you're with.
+10. [Sales Rep]  NUCs. So it's like books within n.
+11. [Prospect]  Okay.
+12. [Sales Rep]  So in short, what we do is is help SDRs Really, you know, 3 to well, have more conversations. Typically teams that are using us have 3 to 5 x bat bats that they have from single dialing. And, you know, our platform handles all of that manual work for you in SalesLoft, those call tasks, and only connects reps to to live conversation. So folks like yourself who pick up the phone. Don't know if that would be worth taking a look for you and some members of the team or not based on where you're at.
+13. [Prospect]  What is the main differentiators between you and, like, Orem?
+14. [Sales Rep]  I'd say number 1 differentiator is usability of our virtual sales floor. I know that's, not exactly a piece of the parallel dialer. But typically, when we're going head to head, we hear very good things about that and and how the live enablement works. You know, other than that, I I used to, I used to say cost, but the whole market has kind of adjusted at this point to to be right in line with where at where we're at.
+15. [Prospect]  Mhmm.
+16. [Sales Rep]  But in addition to that, I think our reporting takes the cake. I think you'll find if you were to look at our reporting that you can do everything out of Nook. And the parallel I would draw is that it's kind of like a Gong for SDRs. So really, really able to drill down and and,
+17. [Prospect]  Mhmm.
+18. [Sales Rep]  in that. But have you explored tools like ORM in the past?
+19. [Prospect]  Yeah. Yeah. I have. That's why I was just trying to and I I like their sales floor. So that's interest I mean, obviously,
+20. [Sales Rep]  Okay.
+21. [Prospect]  if if yours is easier to use, I'm just interested, Pricing wise, well, to be frank, Quorum was way too expensive. It it would have been our highest, Of every piece of our sales stack, it would have been More than double our most expensive piece of, of, software. So, that was when, you know, I really did like Oram and everything I saw with it, but it was It was outrageous. It was, like, twice as much what we pay with SalesLoft, which is what our team, like, lives and breathes and dies, you know, dies in. And so it was just way, way out of budget. What typically, where do you guys fall in line on a per user base for a team like 5 users?
+22. [Sales Rep]  For a team of 5 users, you'd probably be looking at let's see. 3 to 5. Like, 14 to 18 for a year.
+23. [Prospect]  14 k to 18 k a year. Okay. I can't remember. I'm just doing quick math. So, like, 2.33 per month per user?
+24. [Sales Rep]  Yeah. And on the high end, I'd say it's somewhere between 2.40 300 per rep per month. But, Yeah.
+25. [Prospect]  230 to 240. Is that what you said?
+26. [Sales Rep]  240, 240 to 3. So we, we typically don't go to 3, but, but, yeah, I'd I'd say that 240 is is close to in line.
+27. [Prospect]  Okay. Yeah. That was like SalesLoft. I think we're paying like 1.19 per user per month when you when you break it down like that. So When I when I talked to my finance guy, he he he laughed about that because the pricing was so outrageous for I mean, we already make a dialer. We already do a dialing. Yes. It is more man more manual, but I don't know what the return on investment of another tool that is twice as much as what our our main tool is.
+28. [Sales Rep]  Did you, did you happen to go to trial? It sounds like you did do a trial with Orem.
+29. [Prospect]  I did a demo with them. We did not do a POC or anything like that.
+30. [Sales Rep]  Okay. Yeah. I was gonna say, I mean, we're, what we typically do is is a 2 week trial with teams. I think with a team of 5, you would you would have the opportunity to have all 5 reps try it out. And, I mean, typically, right, the value is either there or it's not. 1 once that's over as, Yeah. The the proof's normally in the pudding, but I just want to let you know that we do offer that if that, makes a difference in whether it's worth Checking it out
+31. [Prospect]  I'm happy to, keep this in my back pocket. I frankly don't wanna waste my,
+32. [Sales Rep]  or not? Yeah.
+33. [Prospect]  my team's time if we're if If the gap in pricing is that large,
+34. [Sales Rep]  Yeah. Okay.
+35. [Prospect]  that it's more than double our most expensive tech in our stack at the moment. I think that's a probably a waste of time because, there's probably no no amount of, ROI that I could show that would justify having that that that cost. So
+36. [Sales Rep]  Right.
+37. [Prospect]  To to our CFO, to be frank. So, I probably would respectfully decline. But if you wanna send me over some information and I'll keep it in my back pocket, I'd be more than happy to
+38. [Sales Rep]  You bet. Happy to do that as well, Cole. And, yeah, I appreciate you taking my call and entertaining it today. Thanks for that.
+39. [Prospect]  to do so.
+40. [Sales Rep]  Yeah. You too,

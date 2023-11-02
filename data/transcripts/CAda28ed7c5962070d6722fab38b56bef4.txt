@@ -1,0 +1,6 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Matt. Cameron over at Nook. How's your day going?
+3. [Prospect]  I'm good. How are you? What's this in regards to?
+4. [Sales Rep]  Hey. I'm doing well, man. I just saw that you're leading sales over there at precisely it was a quick cold call. Do you have a moment or did I Catch you at
+5. [Prospect]  No. I think you have the wrong number.
+6. [Sales Rep]  a terrible time.

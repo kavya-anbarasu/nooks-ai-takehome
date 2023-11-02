@@ -1,0 +1,8 @@
+1. [Prospect]  Hey, this is Joshua at HSS.
+2. [Sales Rep]  Hey, Joshua.
+3. [Prospect]  Yeah, yeah.
+4. [Sales Rep]  Yeah. Hey, Joshua. It's Cameron Baker over at Nook. Totally frank with you, this is a cold call. Do you have 30 seconds to hear me out? If it makes sense
+5. [Prospect]  Man, I am in the middle of prepping for a call and I have like 15 minutes. I don't have time right now.
+6. [Sales Rep]  to chat. Hey. No worries. Good at catching people busy.
+7. [Prospect]  Okay.
+8. [Sales Rep]  Yeah. Take care.

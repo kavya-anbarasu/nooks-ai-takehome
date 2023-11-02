@@ -1,0 +1,5 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Admas?
+3. [Prospect]  Yes. Speaking.
+4. [Sales Rep]  Hi there, Admas. This is Daniel with NUCs. Although I'm just now seeing that, the information we have for you indicates that, if I were to proceed with my cold calling pitch, it would be a waste of your time. So, you will not getting calls from this number.
+5. [Prospect]  Oh, yes.

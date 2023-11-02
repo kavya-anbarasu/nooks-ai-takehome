@@ -1,0 +1,58 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Craig. Cameron over at Nook. How's your, how's your Monday going, man?
+3. [Prospect]  Hey, man. How are you?
+4. [Sales Rep]  I'm doing good. I'm doing good. I appreciate you asking. Craig, I had you as a director of go to market at NetChex.
+5. [Prospect]  Yeah.
+6. [Sales Rep]  Simply curious to start if,
+7. [Prospect]  Mhmm.
+8. [Sales Rep]  If if the reps that you're leading, if they're also placing outbound cold calls to, to hit pipeline targets.
+9. [Prospect]  Yeah. Yeah. All all All our go to market reps in the field, inside sales, they're all making up our calls daily.
+10. [Sales Rep]  Okay. Awesome. Awesome. Glad to hear it. So, you know, I'm talking to SDR, BDR leaders most days, Craig. Something we're hearing quite commonly is that connects are harder to come by, that reps you know, a lot of the time when they're in their call blocks making those outbound calls, it's actually spent, you know, sitting and listening to the ringtone, Logging no answer tasks and that you can put, like, you know, 2 hours in the cold calls only to have, you know, 1 to a handful of conversations. Is that, is that something that Dean, you know, deals with as well over at NetChex? Or, am I totally off base with that?
+11. [Prospect]  No. You're definitely not too in your face. I mean, the connect rates For us, range between about 8.5% to about 15%. It's usually our connect rates. That's what it's been, this year so far.
+12. [Sales Rep]  Okay. Yeah. Yeah. So Silva on a pretty good end there. Is the team like I'm sure they're not using their personal cell phones. Are they, like, Placing dials out of a sales loft or an outreach?
+13. [Prospect]  Yeah. We're
+14. [Sales Rep]  Sales loft. Great. Okay. So I'll share with you how I reach you. You know, it's using our software,
+15. [Prospect]  sales
+16. [Sales Rep]  myself. You know, what we do is we pull in those tasks from SalesLoft, Outreach, your SCP. Instead of, you know, sitting there and listening to ringtones, logging no answer tasks, and kinda Being unprepared for those conversations. We only connect reps to the folks that pick up the phone, so that you basically, your entire time that you're placing that Call block. You're in live conversations with your target market, and teams are, you know, getting that done in a a third to a 5th of the I'm that they would single dialing. Is is that has has your team explored anything like that in the past? Or
+17. [Prospect]  We have we have I think one of the biggest hold ups for us is, You know, how how quickly does that burn through our leads because we don't have an infinite lead base, which obviously is a is another It's another issue.
+18. [Sales Rep]  Right.
+19. [Prospect]  Do you know what happens to all those leads? Because I'm assuming it's we're talking about it's just a a dialer. Until you dial, It rings maybe 10 people at the same time and you get the person that answers, and then it jumps into that conversation, right.
+20. [Sales Rep]  Yeah. I mean, even even you can power dial. You can dial up to 5 at a time. Even if you're power dialing, you know, you're saving 2 to 3 x time on what you are single dialing, just skipping that ringtone and such. But, yeah, a lot of a lot of folks that use us kind of had that same concern. I don't think You know, the the goal doesn't have to be, okay, now we have this dialer, you know, we're going to make a 100 calls or 200 calls. I think I think what the goal can be is, you know, we're gonna we're gonna actually spend the time in our call block talking to our target market. Our reps get that time back, and then they can double down on, say, those emails, that social selling, the research to make those calls better. So, yeah, you can you can really head 1 or 2 ways with that. But I guess I'll take a step back here. Is your are your FCRs, your BDRs, are they Are are they all coming into the office every day or have they kind of embraced? Nope.
+21. [Prospect]  Yeah. Yeah. No. I've I've
+22. [Sales Rep]  Okay.
+23. [Prospect]  we're we're all in the office.
+24. [Sales Rep]  I see. So let me ask you this. I guess if you've explored that explored this in the past, is that kind of, Like, did you trial a dialer and then run into that where your your reps were like, okay. We don't know what to do now?
+25. [Prospect]  So we didn't we didn't get that from the trial. What we got from the trial was, Honestly, it was like it didn't really fit into our operation, so it was like, you know, I I think we We have quite an embedded operation in both SDR BDR a, work. There was, like, the dialer just Got pushed kind of down the priority list, as we looked to get basically better leads to improve the connection rates. Can I ask you, what's what sort of connection rates do you guys get, Like, using the dialer, and when I say Connect rates, like, you know, talking to end decision maker?
+26. [Sales Rep]  Yeah. And decision maker. I mean, I can we we report on that, so I can share with you that, you know, at least today, I'm I'm working with a 12% connect rate. I I think it typically hovers around there,
+27. [Prospect]  K.
+28. [Sales Rep]  but but truth be told, of course, that connect rate is going to lie Lie a lot more with your data provider than the dialer you use.
+29. [Prospect]  Yeah.
+30. [Sales Rep]  But we are gonna, you know, give you the we we share that data with you. You can have up to 5 numbers at a time. We're gonna let you know what your connects are with each. We're gonna let you know when your phone's been If and when it's been reported as spam, so you can cycle that out anytime. You know, and there is really clean reporting functionality that's gonna, you know, give you a deeper dive into your Connects and where and when they come from.
+31. [Prospect]  Do you guys integrate your SalesLoft?
+32. [Sales Rep]  We do. Yeah. We we have a direct integration. It's very clean.
+33. [Prospect]  So basically, once the dial is made, you know, and you make that connection, you can still log the call inside of I was locked, are you logged in your platform and it it basically moves it over?
+34. [Sales Rep]  Yeah. It's a direct sync. So, you know, everyone that doesn't answer, That's gonna be auto logged in Salesforce or SalesLoft for you. And then, yeah, when you when you log the call and the disposition, in our software, it's gonna send that back to SalesLoft. But it uses you know, it's pulling in those dispositions that you already have set in SalesLoft. So,
+35. [Prospect]  Okay. Cool.
+36. [Sales Rep]  Yeah. Go ahead.
+37. [Prospect]  I was I was gonna I was gonna ask 1 more thing. Sorry. I'm kinda peppering you now.
+38. [Sales Rep]  That's alright.
+39. [Prospect]  What's, what's kind of the price range? The one I can't even remember the name. We we looked at 1 last year. Yeah. What's what what what are we talking? Do you guys charge per employee per month? How are you doing it?
+40. [Sales Rep]  Yeah. Base price base price is gonna be 300 per rep per month. However, that's you know, base price is base price. We we have a lot of levers we
+41. [Prospect]  K.
+42. [Sales Rep]  Can
+43. [Prospect]  Quick math. We got 15 SDRs, fields, 60. How many clients do you guys have?
+44. [Sales Rep]  About a 150 right now.
+45. [Prospect]  Okay. Okay. So you guys are brand new in the market?
+46. [Sales Rep]  Yeah. Relatively new. We've got, you know, lots of SMBs all the way up to enterprise orgs like airbase, abnormal security. But, You know, I don't I don't know if my pitch was the best here, Craig. It it sounds like you're at least have a have a modicum of interest here. Is Is this something that, you know, we could set aside some time and give you a quick deep dive on? Or
+47. [Prospect]  What I would like you to do, Is reach out to, I'm trying to think. I've got a couple of team leads that may be better to take the conversation. I picture's great, man. Well done. Why don't you, send an email to both, these 3 people, Jason Coutre, that is Coutre spelled c u t r e r, Spencer Rodriguez, spelled traditionally both ends, and then Drew Markham, spelled Mark Ham.
+48. [Sales Rep]  k.
+49. [Prospect]  Yeah. My team leads. You can tell them I I showed them your way, and and schedule some time with them. How how long will it take roughly? 30 minutes?
+50. [Sales Rep]  Yeah. We we typically set aside 30.
+51. [Prospect]  Cool. Is it you, or are you just setting up the meeting?
+52. [Sales Rep]  I'll be there for sure, taking best practices and such, but I I will bring an account executive with me.
+53. [Prospect]  Okay. Cool. Yeah. Why don't you why don't you coordinate with them, and you can tell him, you can cc me and say that I pushed it that way, and I'm checking out.
+54. [Sales Rep]  Cool. Well, I appreciate the heads up. Do you mind if I, throw you as a c c on that email?
+55. [Prospect]  Yeah. Yeah. Yeah. Please do.
+56. [Sales Rep]  Cool. Awesome, Craig. I, I appreciate the time. I'll coordinate with them, and and thanks for being receptive and taking the call, man. I appreciate it.
+57. [Prospect]  Yeah. Sounds good. Have a good week, brother.
+58. [Sales Rep]  Alright. Yeah. You too. You too. Take care.

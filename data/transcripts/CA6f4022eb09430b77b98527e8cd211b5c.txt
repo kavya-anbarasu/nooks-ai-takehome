@@ -1,0 +1,6 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this Hunter?
+3. [Prospect]  Who's calling?
+4. [Sales Rep]  Hey, Hunter. This is Ron. I'm cofounder of a Stanford founded startup called Nook's. I'll be honest. This is a cold call. Do you have a quick 30 seconds to hear why I'm giving you a call?
+5. [Prospect]  I don't. I'm right in the Something. Sorry, man. Good luck.
+6. [Sales Rep]  Okay. Is is there is a better time maybe

@@ -1,0 +1,6 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Roger. This is Shar Taboody with NOOKS. Good afternoon.
+3. [Prospect]  With who?
+4. [Sales Rep]  Yeah. Nookes, n o o k. This is a cold call, Roger, so I was curious if you had 30 seconds for me.
+5. [Prospect]  Yeah. Unfortunately, not right now.
+6. [Sales Rep]  Okay. I'll try to give you a ring some other time. Thanks,

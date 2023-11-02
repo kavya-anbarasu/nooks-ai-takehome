@@ -1,0 +1,45 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Ivan. Skyler with Nooks. I was just hopping for 30 seconds real quick, actually.
+3. [Prospect]  Okay, Tyler. Yeah. I'll give you 30 seconds, man. I'm in the middle of something, but I can carve out
+4. [Sales Rep]  Hey. I appreciate it, man. So I actually called you back in August. Probably don't remember, but, Nook's is a parallel dialing platform, so you can call up to 5 prospects at once. I remember you mentioning that the VP guy was the he was the tools guy, and you guys used First back then. I'm just curious if anything has changed. We actually offer a free trial.
+5. [Prospect]  Mhmm. Yeah.
+6. [Sales Rep]  We build out a Salesforce integration. It's pretty easy to to connect. And, typically, your reps can 3 to 5 x the number of dials they're making and have, I don't know, like, 10, 20 conversations in an hour. Is that any more relevant August?
+7. [Prospect]  I mean, yeah, it would definitely be relevant. I mean, I sent them the information. They they've they've done something with Outreach, but I think part of our situation is Our Salesforce is a doggone mess, and, like I said, I sent it to my VP to to take a look, Let them know what it was about, and, I think they're taking their time in right now, personally, because we're integrating something else. So, I can forward the information to them again because I know we definitely need higher contact rates, but, I think there would have to be some some back end work on our end, I think, in order to clean up the database and make it relevant.
+8. [Sales Rep]  Yeah. That makes sense. And this is a total shot in the dark here, Ivan, but,
+9. [Prospect]  K.
+10. [Sales Rep]  Just curious if you'd be open to, like, a quick 20 minute demo. We could show you how everything works. I know you're not the decision maker, but my account executive is pretty good. If, you know, if it's interesting and it looks helpful, he'd be pretty good with multithreading your VPN. And if it doesn't look interesting and we can't help, then, you No. It's no skin off our back. It'd just be, like, 20 minutes.
+11. [Prospect]  So let me ask you this. Do you guys, do the demo and record it, like, on Teams? Can I get the recording if we do that type of type of setup? Because That would be relevant to be able to share and show. And I know I know, like most AEs, you'd rather have, like, the the the DMs on the call. But, you know, the public says
+12. [Sales Rep]  Yeah. So we could
+13. [Prospect]  go ahead.
+14. [Sales Rep]  Yeah. We can we we can record that for you, and then we can, you can send that over to the the VP. That wouldn't be an issue.
+15. [Prospect]  Okay. Got you. Okay. So
+16. [Sales Rep]  So my my account executive, he's been trying to crack into this account for a while, so he'd be happy just to chat with you and get, like, a better laid of land if that makes sense.
+17. [Prospect]  So okay. Now you guys have a platform that integrates with Salesforce. You're talking about,
+18. [Sales Rep]  Yeah. We entered into the outreach as well.
+19. [Prospect]  okay, Outreach and Salesforce. That'll be critical because we have we we own both of those those tools. Let's see. When when when are you guys looking to try to try to link up and and get something done, because I'm I'm a be traveling, like, from Thursday through the end of the month. So I I'm I'm gonna be across the country. I'm a be on the West Coast, and I'm not gonna be really fielding, A lot of these type of calls over, like, the next 2 weeks, man.
+20. [Sales Rep]  Sure. Where where are you headed to?
+21. [Prospect]  I got I got well, I just got back from Atlanta. I'm going to Charlotte on Thursday to San Diego on Friday. I'll be on the West Coast, Until 29th, I'll be in San Antonio, and I'll be back here on the East Coast in Raleigh, on Halloween. So
+22. [Sales Rep]  Yeah. No. You you sound like a busy guy. That sounds like a lot of fun, though. I guess couple couple options for you. So,
+23. [Prospect]  I got it. I got it.
+24. [Sales Rep]  what what time zone are you in right now?
+25. [Prospect]  I'm in Eastern.
+26. [Sales Rep]  Again, shot in the dark here, but I could do 11 Eastern tomorrow if that's available or we could try to meet when you get back. Do you have any preference?
+27. [Prospect]  Let's see. Tomorrow, 11 EST, is my, I have a a set meeting at that time. Do you have anything maybe later on? Let's see. Well, may well, that's super early for you guys. I see you on the West Coast here on Washington. Maybe if you're talking about, like you said 20, 30 minutes, maybe, like, 1 o'clock My time tomorrow could work because, I mean, I I I got some time at that time, which would be, like, 10 years, I don't think.
+28. [Sales Rep]  Let me one second here.
+29. [Prospect]  And I I mean, I got the space later on in the day as well If you wanna try to get it done tomorrow. Because if we get it done tomorrow, I get the recording. I get my my my VP is traveling, but I can get, you know, Teams messages I can share anywhere. You know what I mean? So, like, again, we're trying to we're trying to optimize some things. And I think, you know, if if it works the way it's designed, it you could you could have a play. But, Again, me being the FTR manager, of course, I want more stuff from my team so I can make more money, and they can make more money as well. So, you know, I just make
+30. [Sales Rep]  Yeah. Exactly. Is this how's I could do 5:30 EST. Is that too late for you? We could make sure we can make sure it's 30 minutes or less.
+31. [Prospect]  Okay.
+32. [Sales Rep]  Is that too late for you tomorrow?
+33. [Prospect]  Let's see. I mean, it's not too late. Seriously, I don't do anything like 5:30. But, I mean, we we can do it if that's the only time he has, and then then then yeah. I'll I'll be at the house, so it's not a problem.
+34. [Sales Rep]  Oh, no. I appreciate it. Is your email is it ivan.hammond@indashable.com?
+35. [Prospect]  Yeah.
+36. [Sales Rep]  Okay. Hey. I appreciate I'll send that calendar invite for 5:30 EST, and I appreciate you taking it late so I can send do you like Starbucks or anything like that?
+37. [Prospect]  No. You can worry about it, man. I'm I'm I'm good. Like like I said, I like money, and and we're we're you know, we're trying to do something with tools. And I told my VP that he's a busy guy, and they always juggle chainsaws and bullshit. So, you know, we can we can we can knock this out, man, and, You know, have you, you know, have your AE on his game, you know, as far as the information, and I mean, you know, I don't know how you guys run the offense In terms of, you know, pricing or anything like that, I'm not gonna I'm not gonna grill them. I just want them to, you know, be thorough so I can I can feel confident sending it forward?
+38. [Sales Rep]  Yeah. Sounds good. I'll make sure he's ready. I'll sync with him right after this. Okay?
+39. [Prospect]  Okay. Alright. Cool, man. Look at it. That's all I asked, though. I won't be a hard ass, you know, just, you know, just Tell them, you know, come with it, you know, point the benefits out. That way, when I forward it to, you know, my my higher ups and VP of the world and the the head of world sales and explain, you know, what it could do because we've done some amazing shit without this. And our and if It makes them, you know, clean up our database and so we can optimize and do what what we need to do. It may be worth, you know, a a a deeper dive, brother. I got I got your email too. Got it.
+40. [Sales Rep]  Hey. Right on. I appreciate it. I just sent that invite over. It might have got sent to your spam folder since we haven't emailed before, but awesome.
+41. [Prospect]  No problem, man. Yeah. No. I got it. I got it right now. Let's see. I got the. Yeah. You're on here, so, I know you sound okay. 4 PM, mountain time. This is 5:30 my time. Alright. I will go ahead and accept it.
+42. [Sales Rep]  Awesome. Hey. Looking forward to chatting tomorrow, Ivan.
+43. [Prospect]  Alright. May you take
+44. [Sales Rep]  You too.
+45. [Prospect]  this,

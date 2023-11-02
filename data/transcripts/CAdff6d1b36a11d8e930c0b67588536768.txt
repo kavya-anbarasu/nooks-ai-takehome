@@ -1,0 +1,143 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey there. This is Shar with Nook's. Good afternoon, Mitch.
+3. [Prospect]  Sean with who?
+4. [Sales Rep]  Nook's, Mitch, this is a cold call. I know it's Friday. I'm shooting my shot here. Do you have a quick 30 seconds for me?
+5. [Prospect]  Hey, man. What's going on?
+6. [Sales Rep]  Awesome, dude. Yeah. You know, reaching out because I noticed, obviously, you're the director of business development there at dispatch track. I work for
+7. [Prospect]  I'll go ahead and save your time, man. I'm leaving dispatch Track. I'm moving over to another company here in about 2 weeks. I'm a be starting up their business development. So Right now, I'm not a good prospect for you, but why don't you tell me a little about what you do because I'm definitely looking to build out the tech stack there, and I'm always open to learn about new things that are out there.
+8. [Sales Rep]  Right on, man. Right on. So, essentially, what we're doing is we're a live conversation platform that gets your reps into more conversations. Think of it as like a
+9. [Prospect]  Okay. So, like
+10. [Sales Rep]  yeah. Go ahead.
+11. [Prospect]  Go ahead. So you're like a dialer?
+12. [Sales Rep]  Exactly. It's a dialer and a virtual sales floor for, like, the collaboration piece of it.
+13. [Prospect]  Or Does it have a conversational intelligence piece, kind of like a gong or a chorus as well as a dialer?
+14. [Sales Rep]  The calls do get recorded. Absolutely. You do see the transcripts of the call as well as far as, like, you being a leader. You could chat. You could tell them, hey. Try saying this. You know, there is a really cool Cool. Virtual collaboration piece of it if you have a remote team. The new place that you're going, right, is that kinda what you might be building up?
+15. [Prospect]  Yeah. I mean, I'm on our remote team. I mean, I'm gonna go full sales cycle after I get the thing kinda ramped up. I'm a hire some folks. But, You know, I've used some dialers in the past, and some were complete shit, and some were actually really awesome.
+16. [Sales Rep]  Yeah.
+17. [Prospect]  Orem was a great, great tool. I don't know Hey. Kinda stack it compared to Orem. They're expensive, but they had some really cool features like, the the ability to, to do multiple calls at once Simultaneously,
+18. [Sales Rep]  Yep.
+19. [Prospect]  it connects you with whoever answers so you can kinda, you know, shred through your call log really, really quick and also do it within time windows to where you need to actually call people. So I found that beneficial anyway. There's some good good, analytics behind it too, around, like, Talk times and objections and things objections, things like that. Do you guys do that sort of stuff?
+20. [Sales Rep]  Get ready for this. I actually used to work for Orem for about a year and a half. I was one of their top performers and,
+21. [Prospect]  Okay
+22. [Sales Rep]  yes, joined Nook's because of exactly what you're saying. Same features here, probably even faster iteration when it comes to Making things, adding things to the platform. Everything that I I actually am using the platform right now and I was using the dialer Connected with you. I see all your pertinent information in front of my screen.
+23. [Prospect]  I won't give you a heads up. You came as Potential spam, but
+24. [Sales Rep]  Oh, okay. I gotta change I gotta change my number.
+25. [Prospect]  from an 818 just to give you a heads up, man. I don't have I'd look out for that, so I make my Never have an SDR team. I haven't checked that pretty frequently, but, yeah, man, you might wanna switch that up.
+26. [Sales Rep]  Yeah, I made a few, a couple of 100 dials today, so I got to change that number. But the idea is the same thing here as far as, yeah, more conversations in less time. Look, it sounds like there might be of interest. Do you would you be opposed for just like a 15 minute quick show you the UI? No, like, Promises on using the platform just more or less just showing you how it works.
+27. [Prospect]  Yeah. Yeah. That's cool. I mean, yeah, I'll I'll check it out.
+28. [Sales Rep]  Yep.
+29. [Prospect]  I will have a budget, and I will have the opportunity to build out that stack. I mean, it's gonna probably be about a month Time frame from now.
+30. [Sales Rep]  Yeah.
+31. [Prospect]  But, I mean, yeah, I'm all I'm all open to that. Why don't you connect me on LinkedIn? I'll get you a meeting. You're compensated on those. Yeah. I'll check it out. I mean, like, this moment, no. I'm not a good prospect, but I will be in, you know, next month. And I'm gonna be doing my due diligence and, you know, Orem was something I was definitely gonna be looking into. So,
+32. [Sales Rep]  Yeah.
+33. [Prospect]  I mean,
+34. [Sales Rep]  Yeah.
+35. [Prospect]  they're expensive As hell, no, man. I mean, compared to most dialing, here's what. They're definitely they're top dollar, but, I mean, it works. It it does what it's supposed to do, at least. I mean, our connection rate went up Substantially once I brought that on. So
+36. [Sales Rep]  Yep.
+37. [Prospect]  it was,
+38. [Sales Rep]  Right on. Is that what they're using right now at, dispatch track? Is that what you just said?
+39. [Prospect]  definitely good. No. No. There's there's a different group, and they got rid of all the stuff that was working. They completely fucked everything up to be completely frank. They're thinking stiff, dude. I'm so glad to be out of there. But,
+40. [Sales Rep]  Gotcha. I appreciate being honest.
+41. [Prospect]  this new place, yeah.
+42. [Sales Rep]  Cool, man. Well, is it is it too early for me to just throw something on your calendar, or you don't have the email ready, or what would you prefer?
+43. [Prospect]  No. I don't have an email with them yet. I literally just I mean, they got me an For today, so I don't have an email active with it yet. I mean, you can send it to my Gmail if you want, and I can check it out. I mean,
+44. [Sales Rep]  Yeah. Yeah.
+45. [Prospect]  You know, it'd probably be better. Why don't,
+46. [Sales Rep]  If it's alright with you yeah. Yeah. Go ahead.
+47. [Prospect]  so let's see. I know it's the end of the month. You probably wanna tag a meeting on there, but, You know?
+48. [Sales Rep]  You read my mind.
+49. [Prospect]  Alright. Yeah, man. If you want, let's do it. I'll check it out.
+50. [Sales Rep]  Alright. You you tell me what works.
+51. [Prospect]  You need it do you need it to fit this month?
+52. [Sales Rep]  I'm actually an AE. So I don't necessarily need to, but, you know, it always helps the numbers. But
+53. [Prospect]  Oh, okay. Got you, man.
+54. [Sales Rep]  What do you prefer? I don't wanna be pushy here. I I wanna respect.
+55. [Prospect]  Well, here, I think we'll do we'll do the AE, man. It'll it'll be more beneficial you to, to review that whenever I'm with my head of sales because I'm gonna be in Croatia,
+56. [Sales Rep]  Okay.
+57. [Prospect]  October 16th. And that's whenever we're gonna be building out all the operations, integrating the tech stack They currently have. And also looking into some you know, exploring other vendors and things like that once we get ramped up. So it'd be beneficial if we Then then I you know, we could do a call with the whole team.
+58. [Sales Rep]  Yeah. Yeah. 100%. So do you prefer, like, 17, 16th, or should we wait until maybe you're you're starting and then we'll try to get a time going?
+59. [Prospect]  Yeah. Let's do 16th. I'm really I'm starting the 8th. We got a trade show and stuff, so We'll have a little bit of time under my belt, but it'd probably better to do, like, the week of, like, 23rd. Maybe, like, 24th
+60. [Sales Rep]  Okay.
+61. [Prospect]  would probably be a good time.
+62. [Sales Rep]  Let me see here. The 24th. Perfect. I'm PST, so Let me know
+63. [Prospect]  Yeah. I mean, they're they're they're 9 hours ahead.
+64. [Sales Rep]  what oh, shit. What about,
+65. [Prospect]  Probably,
+66. [Sales Rep]  Yeah. I'm try I'm trying to see here. So I'm a I'm
+67. [Prospect]  8 AM your time. 9 AM your time.
+68. [Sales Rep]  a be 6 AM my time. What is that? What is that? That's probably hold on. So you're 1 hour ahead of London. 6 AM. My time is 3 PM your time
+69. [Prospect]  Okay. I mean, dude, we we can do 4 so you don't have to be up at freaking 5:38, isn't it?
+70. [Sales Rep]  in Croatia. Alright. You're a legend. What's a what's a good email for me to just send it to the Gmail and then we'll switch this over?
+71. [Prospect]  Yeah. It's, Mitcham, m I t c h e m, Cruz, krose@gmail.com. Why don't you connect with me on 10th.
+72. [Sales Rep]  Yeah. I'm I'm at my limit for this week. I've been doing such heavy outbound, but as soon as Monday comes around, I will I got you, Mitch. My name is Shar Davouti. You won't you won't miss my name. It's easy. Yeah.
+73. [Prospect]  Just a second. Cool, man. Hey. What do you wanna do? So what's the kind of differentiator,
+74. [Sales Rep]  Alright.
+75. [Prospect]  I mean, between you and you and. What what do you like to hear about it?
+76. [Sales Rep]  Yeah. Honestly, like, bridge time is is a big one. The UI, it's a lot more simpler, and we have, like, LinkedIn embedded into Nook's, where it's like you don't have to worry about the Pop up opening, like, other tabs that's in front of your face. I think that's been
+77. [Prospect]  Okay.
+78. [Sales Rep]  that's been my biggest, like, holy crap, like yeah.
+79. [Prospect]  Yeah. Yeah. That was that was definitely a complaint from the team that I did get about Orem as well. Also, kinda like that lag time in between the connecting of calls was kind of an issue with them too.
+80. [Sales Rep]  Yeah. I mean, you know, it occasionally happens if it doesn't
+81. [Prospect]  But That's gonna happen, though. Let me ask you this. Do you got the integration with Outreach that Orum had?
+82. [Sales Rep]  yeah. Yeah. Yeah. Hell yeah. Of course. That's our best one.
+83. [Prospect]  Okay. Alright. Cool. Good. Because they're They're gonna be running outreach over there. They got the ZoomInfo, and they have,
+84. [Sales Rep]  Yeah. Yeah. Nice.
+85. [Prospect]  freaking what was the other one. We're gonna probably add Chorus AI, the conversational intelligence piece that ZoomInfo acquired. We're probably gonna get that activated within ZoomInfo as well. And then They use Salesforce. So, obviously I mean, why would you not have a Salesforce Salesforce integration? That's kinda like
+86. [Sales Rep]  Yeah.
+87. [Prospect]  Bare minimum.
+88. [Sales Rep]  Yep.
+89. [Prospect]  But, yeah, the fact you have the outreach integration, great, that bridge time. Is that what you're talking about whenever kind of like that?
+90. [Sales Rep]  Yep. Exactly.
+91. [Prospect]  Time to connect. Okay. Cool. Yeah. Because that was definitely I mean, if the team bitched about one thing, that was definitely it. No. It just sounds like I'm freaking like a robocall or something.
+92. [Sales Rep]  Yeah.
+93. [Prospect]  So
+94. [Sales Rep]  Yeah. Yeah. And to your point, you kind of nailed it. Like, it does occasionally happen, but that's only when it's not like Clean. Hello. Or you can't really hear what's on the other side. And, you know, they they have this thing that's called Magic Connect. I don't wanna feature them. I feel like,
+95. [Prospect]  Okay.
+96. [Sales Rep]  I feel like if I show you on that call. But, Mitch, I I think I got your email incorrect here.
+97. [Prospect]  Yeah.
+98. [Sales Rep]  I have your first name, m I t c h. What's after that?
+99. [Prospect]  Em? So Mitcham and Kruse, k r u s e.
+100. [Sales Rep]  And then Mitcham Mitcham, after the h, is it e like echo, m like Mary?
+101. [Prospect]  So Yep.
+102. [Sales Rep]  That's weird. Midshamcruze@gmail.com. I'm sending it, but it's not coming over.
+103. [Prospect]  Yeah. I've got, yes. Like, my middle name and my last name. Hold on. Let me take a look at LinkedIn here. Hey there, man. What is your number?
+104. [Sales Rep]  Okay. It's gonna be 818. Oh, are you ready?
+105. [Prospect]  Yeah, gotcha.
+106. [Sales Rep]  Yeah. 818, and I got 445 0288.
+107. [Prospect]  Alright. Alright. My bad. Alright. Cool. Hang on.
+108. [Sales Rep]  You just called me. Yeah. That's exciting, man. Congrats on the new gig. I'm excited for you. It seems like, you're gonna be
+109. [Prospect]  Yeah, I appreciate it, man.
+110. [Sales Rep]  a little more hands on and building out the team from scratch.
+111. [Prospect]  Yeah. Yeah. I mean, I've I've built, like, 3 or 4 business development teams. That's gonna be my 4th, actually, I'm built I definitely have a playbook and a tech stack that I prefer and things like that, but, you know, I'm kind of sick of management, to be completely frank. I'm gonna do that for him, and I'm just gonna go into AE role.
+112. [Sales Rep]  I've been hearing that, a lot lately, so
+113. [Prospect]  Yeah. Just I don't know, man. I've got
+114. [Sales Rep]  awesome.
+115. [Prospect]  Priorities. Can't have a kid, bought a house, and stuff like that. Like, I don't want to depend on other people for my commission. I'd rather just take it in my own hands. So
+116. [Sales Rep]  Yeah, man. You're a glorified psychologist at that point. I already know. I've been there. I was leading a team of 7 reps, and I was like, fuck that. Yeah. So I've been there.
+117. [Prospect]  I'm brilliant, man. I thought this might be like, I managed restaurants. I've managed the riverboat. I've managed freaking bars. I've managed multiple tech teams and sales teams. Like, I've heard every Bullshit excuse you could possibly freaking imagine, dude. Like, I'm just like, Ruth of faith in humanity. I'm like, alright. I'm just gonna go into digital to
+118. [Sales Rep]  Yeah.
+119. [Prospect]  Save my sanity and we're not have to go to anger management and stuff like that.
+120. [Sales Rep]  Yep. Yep. Well, cool, man. I just, I sent that over. Do you mind Checking to see if it was delivered,
+121. [Prospect]  Yes. Hold on.
+122. [Sales Rep]  and then if you accept it, then I'll let you happily get off the phone here.
+123. [Prospect]  Gotcha, man.
+124. [Sales Rep]  Alright. Cool.
+125. [Prospect]  Go ahead. Accept it.
+126. [Sales Rep]  Legend. Legend.
+127. [Prospect]  You wanna do the iPhone? I'll go do it on my MacBook here in a minute, but should be locked in.
+128. [Sales Rep]  Alright. Cool, man. Well, hey, I appreciate the shot here. Thanks for hearing me out. Excited to see everything here and then chat with you here in a few weeks.
+129. [Prospect]  Yeah. Definitely. Please say you know when he went Build out some stuff, and then we'll start looking at other programs. And then, you know, hopefully, that'll be around that time for the week. If not, I'll let you know. We can always schedule it Couple weeks out.
+130. [Sales Rep]  Of course. Of course.
+131. [Prospect]  Yeah. But, yeah, definitely check out that. I've got some new dialers. I've personally witnessed the, the impact of the connection rate if you have a dialer,
+132. [Sales Rep]  Of course. It was. Yeah.
+133. [Prospect]  So, I mean, shit. Cold calling is definitely not dead. Whatever the hell they say.
+134. [Sales Rep]  Hell, no. Yeah. They're just not doing it right.
+135. [Prospect]  I mean, dude, that's how we get our opportunities. So
+136. [Sales Rep]  This is this is a prime example. This is prime example.
+137. [Prospect]  Cool, man.
+138. [Sales Rep]  Hey. What's the name of the company? So I put it in my name if you can share.
+139. [Prospect]  Yeah. Optimo routes, The Croatian company.
+140. [Sales Rep]  Optimo route.
+141. [Prospect]  Yeah. One word.
+142. [Sales Rep]  Optimal route. Okay. Alright, bro. Thank you so much, Mitch. Chat soon, and have a safe flight to Croatia.
+143. [Prospect]  Yeah. Take it easy, man.

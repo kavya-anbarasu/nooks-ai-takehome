@@ -1,0 +1,9 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Josh. Skyler with Nook's. I was just hoping for 30 seconds real quick. Might be in the wrong place here, but saw you were a director of biz dev. Do your reps make cold calls by any chance or is that kind of out of your purview?
+3. [Prospect]  Where are you calling from?
+4. [Sales Rep]  Yeah. It's a company called Nook's. Essentially, if your reps are struggling to get, like, connecting conversations on the phone, We can help them have, like, 10 to 20 combos per hour. Basically, instead of listening to the phone ring, they'll spend more time talking to prospects. Is that relevant at all, or is that, like, Just not a challenge today.
+5. [Prospect]  It is. But it's, we're a very small organization. That's me and one other salesperson. So,
+6. [Sales Rep]  Okay.
+7. [Prospect]  the The likelihood that the tool fits our organization is pretty small. There are some other solutions on my wish list before We move to something like, like yours.
+8. [Sales Rep]  Hey. No no worries. I appreciate you taking my call, Josh.
+9. [Prospect]  Yeah. Not a problem,

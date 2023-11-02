@@ -1,0 +1,14 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hey, Olivia.
+3. [Prospect]  Hi.
+4. [Sales Rep]  Hi, Olivia. It's, it's Cameron over at Nook's. I'll be totally frank. It's a cold call. Do you have 30 seconds to hear me out? See if it makes sense to chat.
+5. [Prospect]  I actually don't. I'm on a call at the moment with one of my employees. I'm sorry.
+6. [Sales Rep]  Okay. No worries. Is there a time where I might catch you for a quick moment?
+7. [Prospect]  What what is Nook's exactly?
+8. [Sales Rep]  So we are a virtual sales floor and dialer is, is cold calling an important piece of your own kind of top of funnel pipe
+9. [Prospect]  It's actually not, and I'm not a decision maker. So I have no, no kind of buying power. So, unfortunately, not.
+10. [Sales Rep]  Okay. Well, that that's helpful. Is that is that because you manage inbound or would you say that, like, precisely operates, You know, the the whole FCR team operates outside of cold calling.
+11. [Prospect]  Can you email me? Sorry. I just have to jump back into this call.
+12. [Sales Rep]  Yes. You bet. Yeah. You bet. Absolutely.
+13. [Prospect]  Thanks so much.
+14. [Sales Rep]  Thanks, Olivia. Yeah. Take care.

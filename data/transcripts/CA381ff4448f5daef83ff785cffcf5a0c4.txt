@@ -1,0 +1,39 @@
+1. [Sales Rep]  Hey. Is this Joey?
+2. [Prospect]  Hey. Sorry. This is Joey. Yeah. Sorry. Just I was trying to walk out of the cop shop.
+3. [Sales Rep]  No worries. No worries, Joey. Hey. This is Daniel. I'll be totally honest. I'm Daniel with Nook. I'm just giving you a cold call. I'm just I'm wondering if you'll give me a few moments.
+4. [Prospect]  Yeah. Yeah, man. Go ahead.
+5. [Sales Rep]  Yeah. I appreciate that, man. So I see here that you're one of the SDR managers at JumpCloud. You've been there for about a year 5 months at this point. I was actually in Charlotte not too far from where you are not too long ago. And the reason I'm calling you is because We actually help a lot of SDR managers with 2 main things. 1 is making it easier to have a stronger outbound culture, in a remote or hybrid work environment. The other is just making the dials that they're doing a lot more efficient with our AI. Basically, Low connect rates is what they struggle with and we help them get way more conversations in spite of the low connect rates. Do either of those things sound relevant to you?
+6. [Prospect]  Yeah, man. Based on that so, like, just to kinda give you a little bit of insight. Right now, currently, there's 3 SDR managers for JumpCloud. Right? We have a direct SDR manager. His name's Dustin, then you have myself, and then, so I lead the partner team. And then we have an international, SDR manager as well. Her name is Manuela. Currently, Our tech stack is we we use the softphone through Outreach, so we use Outreach. We have Gong. So it's integrated into Gong, and it's also we have Salesforce as our CRM. So based on that, what does Nook's offer That could be a competitive advantage or help increase the outbound motion.
+7. [Sales Rep]  Yeah. For sure. So this is this is basically what we do. We use Outreach too. So It pulls in all of your outreach call tasks that they're supposed to make in outreach. And then, you're using our dialer with it dialing multiple people at once. And so if your connect rate is, you know, under 10%, usually that's what it is. It's dialing for you and then an AI determines If you picked up or not. That's actually how you and I got connected just now. And so to put it in context, over the past 30 minutes, I've literally made like Sixty ish calls probably. I didn't make them myself. 1 by 1, Nook's does it for me and I've had way more conversations just like this one in a much Shorter period of time. That's all through the integration with Outreach and then it does send all the reporting to Salesforce Since you have Salesforce as your CRM and then you actually don't even need Gong anymore, you can replace those SDR seats Because this call is getting analyzed with our AI for objection intelligence and our an objection report.
+8. [Prospect]  Okay. And then, I'm assuming that, like, it would mirror the Outreach. So you have, like, reporting on some Nook, so it would mirror, like, the call outcomes and Outreach.
+9. [Sales Rep]  Exactly. So they don't have to double dip.
+10. [Prospect]  Gotcha. Gotcha. Okay. And then, now what is, like, the pushback based on from your instance, like, Since you used the dialer, you said of, like, the the hesitation gap of, like, picking it up and then you as a person being able to say hello. Do you see a big difference of people pushing back on that? Or, like, what's your experience?
+11. [Sales Rep]  Not really. Like, it's kind of the same thing that that people are already doing. It's just They're doing they're getting through more calls faster and getting to the next pickup a lot sooner. So, therefore, they're just able to have way more pickups that they can turn into meetings.
+12. [Prospect]  Yeah. I guess my question was, so when you do get a pickup And there's a split second, like, hesitation because the AI is saying, okay, this got picked up. Let me transfer the call to you.
+13. [Sales Rep]  I see what you're
+14. [Prospect]  Has there been any pushback on that front from prospects?
+15. [Sales Rep]  for dialers in general, people have that concern. But what people tend to find, like, Seismic if you're familiar with Seismic, the sales enablement Platform. They originally thought that about dialers, but then we cold called them. They didn't experience that at all. I don't think you experienced it when I called you. And that's why
+16. [Prospect]  No. Okay. Sweet. Alright.
+17. [Sales Rep]  people love
+18. [Prospect]  Trying to think if I had any other questions about it. Yeah. I mean, I mean, it sounds interesting, especially because here at JumpCloud, that's a big initiative For us is to grow the outbound motion. And it's been a challenge of mine, specifically, of having the SDRs hit their Minimum daily call metrics. So I think this would possibly help out on that front Of being able to actually, you know, with a little bit of ease of actually hitting those k daily call metrics. So now with the dialer, this is just from your experience. Like, because right now on my team, I implement because we're doing everything manually pretty much. Right?
+19. [Sales Rep]  Yeah. Yeah.
+20. [Prospect]  So I implement, like, a 60 day call minimum. But for a dialer, like, what is what is your call minimum per day look like?
+21. [Sales Rep]  Mhmm. So my minimum, like so I'm actually I'm also an AE. I'm just also coaching our SDRs today. They can, They're actually listening in because we have a virtual co working space. So my minimum I mean, I guess, I can crank out, like, 200 calls in an hour, hour and a half Because I'm using NUCs. And I'm an AE. I'm not even a full time SDR. You know what I mean?
+22. [Prospect]  Yeah. Yeah. So if you were actually spending 80% of your time calling
+23. [Sales Rep]  Yeah. And so it's it's awesome because, like, all these software companies very similar to you guys, what they always say is not only can we do these dials more quickly, but Now we have way more time for LinkedIn, for email, that sort of thing. Probably I mean, at this point, Joey, why don't we just show you? You have 15 minutes tomorrow.
+24. [Prospect]  There we go. There's the close I was waiting for. Yeah, man. Let me see.
+25. [Sales Rep]  Yeah. Let's, can you do 2:30 eastern?
+26. [Prospect]  I was just alright. Let me see here. So 230 Eastern yeah, man.
+27. [Sales Rep]  Okay. Awesome. Let me see here. I've got so, I still seem to have your your, Ignite email. What's your new your
+28. [Prospect]  Okay.
+29. [Sales Rep]  your your JumpCloud email?
+30. [Prospect]  Yeah. So it's joey.batowski.sojoey.mylastname, tasintom, k o s k I
+31. [Sales Rep]  Okay. Perfect. I figured just wanna make double sure. Cool. You mind if we just make that 30? We then we can go over the reporting and all the other stuff you were asking about.
+32. [Prospect]  atjumpcloud.com. Yeah. A 100%.
+33. [Sales Rep]  Okay. Cool. So I'm just gonna send this out right now.
+34. [Prospect]  Yeah. There you go. Now for all the SDRs listening, this isn't all these calls aren't easy. I'm a pushover. No. I'm not. But it no. It doesn't make it it is interesting, and I and it does sound good. But alright. Yep. So I received it. Daniel with 2 n's.
+35. [Sales Rep]  Cool. That's right. Then it's just in case.
+36. [Prospect]  No. You didn't. Hey. You can't have too many ins. There you go. Alright. Sweet. So let me go ahead and See now, this is the part where you say, hey. Can you confirm that for me? So I blocked out the calendar. I confirmed it. I accepted it. It's showing up.
+37. [Sales Rep]  Love it, Joey. Appreciate your time. Honestly, like, everything you said is Exactly what we helped so many orgs with. So I'm really excited about chatting tomorrow and actually showing you the tool in action.
+38. [Prospect]  Yeah, man. Sounds great. I appreciate it very much.
+39. [Sales Rep]  Yeah. Thanks, man. Take care,

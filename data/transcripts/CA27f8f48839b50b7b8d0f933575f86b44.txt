@@ -1,0 +1,9 @@
+1. [Prospect]  Hello?
+2. [Sales Rep]  Hi. Is this John?
+3. [Prospect]  Yes. This is John.
+4. [Sales Rep]  John. Hey, John. This is Daniel with Nook's. I'm actually so I'm actually seeing that you're an account manager. I was normally intending to target sales development folks. We're an AI that Makes reps not have to do any cold calling, and it just multiplies the amount of conversations that they get from the phone because it does it all for them. Do you know who the right person would be to speak with about that at SolarWinds?
+5. [Prospect]  Probably, like, on the marketing side. Like, I can't really, like, implement anything like that in the system without, like, getting approved and stuff, so it'd probably have to be, like, I guess, I'm on the marketing side, I would assume.
+6. [Sales Rep]  Okay. Got it. Are you guys using anything like Outreach or SalesLoft?
+7. [Prospect]  Yeah. We use some of that stuff, but, yeah, you would just, like I said, probably just have to contact the marketing team. Not much more I could do.
+8. [Sales Rep]  Okay. Well, I appreciate that. Take care.
+9. [Prospect]  Yeah.

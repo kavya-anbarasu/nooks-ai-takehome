@@ -1,0 +1,17 @@
+1. [Prospect]  This is Jim. Can I help you?
+2. [Sales Rep]  Hey, Jim. How's it going? How's your Monday going? It's Patrick calling from from Nook.
+3. [Prospect]  Good. Who are you with?
+4. [Sales Rep]  I'm calling from a company called Nooks, and this is totally a cold call. The update I can take can tell you exactly why I'm calling you. And if you hate it, you can feel free to hang up with me. It's only playing, Jim.
+5. [Prospect]  I'm not gonna hang up on you, Good. You're welcome to tell me what you got.
+6. [Sales Rep]  Sounds good. So really where we're helping organizations like NetRx is For your team that's making cold calls, we're basically helping increase the amount of activity they can do, so they can increase the amount of Conversations they're having on a daily basis, and giving them more opportunities to book meetings just on a daily basis. And also helping out things like making cold calling fun, using enablement to increase conversion rates on cold calls. So I'm curious, I'm gonna take a step back, Jim. I know you're VP of sales and probably have a 500 foot view of this stuff, but Is cold calling a bitty pretty big piece of your pipeline generation strategy? Or what does that look like for you?
+7. [Prospect]  No. I'd say it's, like, 0%. Thankfully, Hang on one second. No. Thankfully, I'm so busy. I can't even hardly keep up. So
+8. [Sales Rep]  Good problem to have.
+9. [Prospect]  I'm really honest. But, you know, things could change at any point in time in this crazy market. But, no. I'm just running behind
+10. [Sales Rep]  Yeah.
+11. [Prospect]  Constantly at this point. So
+12. [Sales Rep]  I gotcha. I got you, Jim. So it sounds like it's not super relevant right now, except it is yeah. Yeah. I mean, just some thoughts are relevant. I thought that you're in Laguna Niguel though. My parents are in Dana Point, so not Too far off. So we're actually, like, almost neighbors when I'm down there.
+13. [Prospect]  I gotcha.
+14. [Sales Rep]  Yeah, man. Alright, man. Well, I'll let you I'll let you go ahead.
+15. [Prospect]  No. But I'm I'm sure some people will be able to benefit from what you got. I'm just, you know, thankfully not at that point right now, but I wish you luck with it.
+16. [Sales Rep]  Yeah. Appreciate it, Jim. You have a good rest of your day. Cheers.
+17. [Prospect]  Alright. Have a good one.
